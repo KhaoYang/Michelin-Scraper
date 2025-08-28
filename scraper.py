@@ -1,9 +1,11 @@
+#import selenium yay
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
 
+#Website URL
 CHROMEDRIVER_PATH = r"C:\Users\kevin\OneDrive\Desktop\chromedriver\chromedriver-win64\chromedriver.exe"
 URL = "https://guide.michelin.com/us/en/restaurants"
 
@@ -17,8 +19,6 @@ service = Service(CHROMEDRIVER_PATH)
 driver = webdriver.Chrome(service=service, options=options)
 driver.get(URL)
 time.sleep(5)
-import sys
-
 def get_restaurant_links():
 	last_height = driver.execute_script("return document.body.scrollHeight")
 	scroll_attempts = 0
@@ -51,19 +51,23 @@ def get_address():
 			text = elem.text.strip()
 			if "," in text and any(city in text for city in ["Chicago", "New York", "Los Angeles", "San Francisco", "USA"]):
 				return text
-		return "Address not found"
+		return "ADDRESS WHERE????????????????"
 	except Exception:
-		return "Address not found"
-
+		return "ADDRESS WHERE????????"
+#ahhhhhhhhhhhhhhhhhhhhhhhhh
 all_restaurants = []
 driver.get(URL)
-time.sleep(5)
+time.sleep(3)
 restaurants_page1 = get_restaurant_links()
-driver.get("https://guide.michelin.com/us/en/restaurants/page/2")
-time.sleep(5)
-restaurants_page2 = get_restaurant_links()
-
-all_restaurants = restaurants_page1 + restaurants_page2
+all_restaurants += restaurants_page1
+for i in range(2, 4):
+	time.sleep(3)
+	driver.get("http://guide.michelin.com/us/en/restaurants/page/" + str(i))
+	restaurants_page2 = get_restaurant_links()
+	all_restaurants += restaurants_page2
+#driver.get("https://guide.michelin.com/us/en/restaurants/page/2")
+#time.sleep(5)
+#all_restaurants = restaurants_page1 + restaurants_page2
 
 results = []
 for name, href in all_restaurants:
