@@ -54,6 +54,17 @@ def get_address():
 		return "ADDRESS WHERE????????????????"
 	except Exception:
 		return "ADDRESS WHERE????????"
+	
+def get_cuisine():
+	try:
+		elems = driver.find_elements(By.CSS_SELECTOR, "div.data-sheet__block--text")
+		for elem in elems:
+			text = elem.text.strip()
+			if "$" in text or "€" in text or "£" in text:
+				return text
+		return "CUISINE WHERE!!!!!!!!!!!!!!!!"
+	except Exception:
+		return "CUISINE WHERE!!!!!!!!"
 #ahhhhhhhhhhhhhhhhhhhhhhhhh
 all_restaurants = []
 driver.get(URL)
@@ -74,7 +85,8 @@ for name, href in all_restaurants:
 	driver.get(href)
 	time.sleep(3)
 	address = get_address()
-	results.append((name, address))
-	print(f"{name}: {address}")
+	cuisine = get_cuisine()
+	results.append((name, address, cuisine))
+	print(f"{name}: {address} / {cuisine}")
 
 driver.quit()
