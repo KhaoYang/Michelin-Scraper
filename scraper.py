@@ -71,7 +71,7 @@ driver.get(URL)
 time.sleep(3)
 restaurants_page1 = get_restaurant_links()
 all_restaurants += restaurants_page1
-for i in range(2, 5):
+for i in range(2, 380):
 	time.sleep(3)
 	driver.get("http://guide.michelin.com/us/en/restaurants/page/" + str(i))
 	restaurants_page2 = get_restaurant_links()
