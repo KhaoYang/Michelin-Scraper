@@ -65,28 +65,65 @@ def get_cuisine():
 		return "CUISINE WHERE!!!!!!!!!!!!!!!!"
 	except Exception:
 		return "CUISINE WHERE!!!!!!!!"
+	
+def get_coordinates():
+    try:
+        # First, try to find coordinates on the main page
+        elems = driver.find_elements(By.CSS_SELECTOR, "div.place-name")
+        print("DEBUG: Found div.place-name elements on main page:")
+        for elem in elems:
+            text = elem.text.strip()
+            print(f"DEBUG: Text: {text}")
+            if "N" in text or "W" in text or "E" in text or "S" in text:
+                return text
+        # If not found, try all iframes
+        iframes = driver.find_elements(By.TAG_NAME, "iframe")
+        print(f"DEBUG: Found {len(iframes)} iframes.")
+        for idx, iframe in enumerate(iframes):
+            try:
+                driver.switch_to.frame(iframe)
+                elems = driver.find_elements(By.CSS_SELECTOR, "div.place-name")
+                print(f"DEBUG: Found div.place-name elements in iframe {idx}:")
+                for elem in elems:
+                    text = elem.text.strip()
+                    print(f"DEBUG: Text: {text}")
+                    if "N" in text or "W" in text or "E" in text or "S" in text:
+                        driver.switch_to.default_content()
+                        return text
+                driver.switch_to.default_content()
+            except Exception as e:
+                print(f"DEBUG: Exception in iframe {idx}: {e}")
+                driver.switch_to.default_content()
+        return "COORDINATES WHERE!!!!!!!!!!!!!!!!"
+    except Exception as e:
+        print(f"DEBUG: Exception in get_coordinates: {e}")
+        return "COORDINATES WHERE!!!!!!!!"
 #ahhhhhhhhhhhhhhhhhhhhhhhhh
 all_restaurants = []
 driver.get(URL)
 time.sleep(3)
 restaurants_page1 = get_restaurant_links()
 all_restaurants += restaurants_page1
-for i in range(2, 380):
+
+"""
+for i in range(2, 4):
 	time.sleep(3)
 	driver.get("http://guide.michelin.com/us/en/restaurants/page/" + str(i))
 	restaurants_page2 = get_restaurant_links()
 	all_restaurants += restaurants_page2
 #driver.get("https://guide.michelin.com/us/en/restaurants/page/2")
+"""
 #time.sleep(5)
 #all_restaurants = restaurants_page1 + restaurants_page2
 
 results = []
 for name, href in all_restaurants:
 	driver.get(href)
-	time.sleep(3)
+	time.sleep(5)
 	address = get_address()
 	cuisine = get_cuisine()
-	results.append((name, address, cuisine))
-	print(f"{name}: {address} / {cuisine}")
+	coordinates = get_coordinates()
+	results.append((name, address, cuisine, coordinates))
+	print(f"{name}: {address} / {cuisine} : {coordinates}")
 
 driver.quit()
