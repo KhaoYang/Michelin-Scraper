@@ -66,38 +66,7 @@ def get_cuisine():
 	except Exception:
 		return "CUISINE WHERE!!!!!!!!"
 	
-def get_coordinates():
-    try:
-        # First, try to find coordinates on the main page
-        elems = driver.find_elements(By.CSS_SELECTOR, "div.place-name")
-        print("DEBUG: Found div.place-name elements on main page:")
-        for elem in elems:
-            text = elem.text.strip()
-            print(f"DEBUG: Text: {text}")
-            if "N" in text or "W" in text or "E" in text or "S" in text:
-                return text
-        # If not found, try all iframes
-        iframes = driver.find_elements(By.TAG_NAME, "iframe")
-        print(f"DEBUG: Found {len(iframes)} iframes.")
-        for idx, iframe in enumerate(iframes):
-            try:
-                driver.switch_to.frame(iframe)
-                elems = driver.find_elements(By.CSS_SELECTOR, "div.place-name")
-                print(f"DEBUG: Found div.place-name elements in iframe {idx}:")
-                for elem in elems:
-                    text = elem.text.strip()
-                    print(f"DEBUG: Text: {text}")
-                    if "N" in text or "W" in text or "E" in text or "S" in text:
-                        driver.switch_to.default_content()
-                        return text
-                driver.switch_to.default_content()
-            except Exception as e:
-                print(f"DEBUG: Exception in iframe {idx}: {e}")
-                driver.switch_to.default_content()
-        return "COORDINATES WHERE!!!!!!!!!!!!!!!!"
-    except Exception as e:
-        print(f"DEBUG: Exception in get_coordinates: {e}")
-        return "COORDINATES WHERE!!!!!!!!"
+
 #ahhhhhhhhhhhhhhhhhhhhhhhhh
 all_restaurants = []
 driver.get(URL)
@@ -117,13 +86,17 @@ for i in range(2, 4):
 #all_restaurants = restaurants_page1 + restaurants_page2
 
 results = []
+result_dict = []
+
 for name, href in all_restaurants:
 	driver.get(href)
-	time.sleep(5)
+	time.sleep(3)
 	address = get_address()
 	cuisine = get_cuisine()
-	coordinates = get_coordinates()
-	results.append((name, address, cuisine, coordinates))
-	print(f"{name}: {address} / {cuisine} : {coordinates}")
+	dic = {"name": name, "address": address, "cuisine": cuisine}
+	result_dict.append(dic)
+	results.append((name, address, cuisine))
+	#print(f"{name}: {address} / {cuisine} ")
+	print(result_dict)
 
 driver.quit()
