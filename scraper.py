@@ -7,6 +7,8 @@ import time
 import requests
 import os
 from dotenv import load_dotenv
+import csv
+import pandas as pd
 
 load_dotenv()
 
@@ -94,7 +96,7 @@ for i in range(1, 2):
 results = []
 result_dict = []
 
-for name, href in all_restaurants:
+for name, href in all_restaurants[:4]:
 	driver.get(href)
 	time.sleep(3)
 	address = get_address()
@@ -102,7 +104,27 @@ for name, href in all_restaurants:
 	coordinates = get_coordinates(address)
 	dic = {"name": name, "address": address, "cuisine": cuisine, "coordinates": coordinates}
 	result_dict.append(dic)
-	results.append((name, address, cuisine))
-	print(result_dict)
+	print(dic)
+	#results.append((name, address, cuisine))
+	#print(result_dict)
+
+filename = "michelin_restaurants.csv"
+fieldnames = ["name", "address", "cuisine", "latitude", "longitude"]
+with open(filename, mode = 'w', newline = '', encoding = "utf-8") as file:
+	writer = csv.DictWriter(file, fieldnames=fieldnames)
+	writer.writeheader()
+	for entry in result_dict:
+		lat, lon = entry["coordinates"] if entry["coordinates"] else (None, None)
+		writer.writerow({
+			"name": entry["name"],
+			"address": entry["address"],
+			"cuisine": entry["cuisine"],
+			"latitude": lat,
+			"longitude": lon
+		})
+df = pd.read_csv(filename)
+df.to_json("michelin_restaurants.json", orient="records", indent = 2)
+
+
 
 driver.quit()
