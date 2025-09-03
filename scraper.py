@@ -85,21 +85,11 @@ def get_coordinates(address):
 		return None, None
 #ahhhhhhhhhhhhhhhhhhhhhhhhh
 all_restaurants = []
-driver.get(URL)
-time.sleep(3)
-restaurants_page1 = get_restaurant_links()
-all_restaurants += restaurants_page1
-
-"""
-for i in range(2, 4):
-	time.sleep(3)
+for i in range(1, 2):
 	driver.get("http://guide.michelin.com/us/en/restaurants/page/" + str(i))
-	restaurants_page2 = get_restaurant_links()
-	all_restaurants += restaurants_page2
-#driver.get("https://guide.michelin.com/us/en/restaurants/page/2")
-"""
-#time.sleep(5)
-#all_restaurants = restaurants_page1 + restaurants_page2
+	time.sleep(3)
+	restaurants_page1 = get_restaurant_links()
+	all_restaurants += restaurants_page1
 
 results = []
 result_dict = []
