@@ -4,11 +4,16 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
+import requests
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 #Website URL
-CHROMEDRIVER_PATH = r"C:\Users\kevin\OneDrive\Desktop\chromedriver\chromedriver-win64\chromedriver.exe"
+CHROMEDRIVER_PATH = os.getenv("CHROMEDRIVER_P")
 URL = "https://guide.michelin.com/us/en/restaurants"
-
+ACCESS_TOKEN = os.getenv("MAPBOX_TOKEN")
 
 options = Options()
 options.add_argument("--headless")
@@ -66,7 +71,18 @@ def get_cuisine():
 	except Exception:
 		return "CUISINE WHERE!!!!!!!!"
 	
-
+def get_coordinates(address):
+	try:
+		url = f"https://api.mapbox.com/geocoding/v5/mapbox.places/{address}.json?access_token={ACCESS_TOKEN}"
+		response = requests.get(url)
+		data = response.json()
+		if data['features']:
+			lon, lat = data['features'][0]['center']
+			return lat, lon
+		else:
+			return None, None
+	except Exception:
+		return None, None
 #ahhhhhhhhhhhhhhhhhhhhhhhhh
 all_restaurants = []
 driver.get(URL)
@@ -93,10 +109,10 @@ for name, href in all_restaurants:
 	time.sleep(3)
 	address = get_address()
 	cuisine = get_cuisine()
-	dic = {"name": name, "address": address, "cuisine": cuisine}
+	coordinates = get_coordinates(address)
+	dic = {"name": name, "address": address, "cuisine": cuisine, "coordinates": coordinates}
 	result_dict.append(dic)
 	results.append((name, address, cuisine))
-	#print(f"{name}: {address} / {cuisine} ")
 	print(result_dict)
 
 driver.quit()
