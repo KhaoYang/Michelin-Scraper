@@ -9,6 +9,7 @@ import os
 from dotenv import load_dotenv
 import csv
 import pandas as pd
+import json
 
 load_dotenv()
 
@@ -125,6 +126,35 @@ with open(filename, mode = 'w', newline = '', encoding = "utf-8") as file:
 df = pd.read_csv(filename)
 df.to_json("michelin_restaurants.json", orient="records", indent = 2)
 
+with open('michelin_restaurants.json') as f:
+    data = json.load(f)
+
+features = []
+for restaurant in data:
+    coords_str = restaurant.get('coordinates', '')
+    # Split into lat/lon
+    parts = coords_str.split(' ')
+    if len(parts) == 2:
+        lat = parts[0]
+        lon = parts[1]
+        if lat is not None and lon is not None:
+            feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [lon, lat]
+                },
+                "properties": {k: v for k, v in restaurant.items() if k != 'coordinates'}
+            }
+            features.append(feature)
+
+geojson = {
+    "type": "FeatureCollection",
+    "features": features
+}
+
+with open('michelin_restaurants.geojson', 'w') as f:
+    json.dump(geojson, f, indent=2)
 
 
 driver.quit()
