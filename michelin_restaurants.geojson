@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.677358,
+          41.917936
+        ]
+      },
+      "properties": {
+        "name": "Mirra",
+        "address": "1954 W. Armitage Ave., Chicago, 60622, USA",
+        "cuisine": "$$ \u00b7 Fusion, Mexican",
+        "latitude": 41.917936,
+        "longitude": -87.677358
+      }
+    }
+  ]
 }
