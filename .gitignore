@@ -1,2 +1,4 @@
 #environment variables
 .env
+michelin_restaurants.csv
+michelin_restaurants.json

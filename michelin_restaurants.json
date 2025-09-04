@@ -5,26 +5,5 @@
     "cuisine":"$$ \u00b7 Fusion, Mexican",
     "latitude":41.917936,
     "longitude":-87.677358
-  },
-  {
-    "name":"Laliko",
-    "address":"80 Carmine St., New York, 10014, USA",
-    "cuisine":"$$ \u00b7 Central Asian",
-    "latitude":40.729436,
-    "longitude":-74.004928
-  },
-  {
-    "name":"Mango Bay",
-    "address":"271 Adelphi St., Brooklyn, 11205, USA",
-    "cuisine":"$$$ \u00b7 Caribbean",
-    "latitude":40.689405,
-    "longitude":-73.970916
-  },
-  {
-    "name":"Taqueria Ching\u00f3n",
-    "address":"817 W. Fulton Market, Chicago, 60607, USA",
-    "cuisine":"$ \u00b7 Mexican",
-    "latitude":41.88656,
-    "longitude":-87.648225
   }
 ]
