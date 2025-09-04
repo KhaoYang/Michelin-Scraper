@@ -4,6 +4,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import requests
 import os
 from dotenv import load_dotenv
@@ -26,7 +28,7 @@ options.add_argument("--window-size=1920,1080")
 service = Service(CHROMEDRIVER_PATH)
 driver = webdriver.Chrome(service=service, options=options)
 driver.get(URL)
-time.sleep(5)
+WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.link[aria-label][href]")))
 def get_restaurant_links():
     last_height = driver.execute_script("return document.body.scrollHeight")
     scroll_attempts = 0
@@ -90,7 +92,7 @@ def get_coordinates(address):
 all_restaurants = []
 for i in range(1, 2):
     driver.get("http://guide.michelin.com/us/en/restaurants/page/" + str(i))
-    time.sleep(3)
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.link[aria-label][href]")))
     restaurants_page1 = get_restaurant_links()
     all_restaurants += restaurants_page1
 
@@ -99,7 +101,7 @@ result_dict = []
 
 for name, href in all_restaurants[:1]:
     driver.get(href)
-    time.sleep(3)
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.data-sheet__block--text")))
     address = get_address()
     cuisine = get_cuisine()
     coordinates = get_coordinates(address)
