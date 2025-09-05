@@ -1,0 +1,4132 @@
+[
+  {
+    "name":"Runner Up",
+    "address":"499 11th St., Brooklyn, 11215, USA",
+    "cuisine":"$$ \u00b7 American, Contemporary",
+    "latitude":40.665678,
+    "longitude":-73.982321
+  },
+  {
+    "name":"TVB by: Pax Romana",
+    "address":"171 E. Post Rd., White Plains, 10601, USA",
+    "cuisine":"$$ \u00b7 Italian, Roman",
+    "latitude":41.029293,
+    "longitude":-73.764908
+  },
+  {
+    "name":"Tatiana",
+    "address":"10 Lincoln Center Plz., New York, 10023, USA",
+    "cuisine":"$$$ \u00b7 Fusion, American",
+    "latitude":40.772772,
+    "longitude":-73.98284
+  },
+  {
+    "name":"Casa Ora",
+    "address":"148 Meserole St., Brooklyn, 11206, USA",
+    "cuisine":"$$$ \u00b7 Venezuelan, Latin American",
+    "latitude":40.70789,
+    "longitude":-73.943755
+  },
+  {
+    "name":"Thai Diner",
+    "address":"186 Mott St., New York, 10012, USA",
+    "cuisine":"$$ \u00b7 Thai, Fusion",
+    "latitude":40.720729,
+    "longitude":-73.995676
+  },
+  {
+    "name":"Clover Hill",
+    "address":"20 Columbia Pl., Brooklyn, 11201, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Latin American",
+    "latitude":40.693151,
+    "longitude":-73.99871
+  },
+  {
+    "name":"Il Fiorista",
+    "address":"17 W. 26th St., New York, 10010, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, Mediterranean Cuisine",
+    "latitude":40.744129,
+    "longitude":-73.989549
+  },
+  {
+    "name":"Don Angie",
+    "address":"103 Greenwich Ave., New York, 10014, USA",
+    "cuisine":"$$$ \u00b7 Italian, American",
+    "latitude":40.737797,
+    "longitude":-74.00201
+  },
+  {
+    "name":"Moody Tongue Sushi",
+    "address":"150 W. 10th St., New York, 10014, USA",
+    "cuisine":"$$$$ \u00b7 Sushi, Contemporary",
+    "latitude":40.734427,
+    "longitude":-74.001191
+  },
+  {
+    "name":"Hav & Mar",
+    "address":"245 Eleventh Ave., New York, 10001, USA",
+    "cuisine":"$$$ \u00b7 Ethiopian, Fusion",
+    "latitude":40.75099,
+    "longitude":-74.00572
+  },
+  {
+    "name":"Boro6 Wine Bar",
+    "address":"549 Warburton Ave., Hastings-on-Hudson, 10706, USA",
+    "cuisine":"$$ \u00b7 Contemporary, Italian",
+    "latitude":40.995014,
+    "longitude":-73.882492
+  },
+  {
+    "name":"Blue Hill at Stone Barns",
+    "address":"630 Bedford Rd., Tarrytown, 10591, USA",
+    "cuisine":"$$$$ \u00b7 American, Contemporary",
+    "latitude":41.09477,
+    "longitude":-73.83731
+  },
+  {
+    "name":"Ammazzacaff\u00e8",
+    "address":"702 Grand St., Brooklyn, 11211, USA",
+    "cuisine":"$$$ \u00b7 Italian, Contemporary",
+    "latitude":40.711393,
+    "longitude":-73.944609
+  },
+  {
+    "name":"Soda Club",
+    "address":"95 Avenue A, New York, 10009, USA",
+    "cuisine":"$$ \u00b7 Vegan, Italian-American",
+    "latitude":40.725646,
+    "longitude":-73.984077
+  },
+  {
+    "name":"Meju",
+    "address":"5-28 49th Ave., Queens, 11101, USA",
+    "cuisine":"$$$$ \u00b7 Korean, Regional Cuisine",
+    "latitude":40.743515,
+    "longitude":-73.955234
+  },
+  {
+    "name":"Ito",
+    "address":"75 Barclay St., New York, 10007, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":40.71312,
+    "longitude":-74.01027
+  },
+  {
+    "name":"Altro Paradiso",
+    "address":"234 Spring St., New York, 10013, USA",
+    "cuisine":"$$$ \u00b7 Italian",
+    "latitude":40.725482,
+    "longitude":-74.004891
+  },
+  {
+    "name":"Van \u0110a",
+    "address":"234 E. 4th St., New York, 10009, USA",
+    "cuisine":"$$ \u00b7 Vietnamese, Modern Cuisine",
+    "latitude":40.723356,
+    "longitude":-73.983109
+  },
+  {
+    "name":"Sushi Nakazawa",
+    "address":"23 Commerce St., New York, 10014, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":40.731746,
+    "longitude":-74.00453
+  },
+  {
+    "name":"Aquavit",
+    "address":"65 E. 55th St., New York, 10022, USA",
+    "cuisine":"$$$$ \u00b7 Scandinavian, Contemporary",
+    "latitude":40.760828,
+    "longitude":-73.97221
+  },
+  {
+    "name":"Kubeh",
+    "address":"464 Sixth Ave., New York, 10011, USA",
+    "cuisine":"$$ \u00b7 Middle Eastern",
+    "latitude":40.735439,
+    "longitude":-73.998025
+  },
+  {
+    "name":"Le B",
+    "address":"283 W. 12th St., New York, 10014, USA",
+    "cuisine":"$$$$ \u00b7 Classic French, Asian",
+    "latitude":40.73766,
+    "longitude":-74.004011
+  },
+  {
+    "name":"Aska",
+    "address":"47 S. 5th St., Brooklyn, 11249, USA",
+    "cuisine":"$$$$ \u00b7 Scandinavian, Contemporary",
+    "latitude":40.712275,
+    "longitude":-73.966483
+  },
+  {
+    "name":"Chavela\u2019s",
+    "address":"736 Franklin Ave., Brooklyn, 11238, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":40.673455,
+    "longitude":-73.957196
+  },
+  {
+    "name":"Foul Witch",
+    "address":"15 Avenue A, New York, 10009, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":40.722774,
+    "longitude":-73.986181
+  },
+  {
+    "name":"Apropos Restaurant at The Abbey Inn",
+    "address":"900 Fort Hill Rd., Peekskill, 10566, USA",
+    "cuisine":"$$$$ \u00b7 American, Contemporary",
+    "latitude":41.292544,
+    "longitude":-73.928894
+  },
+  {
+    "name":"Carne Mare",
+    "address":"89 South St., New York, 10038, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse, Italian",
+    "latitude":40.705739,
+    "longitude":-74.001809
+  },
+  {
+    "name":"L'inizio",
+    "address":"698 Saw Mill River Rd., Ardsley, 10502, USA",
+    "cuisine":"$$$ \u00b7 Italian, Italian-American",
+    "latitude":41.01256,
+    "longitude":-73.847483
+  },
+  {
+    "name":"Caf\u00e9 Mars",
+    "address":"272 3rd Ave., Brooklyn, 11215, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, Italian",
+    "latitude":40.677875,
+    "longitude":-73.985974
+  },
+  {
+    "name":"Phayul",
+    "address":"37-59 74th St., Queens, 11372, USA",
+    "cuisine":"$$ \u00b7 Tibetan",
+    "latitude":40.747342,
+    "longitude":-73.891398
+  },
+  {
+    "name":"Bohemian Spirit",
+    "address":"321 E. 73rd St., New York, 10021, USA",
+    "cuisine":"$$ \u00b7 Czech",
+    "latitude":40.769045,
+    "longitude":-73.956465
+  },
+  {
+    "name":"The Cookery",
+    "address":"39 Chestnut St., Dobbs Ferry, 10522, USA",
+    "cuisine":"$$ \u00b7 Italian, Gastropub",
+    "latitude":41.014175,
+    "longitude":-73.876582
+  },
+  {
+    "name":"The Inn at Pound Ridge",
+    "address":"258 Westchester Ave., Pound Ridge, 10576, USA",
+    "cuisine":"$$$$ \u00b7 American, American Contemporary",
+    "latitude":41.20939,
+    "longitude":-73.5752
+  },
+  {
+    "name":"Al Badawi",
+    "address":"151 Atlantic Ave., Brooklyn, 11201, USA",
+    "cuisine":"$$ \u00b7 Middle Eastern",
+    "latitude":40.690615,
+    "longitude":-73.994987
+  },
+  {
+    "name":"The Commerce Inn",
+    "address":"50 Commerce St., New York, 10014, USA",
+    "cuisine":"$$$ \u00b7 American, Steakhouse",
+    "latitude":40.731358,
+    "longitude":-74.00564
+  },
+  {
+    "name":"Semma",
+    "address":"60 Greenwich Ave., New York, 10011, USA",
+    "cuisine":"$$$ \u00b7 Indian, Regional Cuisine",
+    "latitude":40.736015,
+    "longitude":-74.000578
+  },
+  {
+    "name":"Little Alley",
+    "address":"550 Third Ave., New York, 10016, USA",
+    "cuisine":"$$ \u00b7 Chinese, Shanghainese",
+    "latitude":40.747419,
+    "longitude":-73.977229
+  },
+  {
+    "name":"La Mercerie",
+    "address":"53 Howard St., New York, 10013, USA",
+    "cuisine":"$$$$ \u00b7 French, Contemporary",
+    "latitude":40.720158,
+    "longitude":-74.002216
+  },
+  {
+    "name":"Fasano",
+    "address":"60 E. 49th St., New York, 10017, USA",
+    "cuisine":"$$$$ \u00b7 Italian",
+    "latitude":40.756888,
+    "longitude":-73.975708
+  },
+  {
+    "name":"Ensenada",
+    "address":"168 Borinquen Pl., Brooklyn, 11211, USA",
+    "cuisine":"$$$ \u00b7 Mexican, Seafood",
+    "latitude":40.710501,
+    "longitude":-73.954157
+  },
+  {
+    "name":"Atera",
+    "address":"77 Worth St., New York, 10013, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":40.716887,
+    "longitude":-74.005575
+  },
+  {
+    "name":"La Vara",
+    "address":"268 Clinton St., Brooklyn, 11201, USA",
+    "cuisine":"$$ \u00b7 Spanish",
+    "latitude":40.687805,
+    "longitude":-73.995742
+  },
+  {
+    "name":"Jean-Georges",
+    "address":"1 Central Park West, New York, 10023, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, French Contemporary",
+    "latitude":40.769099,
+    "longitude":-73.981565
+  },
+  {
+    "name":"Casa Enrique",
+    "address":"5-48 49th Ave., Queens, 11101, USA",
+    "cuisine":"$$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":40.74338,
+    "longitude":-73.95416
+  },
+  {
+    "name":"Pinch Chinese",
+    "address":"177 Prince St., New York, 10012, USA",
+    "cuisine":"$$ \u00b7 Chinese, Regional Cuisine",
+    "latitude":40.726416,
+    "longitude":-74.001838
+  },
+  {
+    "name":"Miss Lily\u2019s",
+    "address":"109 Avenue A, New York, 10009, USA",
+    "cuisine":"$$ \u00b7 Jamaican",
+    "latitude":40.72604,
+    "longitude":-73.983817
+  },
+  {
+    "name":"Gabriel Kreuther",
+    "address":"41 W. 42nd St., New York, 10036, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, French",
+    "latitude":40.754402,
+    "longitude":-73.982662
+  },
+  {
+    "name":"Caf\u00e9 Boulud",
+    "address":"100 E. 63rd St., New York, 10065, USA",
+    "cuisine":"$$$$ \u00b7 French",
+    "latitude":40.765122,
+    "longitude":-73.967604
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Patricia\u2019s",
+    "address":"1082 Morris Park Ave., Bronx, 10461, USA",
+    "cuisine":"$$$ \u00b7 Italian-American, Italian",
+    "latitude":40.849171,
+    "longitude":-73.853348
+  },
+  {
+    "name":"Ruffian",
+    "address":"125 E. 7th St., New York, 10009, USA",
+    "cuisine":"$$ \u00b7 Contemporary, Creative",
+    "latitude":40.72645,
+    "longitude":-73.984077
+  },
+  {
+    "name":"Community Food & Juice",
+    "address":"2893 Broadway, New York, 10025, USA",
+    "cuisine":"$$ \u00b7 American, Contemporary",
+    "latitude":40.805929,
+    "longitude":-73.96575
+  },
+  {
+    "name":"Miss Ada",
+    "address":"184 DeKalb Ave., Brooklyn, 11205, USA",
+    "cuisine":"$$ \u00b7 Israeli, Middle Eastern",
+    "latitude":40.68945,
+    "longitude":-73.97238
+  },
+  {
+    "name":"Kochi",
+    "address":"652 Tenth Ave., New York, 10036, USA",
+    "cuisine":"$$$$ \u00b7 Korean, Contemporary",
+    "latitude":40.761997,
+    "longitude":-73.993472
+  },
+  {
+    "name":"RaaSa",
+    "address":"145 E. Main St., Elmsford, 10523, USA",
+    "cuisine":"$$ \u00b7 Indian, Regional Cuisine",
+    "latitude":41.05162,
+    "longitude":-73.8127
+  },
+  {
+    "name":"Risbo",
+    "address":"701 Flatbush Ave., Brooklyn, 11225, USA",
+    "cuisine":"$$ \u00b7 American, Grills",
+    "latitude":40.656055,
+    "longitude":-73.95971
+  },
+  {
+    "name":"Ai Fiori",
+    "address":"400 Fifth Ave., New York, 10018, USA",
+    "cuisine":"$$$$ \u00b7 Italian, French",
+    "latitude":40.750055,
+    "longitude":-73.983725
+  },
+  {
+    "name":"Mile End",
+    "address":"97A Hoyt St., Brooklyn, 11217, USA",
+    "cuisine":"$ \u00b7 Deli",
+    "latitude":40.687485,
+    "longitude":-73.987047
+  },
+  {
+    "name":"Sobre Masa",
+    "address":"52 Harrison Pl., Brooklyn, 11237, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":40.706281,
+    "longitude":-73.931352
+  },
+  {
+    "name":"Laser Wolf",
+    "address":"97 Wythe Ave., Brooklyn, 11249, USA",
+    "cuisine":"$$$ \u00b7 Middle Eastern, Regional Cuisine",
+    "latitude":40.720795,
+    "longitude":-73.958751
+  },
+  {
+    "name":"Benoit",
+    "address":"60 W. 55th St., New York, 10019, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":40.762542,
+    "longitude":-73.977252
+  },
+  {
+    "name":"Frevo",
+    "address":"48 W. 8th St., New York, 10011, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":40.73305,
+    "longitude":-73.998748
+  },
+  {
+    "name":"Soba Totto",
+    "address":"211 E. 43rd St., New York, 10017, USA",
+    "cuisine":"$$ \u00b7 Japanese, Soba",
+    "latitude":40.751364,
+    "longitude":-73.973062
+  },
+  {
+    "name":"Uzuki",
+    "address":"95 Guernsey St., Brooklyn, 11222, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Soba",
+    "latitude":40.724517,
+    "longitude":-73.95347
+  },
+  {
+    "name":"Coqodaq",
+    "address":"12 E. 22nd St., New York, 10010, USA",
+    "cuisine":"$$ \u00b7 Korean",
+    "latitude":40.740114,
+    "longitude":-73.98871
+  },
+  {
+    "name":"N\u014dksu",
+    "address":"49 W. 32nd St., New York, 10001, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Korean",
+    "latitude":40.748265,
+    "longitude":-73.987798
+  },
+  {
+    "name":"Potluck Club",
+    "address":"133 Chrystie St., New York, 10002, USA",
+    "cuisine":"$$ \u00b7 Chinese, Cantonese",
+    "latitude":40.719534,
+    "longitude":-73.993378
+  },
+  {
+    "name":"KRU",
+    "address":"190 N. 14th St., Brooklyn, 11249, USA",
+    "cuisine":"$$$ \u00b7 Thai, Contemporary",
+    "latitude":40.722846,
+    "longitude":-73.95575
+  },
+  {
+    "name":"Tong Sam Gyup Goo Yi",
+    "address":"162-23 Depot Rd., Queens, 11358, USA",
+    "cuisine":"$$ \u00b7 Korean, Barbecue",
+    "latitude":40.762128,
+    "longitude":-73.803021
+  },
+  {
+    "name":"Peter Luger",
+    "address":"178 Broadway, Brooklyn, 11211, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse, American",
+    "latitude":40.709841,
+    "longitude":-73.96262
+  },
+  {
+    "name":"Sunday in Brooklyn",
+    "address":"348 Wythe Ave., Brooklyn, 11249, USA",
+    "cuisine":"$$$ \u00b7 American, Contemporary",
+    "latitude":40.71418,
+    "longitude":-73.965327
+  },
+  {
+    "name":"Persepolis",
+    "address":"1407 Second Ave., New York, 10021, USA",
+    "cuisine":"$$ \u00b7 Persian",
+    "latitude":40.76981,
+    "longitude":-73.95794
+  },
+  {
+    "name":"Legend of Taste",
+    "address":"2002 Utopia Pkwy., Queens, 11357, USA",
+    "cuisine":"$$ \u00b7 Chinese, Sichuan",
+    "latitude":40.77954,
+    "longitude":-73.794116
+  },
+  {
+    "name":"Oso",
+    "address":"1618 Amsterdam Ave., New York, 10031, USA",
+    "cuisine":"$$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":40.82195,
+    "longitude":-73.950237
+  },
+  {
+    "name":"Caviar Russe",
+    "address":"538 Madison Ave., New York, 10022, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Seafood",
+    "latitude":40.760736,
+    "longitude":-73.973747
+  },
+  {
+    "name":"Noreetuh",
+    "address":"128 First Ave., New York, 10009, USA",
+    "cuisine":"$$ \u00b7 Fusion",
+    "latitude":40.727295,
+    "longitude":-73.985265
+  },
+  {
+    "name":"Chez Ma Tante",
+    "address":"92 Calyer St., Brooklyn, 11222, USA",
+    "cuisine":"$$$ \u00b7 American Contemporary, Regional Cuisine",
+    "latitude":40.726912,
+    "longitude":-73.95745
+  },
+  {
+    "name":"Nyonya",
+    "address":"199 Grand St., New York, 10013, USA",
+    "cuisine":"$ \u00b7 Malaysian",
+    "latitude":40.719053,
+    "longitude":-73.996877
+  },
+  {
+    "name":"Eleven Madison Park",
+    "address":"11 Madison Ave., New York, 10010, USA",
+    "cuisine":"$$$$ \u00b7 Vegan, Innovative",
+    "latitude":40.74158,
+    "longitude":-73.986642
+  },
+  {
+    "name":"Speedy Romeo",
+    "address":"376 Classon Ave., Brooklyn, 11238, USA",
+    "cuisine":"$$ \u00b7 Pizza",
+    "latitude":40.687511,
+    "longitude":-73.959956
+  },
+  {
+    "name":"Le Coucou",
+    "address":"138 Lafayette St., New York, 10013, USA",
+    "cuisine":"$$$$ \u00b7 French, Classic French",
+    "latitude":40.71909,
+    "longitude":-74.00013
+  },
+  {
+    "name":"Raoul's",
+    "address":"180 Prince St., New York, 10012, USA",
+    "cuisine":"$$$$ \u00b7 French, American",
+    "latitude":40.726204,
+    "longitude":-74.002115
+  },
+  {
+    "name":"Estela",
+    "address":"47 E. Houston St., New York, 10012, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American",
+    "latitude":40.724628,
+    "longitude":-73.994768
+  },
+  {
+    "name":"Tempura Matsui",
+    "address":"222 E. 39th St., New York, 10016, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Tempura",
+    "latitude":40.748235,
+    "longitude":-73.974825
+  },
+  {
+    "name":"Jeju Noodle Bar",
+    "address":"679 Greenwich St., New York, 10014, USA",
+    "cuisine":"$$$ \u00b7 Korean",
+    "latitude":40.733035,
+    "longitude":-74.007304
+  },
+  {
+    "name":"Tra Di Noi",
+    "address":"622 E. 187th St., Bronx, 10458, USA",
+    "cuisine":"$$ \u00b7 Italian, Italian-American",
+    "latitude":40.85498,
+    "longitude":-73.886853
+  },
+  {
+    "name":"Pastis",
+    "address":"52 Gansevoort St., New York, 10014, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":40.739222,
+    "longitude":-74.007022
+  },
+  {
+    "name":"Torien",
+    "address":"292 Elizabeth St., New York, 10012, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Yakitori",
+    "latitude":40.724757,
+    "longitude":-73.993152
+  },
+  {
+    "name":"Untable",
+    "address":"529 Henry St., Brooklyn, 11231, USA",
+    "cuisine":"$$ \u00b7 Thai",
+    "latitude":40.683578,
+    "longitude":-73.999462
+  },
+  {
+    "name":"Novit\u00e1",
+    "address":"102 E. 22nd St., New York, 10010, USA",
+    "cuisine":"$$$ \u00b7 Italian, Regional Cuisine",
+    "latitude":40.739146,
+    "longitude":-73.986365
+  },
+  {
+    "name":"Katz's",
+    "address":"205 E. Houston St., New York, 10002, USA",
+    "cuisine":"$ \u00b7 Deli",
+    "latitude":40.722229,
+    "longitude":-73.987414
+  },
+  {
+    "name":"Noda",
+    "address":"37 W. 20th St., New York, 10001, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":40.740759,
+    "longitude":-73.993188
+  },
+  {
+    "name":"Barawine",
+    "address":"200 Lenox Ave., New York, 10027, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, French Contemporary",
+    "latitude":40.804561,
+    "longitude":-73.947432
+  },
+  {
+    "name":"Orsay",
+    "address":"1057 Lexington Ave., New York, 10021, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":40.772401,
+    "longitude":-73.960504
+  },
+  {
+    "name":"Shion 69 Leonard Street",
+    "address":"69 Leonard St., New York, 10013, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":40.71761,
+    "longitude":-74.00542
+  },
+  {
+    "name":"Cote",
+    "address":"16 W. 22nd St., New York, 10010, USA",
+    "cuisine":"$$$$ \u00b7 Korean, Steakhouse",
+    "latitude":40.741105,
+    "longitude":-73.991408
+  },
+  {
+    "name":"Gallaghers",
+    "address":"228 W. 52nd St., New York, 10019, USA",
+    "cuisine":"$$$ \u00b7 Steakhouse",
+    "latitude":40.762806,
+    "longitude":-73.983907
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Lupa",
+    "address":"170 Thompson St., New York, 10012, USA",
+    "cuisine":"$$$ \u00b7 Italian",
+    "latitude":40.72765,
+    "longitude":-74.00021
+  },
+  {
+    "name":"Avant Garden",
+    "address":"95 Avenue A, New York, 10009, USA",
+    "cuisine":"$$ \u00b7 Vegan",
+    "latitude":40.725646,
+    "longitude":-73.984077
+  },
+  {
+    "name":"Masa",
+    "address":"10 Columbus Circle, New York, 10019, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":40.768228,
+    "longitude":-73.983129
+  },
+  {
+    "name":"Wayan",
+    "address":"20 Spring St., New York, 10012, USA",
+    "cuisine":"$$$ \u00b7 Indonesian, South East Asian",
+    "latitude":40.721293,
+    "longitude":-73.99511
+  },
+  {
+    "name":"Fausto",
+    "address":"348 Flatbush Ave., Brooklyn, 11238, USA",
+    "cuisine":"$$$ \u00b7 Italian, American",
+    "latitude":40.67596,
+    "longitude":-73.971841
+  },
+  {
+    "name":"El\u00e9a",
+    "address":"217 W. 85th St., New York, 10024, USA",
+    "cuisine":"$$$ \u00b7 Greek, Seafood",
+    "latitude":40.787533,
+    "longitude":-73.976506
+  },
+  {
+    "name":"Tolo",
+    "address":"28 Canal St., New York, 10002, USA",
+    "cuisine":"$$ \u00b7 Chinese",
+    "latitude":40.714334,
+    "longitude":-73.990512
+  },
+  {
+    "name":"J\u014dji",
+    "address":"1 Vanderbilt Ave., New York, 10017, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":40.752854,
+    "longitude":-73.978521
+  },
+  {
+    "name":"Upland",
+    "address":"345 Park Ave. South, New York, 10019, USA",
+    "cuisine":"$$$ \u00b7 Mediterranean Cuisine, American Contemporary",
+    "latitude":40.741741,
+    "longitude":-73.984965
+  },
+  {
+    "name":"Xiquet",
+    "address":"2404 Wisconsin Ave. NW, Washington, 20007, USA",
+    "cuisine":"$$$$ \u00b7 Spanish",
+    "latitude":38.921285,
+    "longitude":-77.072426
+  },
+  {
+    "name":"Rooster & Owl",
+    "address":"2436 14th St. NW, Washington, 20009, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, Fusion",
+    "latitude":38.921459,
+    "longitude":-77.03217
+  },
+  {
+    "name":"Blue Duck Tavern",
+    "address":"1201 24th St. NW, Washington, 20037, USA",
+    "cuisine":"$$$$ \u00b7 American, American Contemporary",
+    "latitude":38.9059,
+    "longitude":-77.051099
+  },
+  {
+    "name":"Masseria",
+    "address":"1340 4th St. NE, Washington, 20002, USA",
+    "cuisine":"$$$$ \u00b7 Italian, Regional Cuisine",
+    "latitude":38.90968,
+    "longitude":-76.999145
+  },
+  {
+    "name":"Family Ethiopian",
+    "address":"1414 9th St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Ethiopian, Regional Cuisine",
+    "latitude":38.909138,
+    "longitude":-77.024235
+  },
+  {
+    "name":"Ris",
+    "address":"2275 L St. NW, Washington, 20037, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":38.903919,
+    "longitude":-77.049835
+  },
+  {
+    "name":"Caf\u00e9 Riggs",
+    "address":"900 F St. NW, Washington, 20004, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, French",
+    "latitude":38.897133,
+    "longitude":-77.024333
+  },
+  {
+    "name":"Toki Underground",
+    "address":"1234 H St. NE, Washington, 20002, USA",
+    "cuisine":"$ \u00b7 Japanese, Ramen",
+    "latitude":38.900424,
+    "longitude":-76.989039
+  },
+  {
+    "name":"Thip Khao",
+    "address":"3462 14th St. NW, Washington, 20010, USA",
+    "cuisine":"$$ \u00b7 Lao",
+    "latitude":38.933021,
+    "longitude":-77.033038
+  },
+  {
+    "name":"Annabelle",
+    "address":"2132 Florida Ave. NW, Washington, 20008, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, American",
+    "latitude":38.912752,
+    "longitude":-77.047269
+  },
+  {
+    "name":"Queen\u2019s English",
+    "address":"3410 11th St. NW, Washington, 20010, USA",
+    "cuisine":"$$ \u00b7 Chinese, Contemporary",
+    "latitude":38.932149,
+    "longitude":-77.028579
+  },
+  {
+    "name":"M\u00e9tier",
+    "address":"1015 7th St. NW, Washington, 20001, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Modern French",
+    "latitude":38.903472,
+    "longitude":-77.021671
+  },
+  {
+    "name":"D\u014dgon",
+    "address":"1330 Maryland Ave. SW, Washington, 20024, USA",
+    "cuisine":"$$$$ \u00b7 African, Caribbean",
+    "latitude":38.883656,
+    "longitude":-77.030272
+  },
+  {
+    "name":"Menya Hosaki",
+    "address":"845 Upshur St. NW, Washington, 20011, USA",
+    "cuisine":"$$ \u00b7 Japanese, Ramen",
+    "latitude":38.942118,
+    "longitude":-77.024685
+  },
+  {
+    "name":"Royal",
+    "address":"501 Florida Ave. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Latin American",
+    "latitude":38.915058,
+    "longitude":-77.018569
+  },
+  {
+    "name":"Chaplin's",
+    "address":"1501 9th St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Asian, Ramen",
+    "latitude":38.909809,
+    "longitude":-77.023666
+  },
+  {
+    "name":"Taqueria Habanero",
+    "address":"3710 14th St. NW, Washington, 20010, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":38.937558,
+    "longitude":-77.033089
+  },
+  {
+    "name":"Dauphine's",
+    "address":"1100 15th St. NW, Washington, 20005, USA",
+    "cuisine":"$$ \u00b7 Creole, Creative",
+    "latitude":38.903974,
+    "longitude":-77.035
+  },
+  {
+    "name":"El Secreto de Rosita",
+    "address":"1624 U St. NW, Washington, 20009, USA",
+    "cuisine":"$$$ \u00b7 Peruvian, Latin American",
+    "latitude":38.91682,
+    "longitude":-77.037898
+  },
+  {
+    "name":"Reveler's Hour",
+    "address":"1775 Columbia Rd. NW, Washington, 20009, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, Italian",
+    "latitude":38.923456,
+    "longitude":-77.042026
+  },
+  {
+    "name":"La Tejana",
+    "address":"3211 Mt. Pleasant St. NW, Washington, 20010, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":38.931518,
+    "longitude":-77.03823
+  },
+  {
+    "name":"Daru",
+    "address":"1451 Maryland Ave. NE, Washington, 20002, USA",
+    "cuisine":"$$ \u00b7 Indian, Regional Cuisine",
+    "latitude":38.899655,
+    "longitude":-76.98385
+  },
+  {
+    "name":"Rasika",
+    "address":"633 D St. NW, Washington, 20004, USA",
+    "cuisine":"$$$ \u00b7 Indian",
+    "latitude":38.894999,
+    "longitude":-77.021289
+  },
+  {
+    "name":"Moon Rabbit",
+    "address":"927 F St. NW, Washington, 20002, USA",
+    "cuisine":"$$$ \u00b7 Vietnamese",
+    "latitude":38.897536,
+    "longitude":-77.025248
+  },
+  {
+    "name":"Das",
+    "address":"1201 28th St. NW, Washington, 20007, USA",
+    "cuisine":"$$ \u00b7 Ethiopian, Regional Cuisine",
+    "latitude":38.905424,
+    "longitude":-77.056876
+  },
+  {
+    "name":"Astoria DC",
+    "address":"1521 17th St. NW, Washington, 20036, USA",
+    "cuisine":"$$ \u00b7 Asian, Sichuan",
+    "latitude":38.910531,
+    "longitude":-77.038148
+  },
+  {
+    "name":"Mayd\u0101n",
+    "address":"1346 Florida Ave. NW, Washington, 20000, USA",
+    "cuisine":"$$$ \u00b7 Middle Eastern, Grills",
+    "latitude":38.919957,
+    "longitude":-77.031162
+  },
+  {
+    "name":"San Lorenzo",
+    "address":"1316 9th St. NW, Washington, 20001, USA",
+    "cuisine":"$$$ \u00b7 Italian",
+    "latitude":38.90786,
+    "longitude":-77.024304
+  },
+  {
+    "name":"Lut\u00e8ce",
+    "address":"1522 Wisconsin Ave. NW, Washington, 20007, USA",
+    "cuisine":"$$ \u00b7 Contemporary, American",
+    "latitude":38.909408,
+    "longitude":-77.064607
+  },
+  {
+    "name":"minibar",
+    "address":"855 E St. NW, Washington, 20004, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":38.896331,
+    "longitude":-77.023447
+  },
+  {
+    "name":"Elcielo Washington",
+    "address":"1280 4th St. NE, Washington, 20002, USA",
+    "cuisine":"$$$$ \u00b7 Colombian, Contemporary",
+    "latitude":38.908961,
+    "longitude":-76.999568
+  },
+  {
+    "name":"Ottoman Taverna",
+    "address":"425 I St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Turkish",
+    "latitude":38.901552,
+    "longitude":-77.016879
+  },
+  {
+    "name":"Reverie",
+    "address":"3201 Cherry Hill Ln. NW, Washington, 20007, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":38.903801,
+    "longitude":-77.063307
+  },
+  {
+    "name":"Elfegne",
+    "address":"2420 18th St. NW, Washington, 20009, USA",
+    "cuisine":"$$ \u00b7 Ethiopian, Regional Cuisine",
+    "latitude":38.921304,
+    "longitude":-77.042455
+  },
+  {
+    "name":"Causa",
+    "address":"920 Blagden Alley NW, Washington, 20001, USA",
+    "cuisine":"$$$$ \u00b7 Peruvian, Latin American",
+    "latitude":38.906563,
+    "longitude":-77.024751
+  },
+  {
+    "name":"La Bise",
+    "address":"800 Connecticut Ave. NW, Washington, 20006, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":38.900408,
+    "longitude":-77.03854
+  },
+  {
+    "name":"BlackSalt",
+    "address":"4883 MacArthur Blvd., Washington, 20007, USA",
+    "cuisine":"$$$ \u00b7 Seafood, American",
+    "latitude":38.917787,
+    "longitude":-77.09663
+  },
+  {
+    "name":"Bresca",
+    "address":"1906 14th St. NW, Washington, 20009, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American",
+    "latitude":38.91582,
+    "longitude":-77.03219
+  },
+  {
+    "name":"Opal",
+    "address":"5534 Connecticut Ave., Washington, 20015, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":38.964245,
+    "longitude":-77.0756
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Grazie Nonna",
+    "address":"1100 15th St. NW, Washington, 20005, USA",
+    "cuisine":"$$$ \u00b7 Italian-American, Pizza",
+    "latitude":38.903974,
+    "longitude":-77.035
+  },
+  {
+    "name":"Cranes",
+    "address":"724 9th St. NW, Washington, 20001, USA",
+    "cuisine":"$$$$ \u00b7 Spanish, Contemporary",
+    "latitude":38.89925,
+    "longitude":-77.024409
+  },
+  {
+    "name":"Mandu",
+    "address":"453 K St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Korean",
+    "latitude":38.902832,
+    "longitude":-77.017892
+  },
+  {
+    "name":"Tail Up Goat",
+    "address":"1827 Adams Mill Rd. NW, Washington, 20009, USA",
+    "cuisine":"$$ \u00b7 Contemporary",
+    "latitude":38.923463,
+    "longitude":-77.043114
+  },
+  {
+    "name":"Sababa",
+    "address":"3311 Connecticut Ave. NW, Washington, 20008, USA",
+    "cuisine":"$$ \u00b7 Mediterranean Cuisine",
+    "latitude":38.933898,
+    "longitude":-77.05711
+  },
+  {
+    "name":"Obelisk",
+    "address":"2029 P St. NW, Washington, 20036, USA",
+    "cuisine":"$$$$ \u00b7 Italian",
+    "latitude":38.909807,
+    "longitude":-77.046231
+  },
+  {
+    "name":"Oyster Oyster",
+    "address":"1440 8th St. NW, Washington, 20001, USA",
+    "cuisine":"$$$ \u00b7 Vegetarian, Contemporary",
+    "latitude":38.909238,
+    "longitude":-77.023088
+  },
+  {
+    "name":"Pineapple and Pearls",
+    "address":"715 8th St. SE, Washington, 20003, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":47.301101,
+    "longitude":-122.219328
+  },
+  {
+    "name":"Tiger Fork",
+    "address":"922 N. St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Chinese, Cantonese",
+    "latitude":38.907005,
+    "longitude":-77.02487
+  },
+  {
+    "name":"Imperfecto: The Chef's Table",
+    "address":"1124 23rd St. NW, Washington, 20037, USA",
+    "cuisine":"$$$$ \u00b7 Latin American",
+    "latitude":38.904321,
+    "longitude":-77.050332
+  },
+  {
+    "name":"L\u2019Ardente",
+    "address":"200 Massachusetts Ave. NW, Ste. 100, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Italian",
+    "latitude":38.89898,
+    "longitude":-77.013993
+  },
+  {
+    "name":"Laos in Town",
+    "address":"250 K St. NE, Washington, 20002, USA",
+    "cuisine":"$$ \u00b7 South East Asian, Lao",
+    "latitude":38.902821,
+    "longitude":-77.002361
+  },
+  {
+    "name":"Sushi Nakazawa",
+    "address":"1100 Pennsylvania Ave. NW, Washington, 20004, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":38.894113,
+    "longitude":-77.027589
+  },
+  {
+    "name":"Rumi's Kitchen",
+    "address":"640 L St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Persian",
+    "latitude":38.904018,
+    "longitude":-77.020804
+  },
+  {
+    "name":"Chloe",
+    "address":"1331 4th St. SE, Washington, 20003, USA",
+    "cuisine":"$$$ \u00b7 International, American",
+    "latitude":38.874565,
+    "longitude":-77.000776
+  },
+  {
+    "name":"St. James",
+    "address":"2017 14th St. NW, Washington, 20009, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":38.91765,
+    "longitude":-77.031637
+  },
+  {
+    "name":"Oyamel",
+    "address":"401 7th St. NW, Washington, 20004, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":38.89495,
+    "longitude":-77.021669
+  },
+  {
+    "name":"Shilling Canning Company",
+    "address":"360 Water St. SE, Washington, 20003, USA",
+    "cuisine":"$$$ \u00b7 American, Contemporary",
+    "latitude":38.873969,
+    "longitude":-77.001078
+  },
+  {
+    "name":"Cucina Morini",
+    "address":"901 4th St. NW, Washington, 20001, USA",
+    "cuisine":"$$$ \u00b7 Italian",
+    "latitude":38.901605,
+    "longitude":-77.015889
+  },
+  {
+    "name":"Ap\u00e9ro",
+    "address":"2622 P St. NW, Washington, 20007, USA",
+    "cuisine":"$$$$ \u00b7 French, Contemporary",
+    "latitude":38.909199,
+    "longitude":-77.055495
+  },
+  {
+    "name":"1789",
+    "address":"1226 36th St. NW, Washington, 20007, USA",
+    "cuisine":"$$$$ \u00b7 American, French",
+    "latitude":38.90611,
+    "longitude":-77.070499
+  },
+  {
+    "name":"Seven Reasons",
+    "address":"931 H St. NW, Washington, 20001, USA",
+    "cuisine":"$$$$ \u00b7 Latin American",
+    "latitude":38.899999,
+    "longitude":-77.024971
+  },
+  {
+    "name":"Hitching Post",
+    "address":"200 Upshur St. NW, Washington, 20011, USA",
+    "cuisine":"$$ \u00b7 Southern, Regional Cuisine",
+    "latitude":38.942042,
+    "longitude":-77.013776
+  },
+  {
+    "name":"Mita",
+    "address":"804 V St. NW, Washington, 20037, USA",
+    "cuisine":"$$$$ \u00b7 Vegetarian, Latin American",
+    "latitude":38.917645,
+    "longitude":-77.023201
+  },
+  {
+    "name":"Anju",
+    "address":"1805 18th St. NW, Washington, 20009, USA",
+    "cuisine":"$$$ \u00b7 Korean, Contemporary",
+    "latitude":38.914369,
+    "longitude":-77.04149
+  },
+  {
+    "name":"Albi",
+    "address":"1346 4th St. SE, Washington, 20003, USA",
+    "cuisine":"$$$$ \u00b7 Middle Eastern",
+    "latitude":38.874261,
+    "longitude":-77.000271
+  },
+  {
+    "name":"Amparo Fondita",
+    "address":"2002 P St. NW, Washington, 20036, USA",
+    "cuisine":"$$ \u00b7 Mexican, Contemporary",
+    "latitude":38.909473,
+    "longitude":-77.045254
+  },
+  {
+    "name":"Gravitas",
+    "address":"1401 Okie St. NE, Washington, 20002, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American",
+    "latitude":38.9145,
+    "longitude":-76.984094
+  },
+  {
+    "name":"Balos Estiatorio",
+    "address":"1940 N St. NW, Washington, 20036, USA",
+    "cuisine":"$$$ \u00b7 Greek, Mediterranean Cuisine",
+    "latitude":38.907094,
+    "longitude":-77.044621
+  },
+  {
+    "name":"New Heights",
+    "address":"2317 Calvert St. NW, Washington, 20008, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":38.923721,
+    "longitude":-77.052249
+  },
+  {
+    "name":"Jaleo",
+    "address":"480 7th St. NW, Washington, 20004, USA",
+    "cuisine":"$$ \u00b7 Spanish",
+    "latitude":38.895937,
+    "longitude":-77.022144
+  },
+  {
+    "name":"The Saga",
+    "address":"1190 22nd St. NW, Washington, 20037, USA",
+    "cuisine":"$$$$ \u00b7 Spanish",
+    "latitude":38.904859,
+    "longitude":-77.04899
+  },
+  {
+    "name":"Ell\u0113",
+    "address":"3221 Mt. Pleasant St. NW, Washington, 20010, USA",
+    "cuisine":"$$ \u00b7 Contemporary, Bakery",
+    "latitude":38.93187,
+    "longitude":-77.038382
+  },
+  {
+    "name":"Del Mar",
+    "address":"791 Wharf St. SW, Washington, 20024, USA",
+    "cuisine":"$$$$ \u00b7 Spanish, Basque",
+    "latitude":38.878882,
+    "longitude":-77.024617
+  },
+  {
+    "name":"The Pembroke",
+    "address":"1500 New Hampshire Ave. NW, Washington, 20036, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":38.910629,
+    "longitude":-77.043027
+  },
+  {
+    "name":"Bar Chinois",
+    "address":"455 I St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Asian, Dim Sum",
+    "latitude":38.901623,
+    "longitude":-77.017957
+  },
+  {
+    "name":"Michele's",
+    "address":"1201 K St. NW, Washington, 20005, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":38.902893,
+    "longitude":-77.028426
+  },
+  {
+    "name":"Georgia Brown\u2019s",
+    "address":"950 15th St. NW, Washington, 20005, USA",
+    "cuisine":"$$$ \u00b7 Southern, American",
+    "latitude":38.902007,
+    "longitude":-77.03484
+  },
+  {
+    "name":"Residents Cafe & Bar",
+    "address":"1306 18th St. NW, Washington, 20036, USA",
+    "cuisine":"$$ \u00b7 Contemporary",
+    "latitude":38.907943,
+    "longitude":-77.041858
+  },
+  {
+    "name":"Cane",
+    "address":"403 H St. NE, Washington, 20002, USA",
+    "cuisine":"$$ \u00b7 Caribbean, Regional Cuisine",
+    "latitude":38.899978,
+    "longitude":-77.000316
+  },
+  {
+    "name":"The Bombay Club",
+    "address":"815 Connecticut Ave. NW, Washington, 20006, USA",
+    "cuisine":"$$$ \u00b7 Indian, Contemporary",
+    "latitude":38.900949,
+    "longitude":-77.038018
+  },
+  {
+    "name":"Estuary",
+    "address":"950 New York Ave. NW, Washington, 20001, USA",
+    "cuisine":"$$$$ \u00b7 Seafood, Regional Cuisine",
+    "latitude":38.901325,
+    "longitude":-77.025426
+  },
+  {
+    "name":"Supra",
+    "address":"1205 11th St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":38.905921,
+    "longitude":-77.026751
+  },
+  {
+    "name":"Unconventional Diner",
+    "address":"1207 9th St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":38.905849,
+    "longitude":-77.023631
+  },
+  {
+    "name":"Rose\u2019s Luxury",
+    "address":"717 8th St. SE, Washington, 20003, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":38.880648,
+    "longitude":-76.995339
+  },
+  {
+    "name":"Stellina Pizzeria",
+    "address":"399 Morse St. NE, Washington, 20002, USA",
+    "cuisine":"$$ \u00b7 Pizza, Italian",
+    "latitude":38.907808,
+    "longitude":-77.000318
+  },
+  {
+    "name":"Zaytinya",
+    "address":"701 9th St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Mediterranean Cuisine",
+    "latitude":38.898947,
+    "longitude":-77.023638
+  },
+  {
+    "name":"Timber Pizza Co",
+    "address":"809 Upshur St. NW, Washington, 20011, USA",
+    "cuisine":"$ \u00b7 Pizza",
+    "latitude":38.94212,
+    "longitude":-77.023829
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Sfoglina",
+    "address":"4445 Connecticut Ave. NW, Washington, 20008, USA",
+    "cuisine":"$$ \u00b7 Italian",
+    "latitude":38.946632,
+    "longitude":-77.064599
+  },
+  {
+    "name":"The Red Hen",
+    "address":"1822 1st St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Italian",
+    "latitude":38.915008,
+    "longitude":-77.01239
+  },
+  {
+    "name":"Dear Sushi at Love, Makoto",
+    "address":"200 Massachusetts Ave., NW, Ste.150, Washington, 20001, USA",
+    "cuisine":"$$$ \u00b7 Sushi, Japanese Contemporary",
+    "latitude":38.89898,
+    "longitude":-77.013993
+  },
+  {
+    "name":"Rania",
+    "address":"427 11th St. NW, Washington, 20004, USA",
+    "cuisine":"$$$$ \u00b7 Indian, Contemporary",
+    "latitude":38.895694,
+    "longitude":-77.026618
+  },
+  {
+    "name":"Lapis",
+    "address":"1847 Columbia Rd. NW, Washington, 20009, USA",
+    "cuisine":"$$ \u00b7 Afghan",
+    "latitude":38.921301,
+    "longitude":-77.043922
+  },
+  {
+    "name":"Little Pearl",
+    "address":"921 Pennsylvania Ave. SE, Washington, 20003, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":38.883012,
+    "longitude":-76.993146
+  },
+  {
+    "name":"Fiola",
+    "address":"601 Pennsylvania Ave. NW, Washington, 20004, USA",
+    "cuisine":"$$$$ \u00b7 Italian, Contemporary",
+    "latitude":38.893305,
+    "longitude":-77.020536
+  },
+  {
+    "name":"Omakase at Barracks Row",
+    "address":"522 8th St. SE, Washington, 20003, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":38.881903,
+    "longitude":-76.994714
+  },
+  {
+    "name":"Beloved BBQ at Love, Makoto",
+    "address":"200 Massachusetts Ave. NW, Ste.150, Washington, 20001, USA",
+    "cuisine":"$$$ \u00b7 Japanese, Steakhouse",
+    "latitude":38.89898,
+    "longitude":-77.013993
+  },
+  {
+    "name":"Kappo",
+    "address":"4822 MaCarthur Blvd. NW, Washington, 20007, USA",
+    "cuisine":"$$$$ \u00b7 Japanese",
+    "latitude":38.916711,
+    "longitude":-77.096395
+  },
+  {
+    "name":"The Dabney",
+    "address":"122 Blagden Alley NW, Washington, 20001, USA",
+    "cuisine":"$$$$ \u00b7 American, Contemporary",
+    "latitude":38.906358,
+    "longitude":-77.024552
+  },
+  {
+    "name":"J\u00f4nt",
+    "address":"1904 14th St. NW, Washington, 20009, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":38.915783,
+    "longitude":-77.032255
+  },
+  {
+    "name":"Sh\u014dt\u014d",
+    "address":"1100 15th St. NW, Washington, 20005, USA",
+    "cuisine":"$$$ \u00b7 Japanese",
+    "latitude":38.903974,
+    "longitude":-77.035
+  },
+  {
+    "name":"Kinship",
+    "address":"1015 7th St. NW, Washington, 20001, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, French Contemporary",
+    "latitude":38.903472,
+    "longitude":-77.021671
+  },
+  {
+    "name":"Hank\u2019s Oyster Bar",
+    "address":"1624 Q St. NW, Washington, 20009, USA",
+    "cuisine":"$$ \u00b7 Seafood, Oyster Specialities",
+    "latitude":38.910888,
+    "longitude":-77.038121
+  },
+  {
+    "name":"Chang Chang",
+    "address":"1200 19th St. NW, Washington, 20036, USA",
+    "cuisine":"$$$ \u00b7 Chinese, Asian",
+    "latitude":38.906001,
+    "longitude":-77.043804
+  },
+  {
+    "name":"Yellow",
+    "address":"1524 Wisconsin Ave. NW, Washington, 20007, USA",
+    "cuisine":"$$ \u00b7 Middle Eastern",
+    "latitude":38.909473,
+    "longitude":-77.064637
+  },
+  {
+    "name":"Patty O's Cafe & Bakery",
+    "address":"389 Main St., Washington, 22747, USA",
+    "cuisine":"$$$ \u00b7 European",
+    "latitude":38.713485,
+    "longitude":-78.16014
+  },
+  {
+    "name":"Maketto",
+    "address":"1351 H St. NE, Washington, 20002, USA",
+    "cuisine":"$$ \u00b7 Asian",
+    "latitude":38.900016,
+    "longitude":-76.986679
+  },
+  {
+    "name":"Karma Modern Indian",
+    "address":"611 I St. NW, Washington, 20001, USA",
+    "cuisine":"$$ \u00b7 Indian, Contemporary",
+    "latitude":38.901079,
+    "longitude":-77.020598
+  },
+  {
+    "name":"Fiola Mare",
+    "address":"3050 K St. NW, Ste. 101, Washington, 20007, USA",
+    "cuisine":"$$$$ \u00b7 Seafood, Contemporary",
+    "latitude":38.901991,
+    "longitude":-77.060863
+  },
+  {
+    "name":"Pascual",
+    "address":"732 Maryland Ave. NE, Washington, 20002, USA",
+    "cuisine":"$$$ \u00b7 Mexican, Contemporary",
+    "latitude":38.895695,
+    "longitude":-76.995199
+  },
+  {
+    "name":"Ivy City Smokehouse",
+    "address":"1356 Okie St. NE, Washington, 20002, USA",
+    "cuisine":"$$ \u00b7 Seafood, Barbecue",
+    "latitude":38.914641,
+    "longitude":-76.985556
+  },
+  {
+    "name":"The Inn at Little Washington",
+    "address":"309 Middle St., Washington, 22747, USA",
+    "cuisine":"$$$$ \u00b7 American, French",
+    "latitude":38.713723,
+    "longitude":-78.159587
+  },
+  {
+    "name":"The Imperial",
+    "address":"2001 18th St. NW, Washington, 20009, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":38.917211,
+    "longitude":-77.041454
+  },
+  {
+    "name":"John's Food and Wine",
+    "address":"2114 N. Halsted St., Chicago, 60614, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":41.920465,
+    "longitude":-87.648928
+  },
+  {
+    "name":"Cari\u00f1o",
+    "address":"4662 N. Broadway, Chicago, 60640, USA",
+    "cuisine":"$$$$ \u00b7 Mexican, Contemporary",
+    "latitude":41.966978,
+    "longitude":-87.6588
+  },
+  {
+    "name":"Yao Yao",
+    "address":"230 W. Cermak Rd., Chicago, 60616, USA",
+    "cuisine":"$$ \u00b7 Chinese, Regional Cuisine",
+    "latitude":41.853138,
+    "longitude":-87.632991
+  },
+  {
+    "name":"Indienne",
+    "address":"217 W. Huron St., Chicago, 60654, USA",
+    "cuisine":"$$$$ \u00b7 Indian, Contemporary",
+    "latitude":41.894553,
+    "longitude":-87.635132
+  },
+  {
+    "name":"Swift & Sons",
+    "address":"1000 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse, American Contemporary",
+    "latitude":41.887155,
+    "longitude":-87.652523
+  },
+  {
+    "name":"Proxi",
+    "address":"565 W. Randolph St., Chicago, 60661, USA",
+    "cuisine":"$$ \u00b7 International, Asian",
+    "latitude":41.884368,
+    "longitude":-87.642452
+  },
+  {
+    "name":"Elske",
+    "address":"1350 W. Randolph Ave., Chicago, 60607, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American Contemporary",
+    "latitude":41.884478,
+    "longitude":-87.660936
+  },
+  {
+    "name":"Bar Mar",
+    "address":"120 N. Wacker Dr., Chicago, 60606, USA",
+    "cuisine":"$$$ \u00b7 Seafood, Spanish",
+    "latitude":41.883985,
+    "longitude":-87.637203
+  },
+  {
+    "name":"Esme\u0301",
+    "address":"2200 N. Clark St., Chicago, 60614, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Creative",
+    "latitude":41.922212,
+    "longitude":-87.638716
+  },
+  {
+    "name":"Mott St.",
+    "address":"1401 N. Ashland Ave., Chicago, 60622, USA",
+    "cuisine":"$$$ \u00b7 Fusion, Contemporary",
+    "latitude":41.907149,
+    "longitude":-87.667269
+  },
+  {
+    "name":"Jeong",
+    "address":"1460 W. Chicago Ave., Chicago, 60647, USA",
+    "cuisine":"$$$$ \u00b7 Korean, Contemporary",
+    "latitude":41.896353,
+    "longitude":-87.664812
+  },
+  {
+    "name":"Dear Margaret",
+    "address":"2965 N. Lincoln Ave., Chicago, 60657, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, French",
+    "latitude":41.935869,
+    "longitude":-87.662931
+  },
+  {
+    "name":"Lou Mitchell's",
+    "address":"565 W. Jackson Blvd., Chicago, 60661, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":41.877854,
+    "longitude":-87.642132
+  },
+  {
+    "name":"Oriole",
+    "address":"661 W. Walnut St., Chicago, 60661, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American Contemporary",
+    "latitude":41.886199,
+    "longitude":-87.64513
+  },
+  {
+    "name":"Boonie's",
+    "address":"4337 N. Western Ave., Chicago, 60618, USA",
+    "cuisine":"$$ \u00b7 Filipino",
+    "latitude":41.960631,
+    "longitude":-87.688354
+  },
+  {
+    "name":"Elina's",
+    "address":"1202 W. Grand Ave., Chicago, 60642, USA",
+    "cuisine":"$$$ \u00b7 Italian-American, Regional Cuisine",
+    "latitude":41.891308,
+    "longitude":-87.657647
+  },
+  {
+    "name":"Mako",
+    "address":"731 W. Lake St., Chicago, 60661, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":41.885672,
+    "longitude":-87.647005
+  },
+  {
+    "name":"mfk.",
+    "address":"432 W. Diversey Pkwy., Chicago, 60614, USA",
+    "cuisine":"$$$ \u00b7 Spanish, Fusion",
+    "latitude":41.933046,
+    "longitude":-87.640695
+  },
+  {
+    "name":"Galit",
+    "address":"2429 N. Lincoln Ave., Chicago, 60614, USA",
+    "cuisine":"$$$$ \u00b7 Middle Eastern, Mediterranean Cuisine",
+    "latitude":41.926317,
+    "longitude":-87.649512
+  },
+  {
+    "name":"Bayan Ko",
+    "address":"1810 W. Montrose Ave., Chicago, 60613, USA",
+    "cuisine":"$$$$ \u00b7 Filipino, Cuban",
+    "latitude":41.961705,
+    "longitude":-87.674985
+  },
+  {
+    "name":"ROOP Chicago",
+    "address":"736 W. Randolph St., Chicago, 60661, USA",
+    "cuisine":"$$$ \u00b7 Indian, Contemporary",
+    "latitude":41.884791,
+    "longitude":-87.647145
+  },
+  {
+    "name":"Momotaro",
+    "address":"820 W. Lake St., Chicago, 60607, USA",
+    "cuisine":"$$$ \u00b7 Japanese, Asian",
+    "latitude":41.885893,
+    "longitude":-87.648451
+  },
+  {
+    "name":"The Izakaya at Momotaro",
+    "address":"820 W. Lake St., Chicago, 60607, USA",
+    "cuisine":"$$$ \u00b7 Japanese, Izakaya",
+    "latitude":41.885893,
+    "longitude":-87.648451
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Schwa",
+    "address":"1466 N. Ashland Ave., Chicago, 60662, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Innovative",
+    "latitude":41.908935,
+    "longitude":-87.667984
+  },
+  {
+    "name":"The Coach House by Wazwan",
+    "address":"1742 W. Division St., Chicago, 60622, USA",
+    "cuisine":"$$$$ \u00b7 South East Asian, Indian",
+    "latitude":41.903536,
+    "longitude":-87.671689
+  },
+  {
+    "name":"Omakase Yume",
+    "address":"651 W. Washington Blvd., Chicago, 60661, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":41.882839,
+    "longitude":-87.644801
+  },
+  {
+    "name":"Giant",
+    "address":"3209 W. Armitage Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":41.917165,
+    "longitude":-87.707478
+  },
+  {
+    "name":"Osteria Langhe",
+    "address":"2824 W. Armitage Ave., Chicago, 60647, USA",
+    "cuisine":"$$$ \u00b7 Italian",
+    "latitude":41.917733,
+    "longitude":-87.698264
+  },
+  {
+    "name":"Sifr",
+    "address":"660 N. Orleans St., Chicago, 60654, USA",
+    "cuisine":"$$ \u00b7 Middle Eastern",
+    "latitude":41.894124,
+    "longitude":-87.63737
+  },
+  {
+    "name":"Munno Pizzeria & Bistro",
+    "address":"4656 N. Clark St., Chicago, 60640, USA",
+    "cuisine":"$$ \u00b7 Pizza, Italian",
+    "latitude":41.966982,
+    "longitude":-87.667277
+  },
+  {
+    "name":"Atelier",
+    "address":"4835 N. Western Ave., Chicago, 60625, USA",
+    "cuisine":"$$$$ \u00b7 American",
+    "latitude":41.969552,
+    "longitude":-87.68864
+  },
+  {
+    "name":"Tortello Pastificio",
+    "address":"1746 W. Division St., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Italian, Regional Cuisine",
+    "latitude":41.90353,
+    "longitude":-87.671874
+  },
+  {
+    "name":"EL Ideas",
+    "address":"2419 W. 14th St., Chicago, 60608, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Creative",
+    "latitude":41.862597,
+    "longitude":-87.686938
+  },
+  {
+    "name":"Longman & Eagle",
+    "address":"2657 N. Kedzie Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 Gastropub",
+    "latitude":41.930085,
+    "longitude":-87.707068
+  },
+  {
+    "name":"Chef\u2019s Special Cocktail Bar",
+    "address":"2165 N. Western Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 Chinese, American",
+    "latitude":41.921762,
+    "longitude":-87.687214
+  },
+  {
+    "name":"RPM Steak",
+    "address":"66 W. Kinzie St., Chicago, 60654, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse, Contemporary",
+    "latitude":41.889322,
+    "longitude":-87.630613
+  },
+  {
+    "name":"Warlord",
+    "address":"3198 N. Milwaukee Ave., Chicago, 60618, USA",
+    "cuisine":"$$$$ \u00b7 American Contemporary",
+    "latitude":41.93884,
+    "longitude":-87.724103
+  },
+  {
+    "name":"Kumiko",
+    "address":"630 W. Lake St., Chicago, 60661, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Asian",
+    "latitude":41.885925,
+    "longitude":-87.643772
+  },
+  {
+    "name":"Blue Door Kitchen & Garden",
+    "address":"52 W. Elm St., Chicago, 60610, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":41.903248,
+    "longitude":-87.630625
+  },
+  {
+    "name":"Mama Delia",
+    "address":"1721 W. Division St., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Spanish, Spanish Contemporary",
+    "latitude":41.903131,
+    "longitude":-87.670834
+  },
+  {
+    "name":"Girl & The Goat",
+    "address":"809 W. Randolph St., Chicago, 60607, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, American",
+    "latitude":41.884111,
+    "longitude":-87.647934
+  },
+  {
+    "name":"Smyth",
+    "address":"177 N. Ada St., Chicago, 60607, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Creative",
+    "latitude":41.884974,
+    "longitude":-87.660558
+  },
+  {
+    "name":"The Gage",
+    "address":"24 S. Michigan Ave., Chicago, 60603, USA",
+    "cuisine":"$$ \u00b7 Gastropub",
+    "latitude":41.88276,
+    "longitude":-87.62495
+  },
+  {
+    "name":"Topolobampo",
+    "address":"445 N. Clark St., Chicago, 60654, USA",
+    "cuisine":"$$$$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":41.890576,
+    "longitude":-87.630143
+  },
+  {
+    "name":"Mi Tocaya",
+    "address":"2800 W. Logan Blvd., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":41.928894,
+    "longitude":-87.697714
+  },
+  {
+    "name":"The Purple Pig",
+    "address":"444 N. Michigan Ave., Chicago, 60611, USA",
+    "cuisine":"$$ \u00b7 Mediterranean Cuisine",
+    "latitude":41.890723,
+    "longitude":-87.624593
+  },
+  {
+    "name":"Table, Donkey and Stick",
+    "address":"2728 W. Armitage Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 Austrian",
+    "latitude":41.9177,
+    "longitude":-87.695997
+  },
+  {
+    "name":"The Perch",
+    "address":"1932 W. Division St., Chicago, 60622, USA",
+    "cuisine":"$$$ \u00b7 American, Gastropub",
+    "latitude":41.903443,
+    "longitude":-87.676239
+  },
+  {
+    "name":"Valhalla",
+    "address":"2020 W. Division St., Chicago, 60622, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Fusion",
+    "latitude":41.903482,
+    "longitude":-87.678221
+  },
+  {
+    "name":"Ever",
+    "address":"1340 W. Fulton St., Chicago, 60607, USA",
+    "cuisine":"$$$$ \u00b7 Creative, Modern Cuisine",
+    "latitude":41.887157,
+    "longitude":-87.660447
+  },
+  {
+    "name":"The Gundis",
+    "address":"2909 N. Clark St., Chicago, 60657, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":41.935115,
+    "longitude":-87.646547
+  },
+  {
+    "name":"Kasama",
+    "address":"1001 N. Winchester Ave., Chicago, 60622, USA",
+    "cuisine":"$$$$ \u00b7 Filipino, Contemporary",
+    "latitude":41.899679,
+    "longitude":-87.675636
+  },
+  {
+    "name":"Sepia",
+    "address":"123 N. Jefferson St., Chicago, 60661, USA",
+    "cuisine":"$$$$ \u00b7 American, American Contemporary",
+    "latitude":41.883937,
+    "longitude":-87.642307
+  },
+  {
+    "name":"Pompette",
+    "address":"1960 N. Damen Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 Contemporary, American",
+    "latitude":41.917629,
+    "longitude":-87.677842
+  },
+  {
+    "name":"Azul Mariscos + Muelle",
+    "address":"1177 N. Elston Ave., Chicago, 60642, USA",
+    "cuisine":"$$$ \u00b7 Seafood, Latin American",
+    "latitude":41.903214,
+    "longitude":-87.657666
+  },
+  {
+    "name":"avec",
+    "address":"615 W. Randolph St., Chicago, 60661, USA",
+    "cuisine":"$$ \u00b7 Mediterranean Cuisine",
+    "latitude":41.884239,
+    "longitude":-87.643399
+  },
+  {
+    "name":"Frontera Grill",
+    "address":"445 N. Clark St., Chicago, 60654, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":41.890576,
+    "longitude":-87.630143
+  },
+  {
+    "name":"Pleasant House Pub",
+    "address":"2119 S. Halstead St., Chicago, 60608, USA",
+    "cuisine":"$$ \u00b7 Gastropub, English",
+    "latitude":41.853575,
+    "longitude":-87.646215
+  },
+  {
+    "name":"North Pond",
+    "address":"2610 N. Cannon Dr., Chicago, 60614, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American",
+    "latitude":41.929882,
+    "longitude":-87.637444
+  },
+  {
+    "name":"Prime & Provisions",
+    "address":"222 N. LaSalle St., Chicago, 60601, USA",
+    "cuisine":"$$$ \u00b7 Steakhouse",
+    "latitude":41.886587,
+    "longitude":-87.633448
+  },
+  {
+    "name":"Chilam Balam",
+    "address":"3023 N. Broadway, Chicago, 60657, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":41.937238,
+    "longitude":-87.644017
+  },
+  {
+    "name":"Sol de Mexico",
+    "address":"3018 N. Cicero Ave., Chicago, 60641, USA",
+    "cuisine":"$$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":41.9358,
+    "longitude":-87.747041
+  },
+  {
+    "name":"Ciccio Mio",
+    "address":"226 W. Kinzie St., Chicago, 60654, USA",
+    "cuisine":"$$ \u00b7 Italian, American",
+    "latitude":41.889406,
+    "longitude":-87.635195
+  },
+  {
+    "name":"Hugo\u2019s Frog Bar & Fish House",
+    "address":"1024 N. Rush St., Chicago, 60611, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":41.901068,
+    "longitude":-87.627997
+  },
+  {
+    "name":"Tied House",
+    "address":"3157 N. Southport Ave., Chicago, 60657, USA",
+    "cuisine":"$$ \u00b7 Contemporary",
+    "latitude":41.939569,
+    "longitude":-87.663557
+  },
+  {
+    "name":"Boka",
+    "address":"1729 N. Halsted St., Chicago, 60614, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American",
+    "latitude":41.913646,
+    "longitude":-87.647985
+  },
+  {
+    "name":"Demera",
+    "address":"4801 N. Broadway, Chicago, 60640, USA",
+    "cuisine":"$$ \u00b7 Ethiopian",
+    "latitude":41.969194,
+    "longitude":-87.659341
+  },
+  {
+    "name":"Beity",
+    "address":"813 W. Fulton St., Chicago, 60607, USA",
+    "cuisine":"$$$$ \u00b7 Lebanese, Contemporary",
+    "latitude":41.886964,
+    "longitude":-87.649429
+  },
+  {
+    "name":"Superkhana International",
+    "address":"3059 W. Diversey Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 Indian, Fusion",
+    "latitude":41.931855,
+    "longitude":-87.704816
+  },
+  {
+    "name":"Next",
+    "address":"953 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":41.886638,
+    "longitude":-87.651425
+  },
+  {
+    "name":"Gaijin",
+    "address":"950 W. Lake St., Chicago, 60607, USA",
+    "cuisine":"$$ \u00b7 Japanese, Okonomiyaki",
+    "latitude":41.885845,
+    "longitude":-87.651797
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Pizza Friendly Pizza",
+    "address":"1039 N. Western Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Pizza, American",
+    "latitude":41.900513,
+    "longitude":-87.68669
+  },
+  {
+    "name":"Andros Taverna",
+    "address":"2542 N. Milwaukee Ave., Chicago, 60647, USA",
+    "cuisine":"$$$ \u00b7 Greek",
+    "latitude":41.927495,
+    "longitude":-87.7055
+  },
+  {
+    "name":"Ghin Khao",
+    "address":"2128 W. Cermak Rd., Chicago, 60608, USA",
+    "cuisine":"$ \u00b7 Thai",
+    "latitude":41.852299,
+    "longitude":-87.679519
+  },
+  {
+    "name":"Tzuco",
+    "address":"720 N. State St., Chicago, 60654, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":41.895274,
+    "longitude":-87.628723
+  },
+  {
+    "name":"Perilla",
+    "address":"401 N. Milwaukee Ave., Chicago, 60654, USA",
+    "cuisine":"$$ \u00b7 Korean, American",
+    "latitude":41.889424,
+    "longitude":-87.643759
+  },
+  {
+    "name":"Rose Mary",
+    "address":"932 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$$$ \u00b7 Croatian, Italian",
+    "latitude":41.886978,
+    "longitude":-87.651185
+  },
+  {
+    "name":"Sochi",
+    "address":"1358 W. Belmont Ave., Chicago, 60657, USA",
+    "cuisine":"$$ \u00b7 Vietnamese",
+    "latitude":41.939982,
+    "longitude":-87.663411
+  },
+  {
+    "name":"Swift & Sons Tavern & Oyster Bar",
+    "address":"3600 N. Clark St., Chicago, 60613, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":41.947349,
+    "longitude":-87.656935
+  },
+  {
+    "name":"Monteverde",
+    "address":"1020 W. Madison St., Chicago, 60607, USA",
+    "cuisine":"$$$ \u00b7 Italian, American",
+    "latitude":41.881938,
+    "longitude":-87.652987
+  },
+  {
+    "name":"Provar\u00e9",
+    "address":"1523 W. Chicago Ave., Chicago, 60642, USA",
+    "cuisine":"$$$ \u00b7 Fusion, Creole",
+    "latitude":41.895867,
+    "longitude":-87.665851
+  },
+  {
+    "name":"Chez Jo\u00ebl",
+    "address":"1119 W. Taylor St., Chicago, 60607, USA",
+    "cuisine":"$$ \u00b7 French, Classic French",
+    "latitude":41.869251,
+    "longitude":-87.655085
+  },
+  {
+    "name":"Lula Cafe",
+    "address":"2537 N. Kedzie Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":41.927636,
+    "longitude":-87.706616
+  },
+  {
+    "name":"Brindille",
+    "address":"534 N. Clark St., Chicago, 60654, USA",
+    "cuisine":"$$$$ \u00b7 French",
+    "latitude":41.891904,
+    "longitude":-87.631426
+  },
+  {
+    "name":"Gilt Bar",
+    "address":"230 W. Kinzie St., Chicago, 60654, USA",
+    "cuisine":"$$ \u00b7 Gastropub",
+    "latitude":41.889405,
+    "longitude":-87.635356
+  },
+  {
+    "name":"Coalfire",
+    "address":"1321 W. Grand Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Pizza, American",
+    "latitude":41.890812,
+    "longitude":-87.659902
+  },
+  {
+    "name":"S.K.Y.",
+    "address":"2300 N. Lincoln Park W., Chicago, 60614, USA",
+    "cuisine":"$$ \u00b7 Contemporary",
+    "latitude":41.923996,
+    "longitude":-87.637114
+  },
+  {
+    "name":"Itoko",
+    "address":"3325 N. Southport Ave., Chicago, 60657, USA",
+    "cuisine":"$$$ \u00b7 Japanese",
+    "latitude":41.942314,
+    "longitude":-87.663631
+  },
+  {
+    "name":"Alla Vita",
+    "address":"564 W. Randolph St., Chicago, 60661, USA",
+    "cuisine":"$$$ \u00b7 Italian, Italian-American",
+    "latitude":41.884605,
+    "longitude":-87.642407
+  },
+  {
+    "name":"Cellar Door Provisions",
+    "address":"3025 W. Diversey Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 Mediterranean Cuisine",
+    "latitude":41.932004,
+    "longitude":-87.703577
+  },
+  {
+    "name":"Moody Tongue",
+    "address":"2515 S. Wabash Ave., Chicago, 60616, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American Contemporary",
+    "latitude":41.846978,
+    "longitude":-87.624933
+  },
+  {
+    "name":"Lardon",
+    "address":"2200 California Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 Deli, Italian",
+    "latitude":41.92183,
+    "longitude":-87.697687
+  },
+  {
+    "name":"Birrieria Zaragoza",
+    "address":"4852 S. Pulaski Rd., Chicago, 60632, USA",
+    "cuisine":"$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":41.804476,
+    "longitude":-87.723818
+  },
+  {
+    "name":"Les Nomades",
+    "address":"222 E. Ontario St., Chicago, 60611, USA",
+    "cuisine":"$$$$ \u00b7 French",
+    "latitude":41.893646,
+    "longitude":-87.621754
+  },
+  {
+    "name":"Bavette\u2019s Bar & Boeuf",
+    "address":"218 W. Kinzie St., Chicago, 60654, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse",
+    "latitude":41.889415,
+    "longitude":-87.634876
+  },
+  {
+    "name":"Alinea",
+    "address":"1723 N. Halsted St., Chicago, 60614, USA",
+    "cuisine":"$$$$ \u00b7 Creative, Modern Cuisine",
+    "latitude":41.913442,
+    "longitude":-87.648031
+  },
+  {
+    "name":"Chicago Cut",
+    "address":"300 N. LaSalle St., Chicago, 60654, USA",
+    "cuisine":"$$$ \u00b7 Steakhouse",
+    "latitude":41.888165,
+    "longitude":-87.633112
+  },
+  {
+    "name":"Ina Mae",
+    "address":"1415 N. Wood St., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Southern, Creole",
+    "latitude":41.907666,
+    "longitude":-87.672194
+  },
+  {
+    "name":"Union",
+    "address":"2202 N. California Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 American, Gastropub",
+    "latitude":41.921825,
+    "longitude":-87.697574
+  },
+  {
+    "name":"Virtue",
+    "address":"1462 E. 53rd St., Chicago, 60615, USA",
+    "cuisine":"$$ \u00b7 Southern, Regional Cuisine",
+    "latitude":41.799704,
+    "longitude":-87.589408
+  },
+  {
+    "name":"The Duck Inn",
+    "address":"2701 S. Eleanor St., Chicago, 60608, USA",
+    "cuisine":"$$ \u00b7 Gastropub, American Contemporary",
+    "latitude":41.84438,
+    "longitude":-87.66011
+  },
+  {
+    "name":"HaiSous",
+    "address":"1800 S. Carpenter Ave., Chicago, 60608, USA",
+    "cuisine":"$$ \u00b7 Vietnamese",
+    "latitude":41.857872,
+    "longitude":-87.653513
+  },
+  {
+    "name":"Daisies",
+    "address":"2375 Milwaukee Ave., Chicago, 60647, USA",
+    "cuisine":"$$ \u00b7 Italian",
+    "latitude":41.924512,
+    "longitude":-87.699524
+  },
+  {
+    "name":"GG's Chicken Shop",
+    "address":"3325 N. Southport Ave., Chicago, 60657, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":41.942314,
+    "longitude":-87.663631
+  },
+  {
+    "name":"Maxwells Trading",
+    "address":"1516 W. Carroll Ave., Chicago, 60607, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, American",
+    "latitude":41.887672,
+    "longitude":-87.665246
+  },
+  {
+    "name":"Anelya",
+    "address":"3472 N. Elston Ave., Chicago, 60618, USA",
+    "cuisine":"$$ \u00b7 Eastern European",
+    "latitude":41.944214,
+    "longitude":-87.705678
+  },
+  {
+    "name":"Kyoten Next Door",
+    "address":"2513 W. Armitage Ave., Chicago, 60647, USA",
+    "cuisine":"$$$$ \u00b7 Sushi, Japanese",
+    "latitude":41.917193,
+    "longitude":-87.690342
+  },
+  {
+    "name":"Ob\u00e9lix",
+    "address":"700 N. Sedgwick St., Chicago, 60654, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":41.895642,
+    "longitude":-87.63864
+  },
+  {
+    "name":"Kie-Gol-Lanee",
+    "address":"5004 N. Sheridan Rd., Chicago, 60640, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":41.973545,
+    "longitude":-87.655165
+  },
+  {
+    "name":"Maple & Ash",
+    "address":"8 W. Maple St., Chicago, 60610, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse",
+    "latitude":41.902067,
+    "longitude":-87.628719
+  },
+  {
+    "name":"Quarter Acre",
+    "address":"2023 Greenville Ave., Ste. 110, Dallas, 75206, USA",
+    "cuisine":"$$$ \u00b7 Contemporary",
+    "latitude":32.815298,
+    "longitude":-96.770478
+  },
+  {
+    "name":"La Santa Barbacha",
+    "address":"2806 Manor Rd., Austin, 78722, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":30.285713,
+    "longitude":-97.711557
+  },
+  {
+    "name":"Craft Omakase",
+    "address":"4400 N. Lamar Blvd., Ste. 102, Austin, 78756, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":30.312683,
+    "longitude":-97.73855
+  },
+  {
+    "name":"Jeffrey's",
+    "address":"1204 W. Lynn St., Austin, 78704, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Steakhouse",
+    "latitude":30.280477,
+    "longitude":-97.759081
+  },
+  {
+    "name":"la Barbecue",
+    "address":"2401 E. Cesar Chavez St., Austin, 78702, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":30.25451,
+    "longitude":-97.71762
+  },
+  {
+    "name":"Tejas Chocolate + Barbecue",
+    "address":"200 N. Elm St., Tomball, 77375, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":30.099023,
+    "longitude":-95.614776
+  },
+  {
+    "name":"Hidden Omakase",
+    "address":"5353 W. Alabama St., Ste. 102, Houston, 77056, USA",
+    "cuisine":"$$$$ \u00b7 Sushi, Contemporary",
+    "latitude":29.737646,
+    "longitude":-95.469138
+  },
+  {
+    "name":"El Carlos Elegante",
+    "address":"1400 N. Riverfront Blvd., Dallas, 75207, USA",
+    "cuisine":"$$$$ \u00b7 Mexican, Contemporary",
+    "latitude":32.790231,
+    "longitude":-96.819906
+  },
+  {
+    "name":"InterStellar BBQ",
+    "address":"12233 Ranch Rd. 620 N., Ste. 105, Austin, 78750, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":30.461468,
+    "longitude":-97.8152
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Leche de Tigre",
+    "address":"318 E. Cevallos St., San Antonio, 78204, USA",
+    "cuisine":"$$ \u00b7 Peruvian",
+    "latitude":29.407488,
+    "longitude":-98.497258
+  },
+  {
+    "name":"Mixtli",
+    "address":"812 S. Alamo St., Ste. 103, San Antonio, 78205, USA",
+    "cuisine":"$$$$ \u00b7 Mexican",
+    "latitude":29.415475,
+    "longitude":-98.489208
+  },
+  {
+    "name":"Bludorn",
+    "address":"807 Taft St., Houston, 77019, USA",
+    "cuisine":"$$$ \u00b7 American, Contemporary",
+    "latitude":29.75892,
+    "longitude":-95.38561
+  },
+  {
+    "name":"Fearing's",
+    "address":"2121 McKinney Ave., Dallas, 75201, USA",
+    "cuisine":"$$$$ \u00b7 American, Regional Cuisine",
+    "latitude":32.792372,
+    "longitude":-96.803757
+  },
+  {
+    "name":"Knox Bistro",
+    "address":"3230 Knox St., Dallas, 75205, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":32.823736,
+    "longitude":-96.789977
+  },
+  {
+    "name":"nobie's",
+    "address":"2048 Colquitt St., Houston, 77098, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":29.735371,
+    "longitude":-95.410049
+  },
+  {
+    "name":"Signature Restaurant",
+    "address":"16401 La Cantera Pkwy, San Antonio, 78256, USA",
+    "cuisine":"$$$$ \u00b7 American",
+    "latitude":29.599145,
+    "longitude":-98.618735
+  },
+  {
+    "name":"Kemuri Tatsu-ya",
+    "address":"2713 E. 2nd St., Austin, 78702, USA",
+    "cuisine":"$$ \u00b7 Izakaya, Barbecue",
+    "latitude":30.253812,
+    "longitude":-97.712943
+  },
+  {
+    "name":"Distant Relatives",
+    "address":"3901 Promontory Point Dr., Austin, 78744, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":30.208865,
+    "longitude":-97.729519
+  },
+  {
+    "name":"Rye",
+    "address":"1920 Greenville Ave., Dallas, 75206, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":32.813561,
+    "longitude":-96.769948
+  },
+  {
+    "name":"Burnt Bean Co.",
+    "address":"108 S. Austin St., Seguin, 78155, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":29.568015,
+    "longitude":-97.964608
+  },
+  {
+    "name":"Discada",
+    "address":"1700 E. Cesar Chavez St., Austin, 78702, USA",
+    "cuisine":"$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":30.258027,
+    "longitude":-97.72601
+  },
+  {
+    "name":"Cattleack Barbeque",
+    "address":"13628 Gamma Rd., Dallas, 75244, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":32.934579,
+    "longitude":-96.836283
+  },
+  {
+    "name":"Blood Bros BBQ",
+    "address":"5425 Bellaire Blvd., Bellaire, 77401, USA",
+    "cuisine":"$$ \u00b7 Barbecue, Asian",
+    "latitude":29.70513,
+    "longitude":-95.475581
+  },
+  {
+    "name":"Candente",
+    "address":"4306 Yoakum Blvd., Houston, 77006, USA",
+    "cuisine":"$$ \u00b7 Tex-Mex",
+    "latitude":29.73411,
+    "longitude":-95.39311
+  },
+  {
+    "name":"Goldee\u2019s",
+    "address":"4645 Dick Price Rd., Fort Worth, 76140, USA",
+    "cuisine":"$$ \u00b7 Barbecue, American",
+    "latitude":32.621342,
+    "longitude":-97.233516
+  },
+  {
+    "name":"Barbs B Q",
+    "address":"102 E. Market St., Lockhart, 78644, USA",
+    "cuisine":"$$ \u00b7 Barbecue, American",
+    "latitude":29.883621,
+    "longitude":-97.671923
+  },
+  {
+    "name":"Sachet",
+    "address":"4270 Oak Lawn Ave., Dallas, 75219, USA",
+    "cuisine":"$$ \u00b7 Mediterranean Cuisine",
+    "latitude":32.821385,
+    "longitude":-96.802367
+  },
+  {
+    "name":"Ramen del Barrio",
+    "address":"1700 W. Parmer Ln., Austin, 78727, USA",
+    "cuisine":"$$ \u00b7 Fusion, Ramen",
+    "latitude":30.413311,
+    "longitude":-97.68815
+  },
+  {
+    "name":"Lucia",
+    "address":"287 N. Bishop Ave., Dallas, 75208, USA",
+    "cuisine":"$$$ \u00b7 Italian",
+    "latitude":32.747028,
+    "longitude":-96.828502
+  },
+  {
+    "name":"Garcia's Mexican Food",
+    "address":"842 Fredericksburg Rd., San Antonio, 78201, USA",
+    "cuisine":"$ \u00b7 Tex-Mex",
+    "latitude":29.45173,
+    "longitude":-98.513324
+  },
+  {
+    "name":"Cuantos Tacos",
+    "address":"1108 E. 12th St., Austin, 78702, USA",
+    "cuisine":"$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":30.272641,
+    "longitude":-97.728458
+  },
+  {
+    "name":"Franklin Barbecue",
+    "address":"900 E. 11th St., Austin, 78702, USA",
+    "cuisine":"$$ \u00b7 Barbecue, Regional Cuisine",
+    "latitude":30.270142,
+    "longitude":-97.731297
+  },
+  {
+    "name":"Killen's BBQ",
+    "address":"3613 Broadway St., Pearland, 77581, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":29.564083,
+    "longitude":-95.282235
+  },
+  {
+    "name":"Gemma",
+    "address":"2323 N. Henderson Ave., Ste. 109, Dallas, 75206, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":32.814145,
+    "longitude":-96.778213
+  },
+  {
+    "name":"Rosie Cannonball",
+    "address":"1620 Westheimer Rd., Houston, 77006, USA",
+    "cuisine":"$$ \u00b7 Contemporary, Italian",
+    "latitude":29.742952,
+    "longitude":-95.400268
+  },
+  {
+    "name":"Pappas Bros. Steakhouse",
+    "address":"5839 Westheimer Rd., Houston, 77057, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse, American",
+    "latitude":29.737005,
+    "longitude":-95.481027
+  },
+  {
+    "name":"The Pit Room",
+    "address":"1201 Richmond Ave., Houston, 77006, USA",
+    "cuisine":"$$ \u00b7 Barbecue, Mexican",
+    "latitude":29.734268,
+    "longitude":-95.393965
+  },
+  {
+    "name":"Este",
+    "address":"2113 Manor Rd., Austin, 78722, USA",
+    "cuisine":"$$$ \u00b7 Mexican, Seafood",
+    "latitude":30.284034,
+    "longitude":-97.719522
+  },
+  {
+    "name":"Barsotti's",
+    "address":"4208 Oak Lawn Ave., Dallas, 75219, USA",
+    "cuisine":"$$ \u00b7 Italian",
+    "latitude":32.819982,
+    "longitude":-96.802379
+  },
+  {
+    "name":"Joe's Bakery & Coffee Shop",
+    "address":"2305 E. 7th St., Austin, 78702, USA",
+    "cuisine":"$ \u00b7 Tex-Mex",
+    "latitude":30.26108,
+    "longitude":-97.716688
+  },
+  {
+    "name":"Ngon Vietnamese Kitchen",
+    "address":"1907 Greenville Ave., Dallas, 75206, USA",
+    "cuisine":"$$ \u00b7 Vietnamese",
+    "latitude":32.813727,
+    "longitude":-96.770509
+  },
+  {
+    "name":"Emmer & Rye",
+    "address":"51 Rainey St., Austin, 78701, USA",
+    "cuisine":"$$$ \u00b7 American, Contemporary",
+    "latitude":30.256892,
+    "longitude":-97.739319
+  },
+  {
+    "name":"Terry Black\u2019s BBQ",
+    "address":"1003 Barton Springs Rd., Austin, 78704, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":30.259724,
+    "longitude":-97.75489
+  },
+  {
+    "name":"nonna",
+    "address":"4115 Lomo Alto Dr., Dallas, 75219, USA",
+    "cuisine":"$$$ \u00b7 Italian",
+    "latitude":32.821114,
+    "longitude":-96.815252
+  },
+  {
+    "name":"Mum Foods Smokehouse & Delicatessen",
+    "address":"5811 Manor Rd., Austin, 78723, USA",
+    "cuisine":"$$ \u00b7 Barbecue, Deli",
+    "latitude":30.305859,
+    "longitude":-97.67976
+  },
+  {
+    "name":"KG BBQ",
+    "address":"3108 Manor Rd., Austin, 78723, USA",
+    "cuisine":"$$ \u00b7 Barbecue, Egyptian",
+    "latitude":30.286813,
+    "longitude":-97.705283
+  },
+  {
+    "name":"Mercat Bistro",
+    "address":"2501 N. Harwood St., Ste. 225, Dallas, 75201, USA",
+    "cuisine":"$$$ \u00b7 French, American",
+    "latitude":32.79162,
+    "longitude":-96.80619
+  },
+  {
+    "name":"Late August",
+    "address":"4201 Main St., Ste. 120, Houston, 77002, USA",
+    "cuisine":"$$$ \u00b7 Southern, International",
+    "latitude":29.734381,
+    "longitude":-95.382088
+  },
+  {
+    "name":"Rosemeyer Bar-B-Q",
+    "address":"2111 Riley Fuzzell Rd., Spring, 77386, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":30.105021,
+    "longitude":-95.398682
+  },
+  {
+    "name":"Ema",
+    "address":"5307 N. Main St., Houston, 77009, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":29.803088,
+    "longitude":-95.387737
+  },
+  {
+    "name":"Le Jardinier Houston",
+    "address":"5500 Main St., Houston, 77004, USA",
+    "cuisine":"$$$$ \u00b7 French, Contemporary",
+    "latitude":29.726535,
+    "longitude":-95.389692
+  },
+  {
+    "name":"Comedor",
+    "address":"501 Colorado St., Austin, 78701, USA",
+    "cuisine":"$$$ \u00b7 Mexican, Contemporary",
+    "latitude":30.267646,
+    "longitude":-97.744276
+  },
+  {
+    "name":"Tatsu Dallas",
+    "address":"3309 Elm St., Ste. 120, Dallas, 75226, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":32.78671,
+    "longitude":-96.77782
+  },
+  {
+    "name":"Harvest",
+    "address":"215 N. Kentucky St., McKinney, 75069, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":33.198509,
+    "longitude":-96.615998
+  },
+  {
+    "name":"Toshokan",
+    "address":"807 E. 4th St., Austin, 78702, USA",
+    "cuisine":"$$$$ \u00b7 Sushi",
+    "latitude":30.263467,
+    "longitude":-97.734701
+  },
+  {
+    "name":"Lenoir",
+    "address":"1807 S. 1st St., Austin, 78704, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, Regional Cuisine",
+    "latitude":30.24687,
+    "longitude":-97.75587
+  },
+  {
+    "name":"Nancy's Hustle",
+    "address":"2704 Polk St., Houston, 77003, USA",
+    "cuisine":"$$ \u00b7 Contemporary",
+    "latitude":29.745611,
+    "longitude":-95.352048
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Street to Kitchen",
+    "address":"3401 Harrisburg Blvd., Houston, 77003, USA",
+    "cuisine":"$$ \u00b7 Thai",
+    "latitude":29.748495,
+    "longitude":-95.340844
+  },
+  {
+    "name":"Hestia",
+    "address":"607 W. 3rd St., Austin, 78701, USA",
+    "cuisine":"$$$$ \u00b7 American, Contemporary",
+    "latitude":30.266746,
+    "longitude":-97.749918
+  },
+  {
+    "name":"Cullum's Attaboy",
+    "address":"111 Kings Ct., San Antonio, 78212, USA",
+    "cuisine":"$$ \u00b7 French, American",
+    "latitude":29.452944,
+    "longitude":-98.485044
+  },
+  {
+    "name":"2M Smokehouse",
+    "address":"2731 S. Ww White Rd., San Antonio, 78222, USA",
+    "cuisine":"$ \u00b7 Barbecue, Mexican",
+    "latitude":29.38247,
+    "longitude":-98.40492
+  },
+  {
+    "name":"Baso",
+    "address":"633 W. 19th St., #A, Houston, 77008, USA",
+    "cuisine":"$$$$ \u00b7 American, Contemporary",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"Nic\u014dsi",
+    "address":"221 Newell Ave., San Antonio, 78215, USA",
+    "cuisine":"$$$$ \u00b7 Creative",
+    "latitude":29.441099,
+    "longitude":-98.480877
+  },
+  {
+    "name":"Nam Giao",
+    "address":"6938 Wilcrest Dr., Houston, 77072, USA",
+    "cuisine":"$ \u00b7 Vietnamese",
+    "latitude":29.702756,
+    "longitude":-95.571608
+  },
+  {
+    "name":"CorkScrew BBQ",
+    "address":"26608 Keith St., Spring, 77373, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":30.080675,
+    "longitude":-95.419991
+  },
+  {
+    "name":"Musaafer",
+    "address":"5115 Westheimer Rd., Ste. C-3500, Houston, 77056, USA",
+    "cuisine":"$$$$ \u00b7 Indian, Contemporary",
+    "latitude":29.74022,
+    "longitude":-95.46537
+  },
+  {
+    "name":"Ezov",
+    "address":"2708 E. Cesar Chavez St., Austin, 78704, USA",
+    "cuisine":"$$$ \u00b7 Israeli",
+    "latitude":30.253476,
+    "longitude":-97.713504
+  },
+  {
+    "name":"Lutie's",
+    "address":"4100 Red River St., Austin, 78751, USA",
+    "cuisine":"$$$ \u00b7 American, Regional Cuisine",
+    "latitude":30.300735,
+    "longitude":-97.722112
+  },
+  {
+    "name":"Birdie's",
+    "address":"2944 E. 12th St., Austin, 78702, USA",
+    "cuisine":"$$$ \u00b7 Contemporary",
+    "latitude":30.27646,
+    "longitude":-97.70456
+  },
+  {
+    "name":"Launderette",
+    "address":"2115 Holly St., Austin, 78702, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, Mediterranean Cuisine",
+    "latitude":30.25186,
+    "longitude":-97.72272
+  },
+  {
+    "name":"Panther City BBQ",
+    "address":"201 E. Hattie St., Fort Worth, 76104, USA",
+    "cuisine":"$$ \u00b7 Barbecue, Tex-Mex",
+    "latitude":32.73818,
+    "longitude":-97.32479
+  },
+  {
+    "name":"Belly of the Beast",
+    "address":"5200 FM 2920 Rd., Ste. 180, Spring, 77388, USA",
+    "cuisine":"$$ \u00b7 Mexican, Contemporary",
+    "latitude":30.074494,
+    "longitude":-95.498464
+  },
+  {
+    "name":"Georgie",
+    "address":"4514 Travis St., Dallas, 75205, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, French",
+    "latitude":32.822349,
+    "longitude":-96.790563
+  },
+  {
+    "name":"March",
+    "address":"1624 Westheimer Rd., Houston, 77006, USA",
+    "cuisine":"$$$$ \u00b7 Creative, Mediterranean Cuisine",
+    "latitude":29.743072,
+    "longitude":-95.400278
+  },
+  {
+    "name":"Truth BBQ",
+    "address":"110 S. Heights Blvd., Houston, 77007, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":29.769336,
+    "longitude":-95.397288
+  },
+  {
+    "name":"Apt 115",
+    "address":"2025 E. 7th St., Austin, 78702, USA",
+    "cuisine":"$$$$ \u00b7 Fusion",
+    "latitude":30.261686,
+    "longitude":-97.719694
+  },
+  {
+    "name":"Smoke'N Ash BBQ",
+    "address":"5904 S. Cooper St., Ste. 110, Arlington, 76017, USA",
+    "cuisine":"$$ \u00b7 Barbecue, Ethiopian",
+    "latitude":32.651248,
+    "longitude":-97.136011
+  },
+  {
+    "name":"Brisket & Rice",
+    "address":"13111 FM-529 Rd., Houston, 77041, USA",
+    "cuisine":"$$ \u00b7 Barbecue, Asian",
+    "latitude":29.878952,
+    "longitude":-95.609032
+  },
+  {
+    "name":"Stillwell's",
+    "address":"H\u00f4tel Swexan, 2575 Mckinnon St., Dallas, 75201, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse",
+    "latitude":32.792444,
+    "longitude":-96.805949
+  },
+  {
+    "name":"Stock & Barrel",
+    "address":"316 W. Davis St., Dallas, 75208, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":32.749255,
+    "longitude":-96.827384
+  },
+  {
+    "name":"Mexta",
+    "address":"106 E. 6th St., Ste. #110, Austin, 78701, USA",
+    "cuisine":"$$$ \u00b7 Mexican, Contemporary",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"Barley Swine",
+    "address":"6555 Burnet Rd., Ste. 400, Austin, 78757, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American",
+    "latitude":30.341383,
+    "longitude":-97.738304
+  },
+  {
+    "name":"Mala Sichuan Bistro",
+    "address":"9348 Bellaire Blvd., Houston, 77036, USA",
+    "cuisine":"$$ \u00b7 Chinese, Sichuan",
+    "latitude":29.70599,
+    "longitude":-95.548058
+  },
+  {
+    "name":"Killen's",
+    "address":"101 Heights Blvd., Houston, 77007, USA",
+    "cuisine":"$$ \u00b7 American, Southern",
+    "latitude":29.77062,
+    "longitude":-95.39769
+  },
+  {
+    "name":"Theodore Rex",
+    "address":"1302 Nance St., Unit A, Houston, 77002, USA",
+    "cuisine":"$$$ \u00b7 Contemporary",
+    "latitude":29.767974,
+    "longitude":-95.354055
+  },
+  {
+    "name":"BCN Taste & Tradition",
+    "address":"4210 Roseland St., Houston, 77006, USA",
+    "cuisine":"$$$$ \u00b7 Spanish, Contemporary",
+    "latitude":29.734888,
+    "longitude":-95.390073
+  },
+  {
+    "name":"Dai Due",
+    "address":"2406 Manor Rd., Austin, 78722, USA",
+    "cuisine":"$$ \u00b7 American, Regional Cuisine",
+    "latitude":30.284951,
+    "longitude":-97.716889
+  },
+  {
+    "name":"The Jerk Shack",
+    "address":"10234 Texas 151, Ste. 103, San Antonio, 78251, USA",
+    "cuisine":"$ \u00b7 Jamaican, Caribbean",
+    "latitude":29.448699,
+    "longitude":-98.684943
+  },
+  {
+    "name":"Monarch",
+    "address":"1401 Elm St., Dallas, 75201, USA",
+    "cuisine":"$$$$ \u00b7 Italian-American",
+    "latitude":32.78138,
+    "longitude":-96.800677
+  },
+  {
+    "name":"Briscuits",
+    "address":"4204 Menchaca Rd., Austin, 78704, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":30.231539,
+    "longitude":-97.78781
+  },
+  {
+    "name":"Garrison",
+    "address":"101 Red River St., Austin, 78701, USA",
+    "cuisine":"$$$$ \u00b7 American",
+    "latitude":30.262123,
+    "longitude":-97.738408
+  },
+  {
+    "name":"Micklethwait Craft Meats",
+    "address":"4602 Tanney St., Austin, 78721, USA",
+    "cuisine":"$$ \u00b7 Barbecue, Regional Cuisine",
+    "latitude":30.273175,
+    "longitude":-97.690174
+  },
+  {
+    "name":"Olamaie",
+    "address":"1610 San Antonio St., Austin, 78701, USA",
+    "cuisine":"$$$ \u00b7 American, Southern",
+    "latitude":30.279895,
+    "longitude":-97.743675
+  },
+  {
+    "name":"Tei-An",
+    "address":"1722 Routh St., Dallas, 75201, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Soba",
+    "latitude":32.791868,
+    "longitude":-96.795215
+  },
+  {
+    "name":"Tatem\u00f3",
+    "address":"4740 Dacoma St., Houston, 77092, USA",
+    "cuisine":"$$$$ \u00b7 Mexican, Contemporary",
+    "latitude":29.807199,
+    "longitude":-95.460761
+  },
+  {
+    "name":"Ling Kitchen",
+    "address":"8423 Research Blvd., Austin, 78758, USA",
+    "cuisine":"$$$$ \u00b7 Chinese, Contemporary",
+    "latitude":30.35928,
+    "longitude":-97.71593
+  },
+  {
+    "name":"Odd Duck",
+    "address":"1201 S. Lamar Blvd., Austin, 78704, USA",
+    "cuisine":"$$$ \u00b7 American, Contemporary",
+    "latitude":30.254739,
+    "longitude":-97.762043
+  },
+  {
+    "name":"Ladino",
+    "address":"200 E. Grayson St. #100, San Antonio, 78215, USA",
+    "cuisine":"$$ \u00b7 Mediterranean Cuisine, Regional Cuisine",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"LeRoy and Lewis Barbecue",
+    "address":"5621 Emerald Forest Dr., Austin, 78745, USA",
+    "cuisine":"$$ \u00b7 Barbecue, American",
+    "latitude":30.209824,
+    "longitude":-97.787258
+  },
+  {
+    "name":"Birrieria y Taqueria Cortez",
+    "address":"2220 E. Rosedale St., Fort Worth, 76105, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":32.73061,
+    "longitude":-97.295546
+  },
+  {
+    "name":"Tare",
+    "address":"12414 Alderbrook Dr., Austin, 78727, USA",
+    "cuisine":"$$$$ \u00b7 Japanese",
+    "latitude":30.415377,
+    "longitude":-97.698069
+  },
+  {
+    "name":"La Condesa",
+    "address":"400 W. 2nd St., Austin, 78701, USA",
+    "cuisine":"$$$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":30.26546,
+    "longitude":-97.747781
+  },
+  {
+    "name":"Pinkerton's Barbecue",
+    "address":"1504 Airline Dr., Houston, 77009, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":29.79866,
+    "longitude":-95.381517
+  },
+  {
+    "name":"M\u1ed9t Hai Ba",
+    "address":"6047 Lewis St., Dallas, 75206, USA",
+    "cuisine":"$$ \u00b7 Fusion, Vietnamese",
+    "latitude":32.812287,
+    "longitude":-96.762296
+  },
+  {
+    "name":"Little Em\u2019s Oyster Bar",
+    "address":"1024 S. Alamo St., San Antonio, 78210, USA",
+    "cuisine":"$$ \u00b7 Seafood, American",
+    "latitude":29.41338,
+    "longitude":-98.491029
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Written By The Seasons",
+    "address":"380 Melba St., Dallas, 75208, USA",
+    "cuisine":"$$$ \u00b7 American Contemporary",
+    "latitude":32.747462,
+    "longitude":-96.828491
+  },
+  {
+    "name":"Crown Block",
+    "address":"300 Reunion Blvd. E., Dallas, 75207, USA",
+    "cuisine":"$$$$ \u00b7 American Contemporary, Meats and Seafood",
+    "latitude":32.775992,
+    "longitude":-96.809544
+  },
+  {
+    "name":"Mister Charles",
+    "address":"3219 Knox St., Ste. 170, Dallas, 75205, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American",
+    "latitude":32.82328,
+    "longitude":-96.790071
+  },
+  {
+    "name":"Veracruz Fonda & Bar",
+    "address":"1905 Aldrich St., Austin, 78723, USA",
+    "cuisine":"$$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":30.297839,
+    "longitude":-97.705374
+  },
+  {
+    "name":"Nixta Taqueria",
+    "address":"2512 E. 12th St., Austin, 78702, USA",
+    "cuisine":"$$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":30.274966,
+    "longitude":-97.713255
+  },
+  {
+    "name":"Maie Day",
+    "address":"1603 S. Congress Ave., Austin, 78704, USA",
+    "cuisine":"$$$ \u00b7 Steakhouse, American",
+    "latitude":30.247412,
+    "longitude":-97.75014
+  },
+  {
+    "name":"Suerte",
+    "address":"1800 E. 6th St., Austin, 78702, USA",
+    "cuisine":"$$$ \u00b7 Mexican, Regional Cuisine",
+    "latitude":30.262275,
+    "longitude":-97.723273
+  },
+  {
+    "name":"Southerleigh Fine Food & Brewery",
+    "address":"136 E. Grayson St., Ste. 120, San Antonio, 78215, USA",
+    "cuisine":"$$$ \u00b7 American, Southern",
+    "latitude":29.442642,
+    "longitude":-98.480975
+  },
+  {
+    "name":"Barbecue Station",
+    "address":"1610 N.E. Loop 410, San Antonio, 78209, USA",
+    "cuisine":"$$ \u00b7 Barbecue, Regional Cuisine",
+    "latitude":29.514771,
+    "longitude":-98.439485
+  },
+  {
+    "name":"Tiny Lou's",
+    "address":"789 Ponce De Leon Ave. NE, Atlanta, 30306, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":33.77343,
+    "longitude":-84.36134
+  },
+  {
+    "name":"Superica",
+    "address":"99 Krog St., Atlanta, 30307, USA",
+    "cuisine":"$$ \u00b7 Tex-Mex",
+    "latitude":33.756935,
+    "longitude":-84.364056
+  },
+  {
+    "name":"The Deer and the Dove",
+    "address":"155 Sycamore St., Decatur, 30030, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Southern",
+    "latitude":33.774455,
+    "longitude":-84.295145
+  },
+  {
+    "name":"Delbar",
+    "address":"870 Inman Village Pkwy. NE, Ste. 1, Atlanta, 30307, USA",
+    "cuisine":"$$ \u00b7 Middle Eastern",
+    "latitude":33.76121,
+    "longitude":-84.360543
+  },
+  {
+    "name":"Table & Main",
+    "address":"1028 Canton St., Roswell, 30075, USA",
+    "cuisine":"$$ \u00b7 Southern",
+    "latitude":34.02655,
+    "longitude":-84.36169
+  },
+  {
+    "name":"Woo Nam Jeong",
+    "address":"5953 Buford Hwy. NE, Atlanta, 30340, USA",
+    "cuisine":"$$ \u00b7 Korean",
+    "latitude":33.9128,
+    "longitude":-84.261955
+  },
+  {
+    "name":"Heirloom Market BBQ",
+    "address":"2243 Akers Mill Rd. SE, Atlanta, 30339, USA",
+    "cuisine":"$$ \u00b7 Barbecue",
+    "latitude":33.898654,
+    "longitude":-84.447119
+  },
+  {
+    "name":"Marcel",
+    "address":"1170 Howell Mill Rd., Atlanta, 30318, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse",
+    "latitude":33.785827,
+    "longitude":-84.411989
+  },
+  {
+    "name":"Han Il Kwan",
+    "address":"5458 Buford Hwy. NE, Atlanta, 30340, USA",
+    "cuisine":"$$ \u00b7 Korean",
+    "latitude":33.901327,
+    "longitude":-84.276722
+  },
+  {
+    "name":"Hen Mother Cookhouse",
+    "address":"11705 Jones Bridge Rd., Johns Creek, 30005, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":34.065298,
+    "longitude":-84.210885
+  },
+  {
+    "name":"N\u00e0dair",
+    "address":"1123 Zonolite Rd. NE, #15, Atlanta, 30306, USA",
+    "cuisine":"$$$$ \u00b7 Scottish, Southern",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"Masterpiece",
+    "address":"3940 Buford Hwy., B-103, Duluth, 30096, USA",
+    "cuisine":"$$ \u00b7 Chinese, Sichuan",
+    "latitude":33.977265,
+    "longitude":-84.161481
+  },
+  {
+    "name":"The Chastain",
+    "address":"4320 Powers Ferry Rd., Atlanta, 30342, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":33.872751,
+    "longitude":-84.396335
+  },
+  {
+    "name":"Omakase Table",
+    "address":"3330 Piedmont Rd. NE, #22A, Atlanta, 30305, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"Food Terminal",
+    "address":"5000 Buford Hwy., Atlanta, 30341, USA",
+    "cuisine":"$$ \u00b7 Malaysian",
+    "latitude":33.888185,
+    "longitude":-84.288631
+  },
+  {
+    "name":"LanZhou Ramen",
+    "address":"5231 Buford Hwy. NE, Atlanta, 30340, USA",
+    "cuisine":"$$ \u00b7 Chinese, Regional Cuisine",
+    "latitude":33.89563,
+    "longitude":-84.28164
+  },
+  {
+    "name":"Chai Pani",
+    "address":"406 W. Ponce De Leon Ave., Decatur, 30030, USA",
+    "cuisine":"$$ \u00b7 Indian, Regional Cuisine",
+    "latitude":33.77535,
+    "longitude":-84.30278
+  },
+  {
+    "name":"Lyla Lila",
+    "address":"693 Peachtree St. NE, Atlanta, 30308, USA",
+    "cuisine":"$$$ \u00b7 European",
+    "latitude":33.773495,
+    "longitude":-84.384487
+  },
+  {
+    "name":"Xi'an Gourmet House",
+    "address":"955 Spring St. NW, #C, Atlanta, 30309, USA",
+    "cuisine":"$$ \u00b7 Chinese, Regional Cuisine",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"O by Brush",
+    "address":"3009 Peachtree Rd. NE, #140, Atlanta, 30305, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"The Busy Bee",
+    "address":"810 Martin Luther King Jr. Dr. SW, Atlanta, 30314, USA",
+    "cuisine":"$$ \u00b7 Southern",
+    "latitude":33.754449,
+    "longitude":-84.414032
+  },
+  {
+    "name":"Miller Union",
+    "address":"999 Brady Ave. NW, Atlanta, 30318, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":33.78206,
+    "longitude":-84.413192
+  },
+  {
+    "name":"Bacchanalia",
+    "address":"1460 Ellsworth Industrial Blvd., Ste. A, Atlanta, 30318, USA",
+    "cuisine":"$$$$ \u00b7 American",
+    "latitude":33.79484,
+    "longitude":-84.427314
+  },
+  {
+    "name":"Hayakawa",
+    "address":"1055 Howell Mill Rd., Atlanta, 30318, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":33.783383,
+    "longitude":-84.411317
+  },
+  {
+    "name":"Gunshow",
+    "address":"924 Garrett St., Ste. C, Atlanta, 30316, USA",
+    "cuisine":"$$$$ \u00b7 American",
+    "latitude":33.74073,
+    "longitude":-84.357849
+  },
+  {
+    "name":"Little Sparrow",
+    "address":"1198 Howell Mill Rd., Atlanta, 30318, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":33.78681,
+    "longitude":-84.412244
+  },
+  {
+    "name":"The General Muir",
+    "address":"1540 Avenue Pl., Ste. B-230, Atlanta, 30329, USA",
+    "cuisine":"$$$ \u00b7 Deli, American",
+    "latitude":33.801055,
+    "longitude":-84.327549
+  },
+  {
+    "name":"Antico Pizza Napoletana",
+    "address":"1093 Hemphill Ave. NW, Atlanta, 30318, USA",
+    "cuisine":"$$ \u00b7 Pizza",
+    "latitude":33.784646,
+    "longitude":-84.405634
+  },
+  {
+    "name":"Muj\u014d",
+    "address":"691 14th St. NW, Atlanta, 30318, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":33.786285,
+    "longitude":-84.411032
+  },
+  {
+    "name":"Estrellita",
+    "address":"580 Woodward Ave. SE, Atlanta, 30312, USA",
+    "cuisine":"$$ \u00b7 Filipino",
+    "latitude":33.745562,
+    "longitude":-84.368382
+  },
+  {
+    "name":"Lazy Betty",
+    "address":"999 Peachtree St. NE, Atlanta, 30309, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":33.781144,
+    "longitude":-84.383726
+  },
+  {
+    "name":"Ticonderoga Club",
+    "address":"99 Krog St. NE, Ste. W, Atlanta, 30307, USA",
+    "cuisine":"$$$ \u00b7 Contemporary",
+    "latitude":33.756935,
+    "longitude":-84.364056
+  },
+  {
+    "name":"Whoopsie's",
+    "address":"1 Moreland Ave. SE, Ste. C, Atlanta, 30316, USA",
+    "cuisine":"$$ \u00b7 American",
+    "latitude":33.753426,
+    "longitude":-84.349408
+  },
+  {
+    "name":"Arepa Mia",
+    "address":"10 N. Clarendon Ave. Ste. A, Avondale Estates, 30002, USA",
+    "cuisine":"$$ \u00b7 Venezuelan, Small eats",
+    "latitude":33.777078,
+    "longitude":-84.267521
+  },
+  {
+    "name":"The Alden",
+    "address":"5070 Peachtree Blvd., Ste. B-140, Chamblee, 30341, USA",
+    "cuisine":"$$$$ \u00b7 American, Contemporary",
+    "latitude":33.888287,
+    "longitude":-84.314243
+  },
+  {
+    "name":"Little Bear",
+    "address":"71-A Georgia Ave. SE, Ste. A, Atlanta, 30312, USA",
+    "cuisine":"$$ \u00b7 Contemporary",
+    "latitude":33.736747,
+    "longitude":-84.380629
+  },
+  {
+    "name":"Nam Phuong",
+    "address":"4051 Buford Hwy. NE, Atlanta, 30345, USA",
+    "cuisine":"$$ \u00b7 Vietnamese",
+    "latitude":33.86126,
+    "longitude":-84.307246
+  },
+  {
+    "name":"Fishmonger",
+    "address":"674 N. Highland Ave. NE, Atlanta, 30306, USA",
+    "cuisine":"$$ \u00b7 Seafood",
+    "latitude":33.773157,
+    "longitude":-84.35304
+  },
+  {
+    "name":"The White Bull",
+    "address":"123 E. Court Sq., Decatur, 30030, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":33.775051,
+    "longitude":-84.295504
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Snackboxe Bistro",
+    "address":"1960 Day Dr. NW, Ste. 1000, Duluth, 30096, USA",
+    "cuisine":"$$ \u00b7 Lao, Street Food",
+    "latitude":33.953076,
+    "longitude":-84.132237
+  },
+  {
+    "name":"Home Grown",
+    "address":"968 Memorial Dr. SE, Atlanta, 30316, USA",
+    "cuisine":"$$ \u00b7 American, Southern",
+    "latitude":33.746407,
+    "longitude":-84.355509
+  },
+  {
+    "name":"Kamayan ATL",
+    "address":"5150 Buford Hwy. NE, Ste. A230, Atlanta, 30340, USA",
+    "cuisine":"$$ \u00b7 Filipino",
+    "latitude":33.893589,
+    "longitude":-84.285435
+  },
+  {
+    "name":"Tomo",
+    "address":"3630 Peachtree Rd. NE, Ste. 140, Atlanta, 30326, USA",
+    "cuisine":"$$$$ \u00b7 Japanese, Sushi",
+    "latitude":33.854601,
+    "longitude":-84.358445
+  },
+  {
+    "name":"Atlas",
+    "address":"88 W. Paces Ferry Rd. NW, Atlanta, 30305, USA",
+    "cuisine":"$$$$ \u00b7 American",
+    "latitude":33.839899,
+    "longitude":-84.382581
+  },
+  {
+    "name":"BoccaLupo",
+    "address":"753 Edgewood Ave. NE, Atlanta, 30307, USA",
+    "cuisine":"$$$ \u00b7 Italian-American",
+    "latitude":33.754777,
+    "longitude":-84.362772
+  },
+  {
+    "name":"Bomb Biscuit Co.",
+    "address":"519 Memorial Dr. SE, Ste. B-02, Atlanta, 30312, USA",
+    "cuisine":"$ \u00b7 Southern",
+    "latitude":33.746236,
+    "longitude":-84.370368
+  },
+  {
+    "name":"Storico Fresco Alimentari",
+    "address":"3167 Peachtree Rd., Atlanta, 30305, USA",
+    "cuisine":"$$ \u00b7 Italian",
+    "latitude":33.840342,
+    "longitude":-84.375818
+  },
+  {
+    "name":"Banshee",
+    "address":"1271 Glenwood Ave. SE, Atlanta, 30316, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":33.74,
+    "longitude":-84.345929
+  },
+  {
+    "name":"Kimball House",
+    "address":"303 E. Howard Ave., Decatur, 30030, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Shellfish Specialities",
+    "latitude":33.77162,
+    "longitude":-84.292275
+  },
+  {
+    "name":"Spring",
+    "address":"36 Mill St., Marietta, 30060, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":33.953798,
+    "longitude":-84.550796
+  },
+  {
+    "name":"Staplehouse",
+    "address":"541 Edgewood Ave., Atlanta, 30312, USA",
+    "cuisine":"$$ \u00b7 American Contemporary",
+    "latitude":33.75406,
+    "longitude":-84.369896
+  },
+  {
+    "name":"Twisted Soul Cookhouse & Pours",
+    "address":"1133 Huff Rd. NW, Ste. D, Atlanta, 30318, USA",
+    "cuisine":"$$$ \u00b7 Southern",
+    "latitude":33.789497,
+    "longitude":-84.425578
+  },
+  {
+    "name":"Georgia Boy",
+    "address":"1043 Ponce de Leon Ave. NE, Atlanta, 30306, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, American",
+    "latitude":33.773832,
+    "longitude":-84.352805
+  },
+  {
+    "name":"Southern Belle",
+    "address":"1043 Ponce de Leon Ave. NE, Atlanta, 30306, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, Regional Cuisine",
+    "latitude":33.773832,
+    "longitude":-84.352805
+  },
+  {
+    "name":"Poor Hendrix",
+    "address":"2371 Hosea L. Williams Dr. NE, Atlanta, 30317, USA",
+    "cuisine":"$$ \u00b7 Contemporary",
+    "latitude":33.75086,
+    "longitude":-84.309407
+  },
+  {
+    "name":"Talat Market",
+    "address":"112 Ormond St. SE, Atlanta, 30315, USA",
+    "cuisine":"$$$ \u00b7 Thai",
+    "latitude":33.73185,
+    "longitude":-84.383982
+  },
+  {
+    "name":"Fred's Meat & Bread",
+    "address":"99 Krog St. NE, Atlanta, 30307, USA",
+    "cuisine":"$ \u00b7 American",
+    "latitude":33.756935,
+    "longitude":-84.364056
+  },
+  {
+    "name":"MAKfam",
+    "address":"39 W. 1st Ave., Denver, 80223, USA",
+    "cuisine":"$ \u00b7 Chinese",
+    "latitude":39.718513,
+    "longitude":-104.988047
+  },
+  {
+    "name":"Bramble & Hare",
+    "address":"1964 13th St., Boulder, 80302, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":40.01783,
+    "longitude":-105.278349
+  },
+  {
+    "name":"Alma Fonda Fina",
+    "address":"2556 15th St., Denver, 80211, USA",
+    "cuisine":"$$ \u00b7 Mexican, Contemporary",
+    "latitude":39.758082,
+    "longitude":-105.011673
+  },
+  {
+    "name":"Basta",
+    "address":"3601 Arapahoe Ave., Boulder, 80303, USA",
+    "cuisine":"$$ \u00b7 Contemporary",
+    "latitude":40.015175,
+    "longitude":-105.247917
+  },
+  {
+    "name":"Glo Noodle House",
+    "address":"4450 W. 38th Ave., Ste. 130, Denver, 80212, USA",
+    "cuisine":"$$ \u00b7 Ramen",
+    "latitude":39.769139,
+    "longitude":-105.044993
+  },
+  {
+    "name":"La Diabla Pozole y Mezcal",
+    "address":"2233 Larimer St., Denver, 80205, USA",
+    "cuisine":"$$ \u00b7 Mexican",
+    "latitude":39.755458,
+    "longitude":-104.98973
+  },
+  {
+    "name":"Element 47",
+    "address":"675 E. Durant Ave, Aspen, 81611, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":39.186531,
+    "longitude":-106.81745
+  },
+  {
+    "name":"Smok",
+    "address":"3330 Brighton Blvd., #202, Denver, 80216, USA",
+    "cuisine":"$$ \u00b7 Barbecue, American",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"Mercantile Dining and Provision",
+    "address":"1701 Wynkoop St., Ste. 115, Denver, 80202, USA",
+    "cuisine":"$$$ \u00b7 American",
+    "latitude":39.753115,
+    "longitude":-105.00019
+  },
+  {
+    "name":"Brut\u00f8",
+    "address":"1801 Blake St., Denver, 80202, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":39.752714,
+    "longitude":-104.996804
+  },
+  {
+    "name":"Mawa's Kitchen",
+    "address":"305 Aspen Airport Business Center, Ste. F, Aspen, 81611, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, American",
+    "latitude":39.219737,
+    "longitude":-106.860078
+  },
+  {
+    "name":"Blackbelly Market",
+    "address":"1606 Conestoga St., Ste. 1, Boulder, 80301, USA",
+    "cuisine":"$$$ \u00b7 American, Steakhouse",
+    "latitude":40.015125,
+    "longitude":-105.227522
+  },
+  {
+    "name":"The Ginger Pig",
+    "address":"4262 Lowell Blvd., Denver, 80211, USA",
+    "cuisine":"$$ \u00b7 Chinese, Asian",
+    "latitude":39.77609,
+    "longitude":-105.0342
+  },
+  {
+    "name":"Zoe Ma Ma",
+    "address":"919 Pearl St., Boulder, 80302, USA",
+    "cuisine":"$ \u00b7 Chinese",
+    "latitude":40.017348,
+    "longitude":-105.28336
+  },
+  {
+    "name":"Olivia",
+    "address":"290 S. Downing St., Denver, 80209, USA",
+    "cuisine":"$$$ \u00b7 Italian, Contemporary",
+    "latitude":39.711226,
+    "longitude":-104.973273
+  },
+  {
+    "name":"Splendido at the Chateau",
+    "address":"17 Chateau Ln., Beaver Creek, 81620, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":39.60543,
+    "longitude":-106.521366
+  },
+  {
+    "name":"Safta",
+    "address":"3330 Brighton Blvd., Ste. 201, Denver, 80216, USA",
+    "cuisine":"$$$ \u00b7 Israeli",
+    "latitude":39.768677,
+    "longitude":-104.980445
+  },
+  {
+    "name":"Tavernetta",
+    "address":"1889 16th St., Denver, 80202, USA",
+    "cuisine":"$$ \u00b7 Italian, Contemporary",
+    "latitude":39.75307,
+    "longitude":-105.00163
+  },
+  {
+    "name":"Prospect",
+    "address":"330 E. Main St., Aspen, 81611, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":39.191039,
+    "longitude":-106.819442
+  },
+  {
+    "name":"Bosq",
+    "address":"312 S. Mill St., Aspen, 81611, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":39.188571,
+    "longitude":-106.819782
+  },
+  {
+    "name":"Beckon",
+    "address":"2843 Larimer St., Denver, 80205, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary",
+    "latitude":39.761183,
+    "longitude":-104.98236
+  },
+  {
+    "name":"Osaki's",
+    "address":"100 E. Meadow Dr., Unit 14, Vail, 81657, USA",
+    "cuisine":"$$$ \u00b7 Japanese, Sushi",
+    "latitude":39.642253,
+    "longitude":-106.377171
+  },
+  {
+    "name":"Barolo Grill",
+    "address":"3030 E. 6th Ave., Denver, 80206, USA",
+    "cuisine":"$$$$ \u00b7 Italian, Regional Cuisine",
+    "latitude":39.725438,
+    "longitude":-104.951437
+  },
+  {
+    "name":"Mirabelle",
+    "address":"55 Village Rd., Avon, 81620, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":39.62973,
+    "longitude":-106.52373
+  },
+  {
+    "name":"Santo",
+    "address":"1265 Alpine Ave., Boulder, 80304, USA",
+    "cuisine":"$$ \u00b7 American, Mexican",
+    "latitude":40.025662,
+    "longitude":-105.28103
+  },
+  {
+    "name":"Oak at Fourteenth",
+    "address":"1400 Pearl St., Boulder, 80302, USA",
+    "cuisine":"$$$ \u00b7 Contemporary",
+    "latitude":40.018261,
+    "longitude":-105.277087
+  },
+  {
+    "name":"Q House",
+    "address":"3421 E. Colfax Ave., Denver, 80206, USA",
+    "cuisine":"$$$ \u00b7 Chinese",
+    "latitude":39.740322,
+    "longitude":-104.947191
+  },
+  {
+    "name":"WYLD",
+    "address":"130 Daybreak Ridge Rd., Avon, 81620, USA",
+    "cuisine":"$$$ \u00b7 American, Contemporary",
+    "latitude":39.62326,
+    "longitude":-106.541417
+  },
+  {
+    "name":"Boulder Dushanbe Tea House",
+    "address":"1770 13th St., Boulder, 80302, USA",
+    "cuisine":"$$$ \u00b7 Eastern European",
+    "latitude":40.015425,
+    "longitude":-105.27729
+  },
+  {
+    "name":"Kawa Ni",
+    "address":"1900 W. 32nd Ave., Denver, 80211, USA",
+    "cuisine":"$$ \u00b7 Japanese, Contemporary",
+    "latitude":39.761781,
+    "longitude":-105.009971
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  },
+  {
+    "name":"Sweet Basil",
+    "address":"193 Gore Creek Dr., Vail, 81657, USA",
+    "cuisine":"$$$$ \u00b7 Fusion",
+    "latitude":39.640915,
+    "longitude":-106.374761
+  },
+  {
+    "name":"A5 Steakhouse",
+    "address":"1600 15th St., Denver, 80202, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse, American",
+    "latitude":39.750295,
+    "longitude":-105.001522
+  },
+  {
+    "name":"Marco's Coal-Fired",
+    "address":"2129 Larimer St., Denver, 80205, USA",
+    "cuisine":"$$ \u00b7 Pizza",
+    "latitude":39.754499,
+    "longitude":-104.991028
+  },
+  {
+    "name":"Frasca Food and Wine",
+    "address":"1738 Pearl St., Boulder, 80302, USA",
+    "cuisine":"$$$$ \u00b7 Italian, Regional Cuisine",
+    "latitude":40.01919,
+    "longitude":-105.272475
+  },
+  {
+    "name":"Dio Mio",
+    "address":"3264 Larimer St., Denver, 80205, USA",
+    "cuisine":"$$ \u00b7 Italian, Contemporary",
+    "latitude":39.764791,
+    "longitude":-104.976804
+  },
+  {
+    "name":"Ash'Kara",
+    "address":"2005 W. 33rd Ave., Denver, 80211, USA",
+    "cuisine":"$$$ \u00b7 Israeli, Mediterranean Cuisine",
+    "latitude":39.763375,
+    "longitude":-105.011554
+  },
+  {
+    "name":"Hop Alley",
+    "address":"3500 Larimer St., Denver, 80205, USA",
+    "cuisine":"$$ \u00b7 Chinese, Contemporary",
+    "latitude":39.76695,
+    "longitude":-104.97413
+  },
+  {
+    "name":"Mister Oso",
+    "address":"3163 Larimer St., Denver, 80205, USA",
+    "cuisine":"$$ \u00b7 Latin American",
+    "latitude":39.764235,
+    "longitude":-104.9785
+  },
+  {
+    "name":"Stella's Cucina",
+    "address":"1123 Walnut St., Boulder, 80302, USA",
+    "cuisine":"$$$ \u00b7 Italian, Contemporary",
+    "latitude":40.016949,
+    "longitude":-105.28045
+  },
+  {
+    "name":"Guard and Grace",
+    "address":"1801 California St., Denver, 80202, USA",
+    "cuisine":"$$$$ \u00b7 Steakhouse, American Contemporary",
+    "latitude":39.747628,
+    "longitude":-104.989799
+  },
+  {
+    "name":"Hey Kiddo",
+    "address":"4337 Tennyson St., Ste. 300, Denver, 80212, USA",
+    "cuisine":"$$$ \u00b7 Contemporary, Fusion",
+    "latitude":39.77545,
+    "longitude":-105.044194
+  },
+  {
+    "name":"Brasserie Brixton",
+    "address":"3701 N. Williams St., Denver, 80205, USA",
+    "cuisine":"$$$ \u00b7 French",
+    "latitude":39.768251,
+    "longitude":-104.966105
+  },
+  {
+    "name":"The Wolf's Tailor",
+    "address":"4058 Tejon St., Denver, 80211, USA",
+    "cuisine":"$$$$ \u00b7 Contemporary, Creative",
+    "latitude":39.772797,
+    "longitude":-105.010984
+  },
+  {
+    "name":"Temaki Den",
+    "address":"3350 Brighton Blvd., Ste. 100, Denver, 80216, USA",
+    "cuisine":"$$$ \u00b7 Japanese",
+    "latitude":39.76859,
+    "longitude":-104.979562
+  },
+  {
+    "name":"Mirra",
+    "address":"1954 W. Armitage Ave., Chicago, 60622, USA",
+    "cuisine":"$$ \u00b7 Fusion, Mexican",
+    "latitude":41.917936,
+    "longitude":-87.677358
+  },
+  {
+    "name":"Laliko",
+    "address":"80 Carmine St., New York, 10014, USA",
+    "cuisine":"$$ \u00b7 Central Asian",
+    "latitude":40.729436,
+    "longitude":-74.004928
+  },
+  {
+    "name":"Mango Bay",
+    "address":"271 Adelphi St., Brooklyn, 11205, USA",
+    "cuisine":"$$$ \u00b7 Caribbean",
+    "latitude":40.689405,
+    "longitude":-73.970916
+  },
+  {
+    "name":"Taqueria Ching\u00f3n",
+    "address":"817 W. Fulton Market, Chicago, 60607, USA",
+    "cuisine":"$ \u00b7 Mexican",
+    "latitude":41.88656,
+    "longitude":-87.648225
+  }
+]

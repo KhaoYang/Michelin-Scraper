@@ -1,2 +1,1093 @@
 name,address,cuisine,latitude,longitude
 Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Joomak,"401 West St., New York, 10014, USA",$$$$ · Contemporary,40.733631,-74.009861
+Adda,"107 1st Ave., New York, 10003, USA",$$$ · Indian,40.726833,-73.986188
+Hungry Thirsty,"407 Smith St., Brooklyn, 11231, USA",$$$ · Thai,40.67794,-73.996067
+6 Restaurant,"481 Court St., Brooklyn, 11231, USA","$$$$ · European, Contemporary",40.67634,-73.998549
+Oliver's,"1639 S. Wabash Ave., Chicago, 60616, USA",$$$ · Contemporary,41.859064,-87.625205
+Maison Passerelle,"1 Wall St., New York, 10005, USA","$$$$ · French, African",40.7072,-74.01186
+Papa San,"501 W. 34th St., New York, 10001, USA","$$$ · Japanese, Peruvian",40.754917,-73.999386
+Nadu,"2518 N. Lincoln Ave., Chicago, 60614, USA",$$ · Indian,41.927588,-87.652148
+Kabawa,"8 Extra Pl., New York, 10003, USA",$$$$ · Caribbean,40.724836,-73.991626
+Glin Thai Bistro,"330 Myrtle Ave., Brooklyn, 11205, USA",$$$ · Thai,40.693105,-73.973286
+Taqueria El Chato,"620 Manhattan Ave., Brooklyn, 11222, USA",$ · Mexican,40.723601,-73.950467
+Enso,"117 Berry St., Brooklyn, 11249, USA","$$$$ · Japanese, Sushi",40.718765,-73.958688
+Yemenat,"7721 5th Ave., Brooklyn, 11209, USA",$ · Middle Eastern,40.627279,-74.023268
+Tama,"1952 N. Damen Ave., Chicago, 60647, USA",$$$ · Mediterranean Cuisine,41.917434,-87.677893
+Café Kestrel,"293 Van Brunt St., Brooklyn, 11231, USA","$$$$ · Contemporary, European",40.6787,-74.011033
+Atelier Manna,"1076 N. Coast Hwy. 101, Ste. 101, Encinitas, 92024, USA",$$ · Californian,33.067408,-117.303535
+Restaurant Ki,"111 San Pedro St., Los Angeles, 90012, USA",$$$$ · Korean Contemporary,34.050225,-118.241285
+Pho Momma,"9555 Folsom Blvd., Ste. A, Sacramento, 95827, USA",$ · Vietnamese,38.571342,-121.339757
+Stationæry,"3 N.E. of 6th Ave., San Carlos St., Carmel-by-the-Sea, 93921, USA","$$$ · American, Californian",36.539486,-121.905876
+Leopardo,"460 S. La Brea Ave., Los Angeles, 90036, USA","$$$$ · Californian, Seafood",34.065185,-118.343827
+Seline,"3110 Main St., Ste. 132, Santa Monica, 90405, USA","$$$$ · Californian, Contemporary",33.997791,-118.479641
+The Wild,"201 Spear St., #120, San Francisco, 94105, USA","$$$$ · Contemporary, Californian",,
+Manuela,"907 E. 3rd St., Los Angeles, 90013, USA","$$$ · American, Californian",34.04611,-118.23458
+Bar Le Côte,"2375 Alamo Pintado Ave., Los Olivos, 93441, USA",$$$ · Seafood,34.665783,-120.115651
+Citrin,"1104 Wilshire Blvd., Santa Monica, 90401, USA",$$$$ · Californian,34.024382,-118.491322
+Be.Stéak.Ă,"1887 S. Bascom Ave., Campbell, 95008, USA","$$$ · Steakhouse, Contemporary",37.288806,-121.932583
+Chifa,"4374 Eagle Rock Blvd., Los Angeles, 90041, USA","$$ · Fusion, Chinese",34.123677,-118.221042
+Mattei's Tavern,"2350 Railway Ave., Los Olivos, 93441, USA",$$$$ · American,34.667461,-120.117284
+Six Test Kitchen,"3075 Blue Rock Rd., Paso Robles, 93446, USA",$$$$ · Contemporary,35.575554,-120.689735
+Damian,"2132 E. 7th Pl., Los Angeles, 90021, USA","$$$ · Mexican, Contemporary",34.033375,-118.228725
+Anajak Thai,"14704 Ventura Blvd., Sherman Oaks, 91403, USA","$$$ · Thai, Contemporary",34.151521,-118.453381
+LA Cha Cha Chá,"812 E. 3rd St., Los Angeles, 90013, USA","$$$$ · Mexican, Latin American",34.04567,-118.23572
+Chuan Yu,"388 9th St., Oakland, 94607, USA","$$ · Chinese, Sichuan",37.800592,-122.27105
+Found Oyster,"4880 Fountain Ave., Los Angeles, 90029, USA",$$$ · Seafood,34.095272,-118.295838
+Spinning Bones,"1205 Park St., Alameda, 94501, USA",$$ · Californian,37.761149,-122.24579
+Rêve Bistro,"960 Moraga Rd., Lafayette, 94549, USA",$$$ · French,37.890385,-122.118122
+Chef Tony,"1108 S. Baldwin Ave., Ste. B5, Arcadia, 91007, USA","$$ · Chinese, Dim Sum",34.12637,-118.05474
+Auro,"400 Silverado Trl., Calistoga, 94515, USA","$$$$ · Contemporary, French",38.584627,-122.567835
+Miller & Lux,"700 Terry A. Francois Blvd., San Francisco, 94158, USA","$$$$ · Steakhouse, American",37.768182,-122.38646
+Gucci Osteria da Massimo Bottura,"347 N. Rodeo Dr., Beverly Hills, 90210, USA","$$$$ · Italian, Contemporary",34.068486,-118.402705
+Fish & Bird Sousaku Izakaya,"2451 Shattuck Ave., Berkeley, 94704, USA","$$ · Japanese, Izakaya",37.864755,-122.267028
+Élephante,"1332 2nd St., Santa Monica, 90401, USA",$$$ · Contemporary,34.015235,-118.497991
+Caruso's,"1773 S. Jameson Ln., Montecito, 93108, USA","$$$$ · Californian, Italian",34.419601,-119.628197
+Selby's,"3001 El Camino Real, Atherton, 94061, USA","$$$$ · American, Classic Cuisine",37.468555,-122.210413
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Jeong Yuk Jeom,"621 S. Western Ave., Ste. 100, Los Angeles, 90005, USA","$$$ · Korean, Beef",34.062791,-118.309425
+Utzutzu,"1428 Park St., Alameda, 94501, USA","$$$$ · Japanese, Sushi",37.764845,-122.242015
+Khom Loi,"7385 Healdsburg Ave., Sebastopol, 95472, USA",$$ · Thai,38.405097,-122.830465
+Lola Gaspar,"211 W. 2nd St., Santa Ana, 92701, USA",$$ · Mexican,33.746441,-117.869078
+Pasjoli,"2732 Main St., Santa Monica, 90405, USA","$$$$ · French, Contemporary",34.000174,-118.482093
+MAMA Oakland,"388 Grand Ave., Oakland, 94610, USA","$$ · Italian, Contemporary",37.809155,-122.254538
+Top Hatters Kitchen,"855 MacArthur Blvd., San Leandro, 94577, USA","$$ · Contemporary, Vietnamese",37.737288,-122.14184
+Ernest,"1890 Bryant St., Ste. 100, San Francisco, 94110, USA",$$$ · Contemporary,37.7632,-122.410745
+Tūmbi,"115 Santa Monica Blvd., Santa Monica, 90401, USA","$$ · Indian, Contemporary",34.014515,-118.49766
+Los Carnalitos,"30200 Industrial Pkwy. S.W., Hayward, 94544, USA","$ · Mexican, Regional Cuisine",37.60879,-122.06455
+Ettan,"518 Bryant St., Palo Alto, 94301, USA","$$$ · Indian, Californian",37.445431,-122.161319
+Luscious Dumplings,"919 W. Duarte Rd., Monrovia, 91016, USA",$ · Chinese,34.131319,-118.01875
+Killer Noodle,"2030 Sawtelle Blvd., Los Angeles, 90025, USA","$ · Japanese, Ramen",34.040298,-118.442883
+Tacos Oscar,"420 40th St., Oakland, 94609, USA","$ · Mexican, Contemporary",37.8288,-122.260409
+Serẽa Coastal Cuisine,"1500 Orange Ave., Coronado, 92118, USA","$$$$ · Seafood, Mediterranean Cuisine",32.680955,-117.178223
+Nari,"1625 Post St., San Francisco, 94115, USA","$$$ · Thai, Contemporary",37.785456,-122.428614
+Coasterra,"880 Harbor Island Dr., San Diego, 92101, USA","$$$ · Mexican, Seafood",32.72422,-117.18855
+Bettina,"1014 Coast Village Rd., Santa Barbara, 93108, USA","$$ · Pizza, Italian",34.422591,-119.651558
+Solare,"2820 Roosevelt Rd., San Diego, 92106, USA","$$ · Italian, Tuscan",32.737473,-117.21412
+The Fishery,"5040 Cass St., San Diego, 92109, USA",$$ · Seafood,32.806512,-117.254981
+Sweet Rice,"1630 W. Redondo Beach Blvd., Gardena, 90247, USA",$ · Thai,33.888894,-118.305407
+Menya Ultra,"8199 Clairemont Mesa Blvd., San Diego, 92111, USA","$$ · Japanese, Ramen",32.832208,-117.147241
+Routier,"2801 California St., San Francisco, 94115, USA","$$$ · French, Californian",37.78787,-122.440685
+Manhattan Beach Post,"1142 Manhattan Ave., Manhattan Beach, 90266, USA",$$ · International,33.885217,-118.410784
+A.R. Valentien,"11480 N. Torrey Pines Rd., La Jolla, 92037, USA",$$$ · Contemporary,32.903806,-117.244492
+Amor y Tacos,"13333 South St., Cerritos, 90703, USA",$$ · Mexican,33.860248,-118.047184
+Cloak & Petal,"1953 India St., San Diego, 92101, USA",$$$ · Japanese,32.725249,-117.168631
+Lunasia Dim Sum House,"500 W. Main St., Alhambra, 91801, USA","$$ · Chinese, Dim Sum",34.092338,-118.132172
+Redbird,"114 E. 2nd St., Los Angeles, 90012, USA","$$$ · Contemporary, Californian",34.050493,-118.244063
+Charcoal Venice,"425 Washington Blvd., Los Angeles, 90292, USA","$$$ · American, Steakhouse",33.981623,-118.46295
+Sichuan Impression,"235 W. Main St., Ste. B, Alhambra, 91803, USA","$$ · Chinese, Sichuan",34.094483,-118.130157
+Vespertine,"3599 Hayden Ave., Culver City, 90232, USA",$$$$ · Contemporary,34.024656,-118.381862
+LaoXi Noodle House,"600 Live Oak Ave., Arcadia, 91006, USA","$ · Chinese, Regional Cuisine",34.108865,-118.01771
+The Factory Kitchen,"1300 Factory Pl., Ste. 101, Los Angeles, 90013, USA","$$ · Italian, Regional Cuisine",34.039002,-118.23597
+Mariscos Jalisco,"753 E. Holt Ave., Pomona, 91767, USA","$$ · Mexican, Regional Cuisine",34.062941,-117.735411
+Angelini Osteria,"7313 Beverly Blvd., Los Angeles, 90036, USA",$$$ · Italian,34.076312,-118.34913
+Vaca,"695 Town Center Dr., Ste. 170, Costa Mesa, 92626, USA","$$$ · Spanish, Contemporary",33.69214,-117.884455
+Union,"37 Union St., Pasadena, 91103, USA",$$ · Italian,34.146963,-118.149666
+Rocio's Mexican Kitchen,"7891 Garfield Ave., Bell Gardens, 90201, USA","$ · Mexican, Regional Cuisine",33.959995,-118.156592
+Orsa & Winston,"122 W. 4th St., Los Angeles, 90013, USA","$$$$ · Contemporary, Asian",34.048498,-118.248045
+Quarters BBQ,"3465 W. 6th St., Los Angeles, 90020, USA","$$$ · Korean, Barbecue",34.063873,-118.297206
+République,"624 S. La Brea Ave., Hollywood, 90036, USA","$$$$ · Mediterranean Cuisine, American",34.064143,-118.343745
+Langer's,"704 S. Alvarado St., Los Angeles, 90057, USA","$$ · Deli, American",34.056156,-118.276687
+Ronan,"7315 Melrose Ave., Los Angeles, 90046, USA",$$$ · Italian,34.08368,-118.349263
+Nozawa Bar,"212 N. Cañon Dr., Beverly Hills, 90210, USA","$$$$ · Japanese, Sushi",34.068225,-118.398051
+Barbareño,"205 W. Canon Perdido St., Santa Barbara, 93101, USA",$$ · Californian,34.41807,-119.702948
+Providence,"5955 Melrose Ave., Hollywood, 90038, USA",$$$$ · Seafood,34.083602,-118.330308
+Pizzeria Mozza,"641 N. Highland Ave., Los Angeles, 90036, USA","$$ · Pizza, Italian",34.083161,-118.338872
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Jon & Vinny’s,"412 N. Fairfax Ave., Los Angeles, 90036, USA",$$ · Italian-American,34.07866,-118.36128
+Yoichi’s,"230 E. Victoria St., Santa Barbara, 93101, USA",$$$$ · Japanese,34.427179,-119.702531
+majordōmo,"1725 Naud St., Los Angeles, 90012, USA","$$$ · Asian, Contemporary",34.069068,-118.22609
+Chosun Galbee,"3330 W. Olympic Blvd., Los Angeles, 90019, USA","$$$ · Korean, Barbecue",34.052406,-118.310318
+Luna Mexican Kitchen,"1495 The Alameda, San Jose, 95126, USA","$$ · Mexican, Regional Cuisine",37.33387,-121.91526
+Maccheroni Republic,"332 S. Broadway, Los Angeles, 90013, USA",$$ · Italian-American,34.050058,-118.24861
+Kismet,"4648 Hollywood Blvd., Los Angeles, 90027, USA",$$ · Middle Eastern,34.100247,-118.290663
+Yong Su San,"950 S. Vermont Ave., Los Angeles, 90006, USA","$$$ · Korean, Regional Cuisine",34.053969,-118.291352
+The Stonehouse,"900 San Ysidro Ln., Santa Barbara, 93108, USA",$$$$ · American,34.44621,-119.625381
+Montrio Bistro,"414 Calle Principal, Monterey, 93940, USA",$$$ · Contemporary,36.59979,-121.895432
+Avra,"233 N. Beverly Dr., Beverly Hills, 90210, USA","$$$$ · Greek, Seafood",34.067545,-118.400004
+Protégé,"250 California Ave., Palo Alto, 94306, USA","$$$$ · Contemporary, Californian",37.427855,-122.143724
+Gintei,"235 El Camino Real, San Bruno, 94066, USA","$$$ · Japanese, Sushi",37.618551,-122.409785
+Range Life,"2160 Railroad Ave., Livermore, 94550, USA",$$ · Californian,37.683545,-121.770108
+Casanova,"95 5th Ave., Carmel-by-the-Sea, 93921, USA","$$$ · European, Californian",40.18803,-74.02119
+Pèppoli,"2700 17 Mile Dr., Pebble Beach, 93953, USA","$$$$ · Italian, American",36.613288,-121.940259
+Akaoni,"Mission St., Carmel-by-the-Sea, 93921, USA","$$$ · Japanese, Sushi",36.547752,-121.920943
+Aubergine,"Monte Verde at 7th Ave., Carmel-by-the-Sea, 93921, USA","$$$$ · Contemporary, Californian",36.539486,-121.905876
+jū-ni,"1335 Fulton St., San Francisco, 94117, USA","$$$$ · Japanese, Sushi",37.776573,-122.438844
+All Spice,"1602 S. El Camino Real, San Mateo, 94402, USA","$$$$ · International, American Contemporary",37.552863,-122.315671
+Birdsong,"1085 Mission St., San Francisco, 94103, USA","$$$$ · Contemporary, American",37.779364,-122.410328
+Delage,"536 9th St., Oakland, 94607, USA",$$$ · Japanese,37.801796,-122.275676
+Great China,"2190 Bancroft Way, Berkeley, 94704, USA",$$ · Chinese,37.86761,-122.266216
+Omakase,"665 Townsend St., San Francisco, 94103, USA","$$$$ · Japanese, Sushi",37.770665,-122.402923
+Belotti Ristorante e Bottega,"5403 College Ave., Oakland, 94618, USA",$$ · Italian,37.840267,-122.251566
+Benu,"22 Hawthorne St., San Francisco, 94105, USA","$$$$ · Asian, Contemporary",37.785436,-122.399214
+Mister Jiu’s,"28 Waverly Pl., San Francisco, 94108, USA","$$$ · Chinese, Contemporary",37.79373,-122.406696
+Okane,"669 Townsend St., San Francisco, 94103, USA","$$ · Japanese, Izakaya",37.770601,-122.40299
+Mensho,"672 Geary St., San Francisco, 94102, USA","$ · Japanese, Ramen",37.786862,-122.414397
+Outerlands,"4001 Judah St., San Francisco, 94122, USA",$$ · Californian,37.760285,-122.505024
+SPQR,"1911 Fillmore St., San Francisco, 94115, USA","$$$$ · Italian, Contemporary",37.787287,-122.43375
+Sorrel,"3228 Sacramento St., San Francisco, 94115, USA","$$$$ · Contemporary, Italian",37.788561,-122.446189
+La Taqueria,"2889 Mission St., San Francisco, 94110, USA","$ · Mexican, Regional Cuisine",37.750882,-122.418055
+Masa's Sushi,"813 Grant Ave., Novato, 94945, USA","$$ · Japanese, Sushi",38.10683,-122.56689
+Picco,"320 Magnolia Ave., Larkspur, 94939, USA",$$$ · Contemporary,37.933993,-122.535616
+Teni East Kitchen,"4015 Broadway, Oakland, 94611, USA",$ · Burmese,37.828019,-122.25682
+Angler SF,"132 The Embarcadero, San Francisco, 94105, USA","$$$$ · Contemporary, Seafood",37.793147,-122.392279
+El Buen Comer,"3435 Mission St., San Francisco, 94110, USA","$$ · Mexican, Regional Cuisine",37.741749,-122.42205
+Rooh,"333 Brannan St., San Francisco, 94107, USA","$$$ · Indian, Contemporary",37.780989,-122.392523
+Prospect,"300 Spear St., San Francisco, 94105, USA",$$$ · Californian,37.789824,-122.391007
+Kin Khao,"55 Cyril Magnin St., San Francisco, 94102, USA","$$$ · Thai, Californian",37.784869,-122.408944
+Liholiho Yacht Club,"871 Sutter St., San Francisco, 94109, USA","$$$ · Asian, American",37.788233,-122.414598
+Shizen,"370 14th St., San Francisco, 94103, USA","$$ · Vegan, Asian",37.768341,-122.421741
+Flour + Water,"2401 Harrison St., San Francisco, 94110, USA","$$$ · Italian, Californian",37.758915,-122.41227
+Flores,"2030 Union St., San Francisco, 94123, USA","$$ · Mexican, Regional Cuisine",37.797608,-122.432676
+Del Popolo,"855 Bush St., San Francisco, 94108, USA","$$ · Pizza, Californian",37.789598,-122.411341
+Zuni Café,"1658 Market St., San Francisco, 94102, USA","$$$ · Californian, French",37.773596,-122.421595
+Insalata's,"120 Sir Francis Drake Blvd., San Anselmo, 94960, USA",$$ · Mediterranean Cuisine,37.973118,-122.561274
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+The Charter Oak,"1050 Charter Oak Ave., Saint Helena, 94574, USA",$$$ · Californian,38.501786,-122.464009
+Le Comptoir at Bar Crenn,"3131 Fillmore St., San Francisco, 94123, USA","$$$$ · Contemporary, French",37.798382,-122.435972
+Valette,"344 Center St., Healdsburg, 95448, USA",$$$ · Californian,38.612059,-122.869591
+Trestle,"531 Jackson St., San Francisco, 94133, USA","$$ · Contemporary, Californian",37.796174,-122.404506
+Pig in a Pickle,"341 Corte Madera Town Centre, Corte Madera, 94925, USA",$$ · Barbecue,37.927589,-122.516925
+Village Sake,"19 Bolinas Rd., Fairfax, 94930, USA",$$ · Japanese,37.986696,-122.588905
+Che Fico,"838 Divisadero St., San Francisco, 94117, USA","$$$ · Italian, Californian",37.777438,-122.437971
+Nopalito,"306 Broderick St., San Francisco, 94117, USA","$$ · Mexican, Californian",37.773228,-122.438972
+Glen Ellen Star,"13648 Arnold Dr., Glen Ellen, 95442, USA","$$ · Californian, Pizza",38.364303,-122.524613
+Barndiva,"231 Center St., Healdsburg, 95448, USA",$$$ · Californian,38.609616,-122.869481
+Dry Creek Kitchen,"317 Healdsburg Ave., Healdsburg, 95448, USA",$$$ · American,38.61088,-122.870931
+Little Fish,"1606 W. Sunset Blvd., Los Angeles, 90026, USA",$ · American,34.076732,-118.257753
+Zócalo,"1801 Capitol Ave., Sacramento, 95801, USA",$$ · Mexican,38.57426,-121.483656
+Grange,"926 J St., Sacramento, 95814, USA",$$$ · American,38.580168,-121.493894
+Ad Hoc,"6476 Washington St., Yountville, 94599, USA",$$$ · American,38.399176,-122.358546
+Bouchon,"6534 Washington St., Yountville, 94599, USA",$$$ · French,38.402561,-122.361997
+7 Adams,"1963 Sutter St., San Francisco, 94115, USA","$$$$ · Californian, Contemporary",37.785968,-122.43261
+Manohar’s Delhi Palace,"581 Azusa Way, La Puente, 91744, USA",$$ · Indian,34.011792,-117.924607
+Uka,"6801 Hollywood Blvd., Level 5, Los Angeles, 90028, USA",$$$$ · Japanese Contemporary,34.102485,-118.339901
+Maligne,"600 Broadway Ave., Seaside, 93955, USA",$$$ · Californian,36.609047,-121.850443
+Coastal Kitchen,"400 Cannery Row, Monterey, 93940, USA",$$$$ · Contemporary,36.612109,-121.897867
+Dalida,"101 Montgomery St., Ste. 100, San Francisco, 94129, USA","$$$ · Mediterranean Cuisine, Turkish",37.799937,-122.459689
+Prik Hom,"3226 Geary Blvd., San Francisco, 94118, USA","$$ · Thai, Californian",37.78191,-122.453724
+Rory's Place,"139 E. Ojai Ave., Ojai, 93023, USA",$$$ · Californian,34.447618,-119.246188
+Kan Kiin,"201 Southgate Ave., Daly City, 94015, USA","$$ · Thai, American",37.697102,-122.48431
+Lilo,"2571 Roosevelt St., Carlsbad, 92008, USA",$$$$ · Californian,33.164357,-117.351506
+Tanner's Prime Burgers,"510 Vista Way, Oceanside, 92054, USA",$ · American,33.172662,-117.359304
+Majka,"1704 15th St., Sacramento, 95814, USA","$$ · Italian, Pizza",38.57057,-121.49019
+Rasarumah,"3107 Beverly Blvd., Los Angeles, 90026, USA",$$$ · Malaysian,34.072232,-118.28248
+Komal,"3655 S. Grand Ave., Los Angeles, 90007, USA",$ · Mexican,34.017344,-118.278246
+Kusano,"10726 Jefferson Blvd., Culver City, 90230, USA","$$$$ · Japanese, Sushi",34.002199,-118.392565
+Verjus,"550 Washington St., San Francisco, 94111, USA",$$$ · French,37.795756,-122.402678
+Mori Nozomi,"11500 W. Pico Blvd., Los Angeles, 90064, USA","$$$$ · Japanese, Sushi",34.033245,-118.442185
+Vin Folk,"1501 Hermosa Ave., Hermosa Beach, 90254, USA","$$ · Californian, Contemporary",33.864583,-118.400854
+Prelude,"333 Battery St., San Francisco, 94111, USA","$$$$ · American, Southern",37.794701,-122.400677
+Azalina’s,"499 Ellis St., San Francisco, 94102, USA","$$$ · Malaysian, Californian",37.78451,-122.41413
+Sungho,"250 Hyde St., San Francisco, 94102, USA",$$ · Korean,37.783379,-122.415695
+Hed 11,"1800 Sutter St., San Francisco, 94115, USA","$$$$ · Thai, Contemporary",37.786719,-122.430306
+Amour,"8715 Beverly Blvd., West Hollywood, 90048, USA",$$$$ · French Contemporary,34.077143,-118.381071
+Sun Moon Studio,"1940 Union St., Ste. 21, Oakland, 94607, USA",$$$$ · Californian,37.814536,-122.28617
+Enclos,"139 E. Napa St., Sonoma, 95476, USA","$$$$ · Contemporary, Californian",38.291541,-122.455862
+Barra Santos,"1215 Cypress Ave., Los Angeles, 90065, USA",$$ · Portuguese,34.095646,-118.228049
+The Restaurant at JUSTIN,"11680 Chimney Rock Rd., Paso Robles, 93446, USA","$$$$ · Californian, Contemporary",35.65494,-120.900855
+Pasta|Bar,"16101 Ventura Blvd., Ste. 250, Encino, 91436, USA","$$$$ · Contemporary, American",34.156905,-118.484203
+Saffron,"1143 San Carlos Ave., San Carlos, 94070, USA","$$ · Indian, Contemporary",37.50665,-122.260582
+Silvers Omakase,"224 Helena Ave., Santa Barbara, 93101, USA",$$$$ · Sushi,34.415307,-119.691668
+Four Kings,"710 Commercial St., San Francisco, 94108, USA","$$ · Chinese, Cantonese",37.794084,-122.405087
+Aurum,"132 State St., Los Altos, 94022, USA","$$$ · Indian, Classic Cuisine",37.380152,-122.115699
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Table Culture Provisions,"312 Petaluma Blvd. S., Petaluma, 94952, USA","$$$$ · Contemporary, French",38.23164,-122.63506
+Morihiro,"3133 Glendale Blvd., Los Angeles, 90039, USA","$$$$ · Japanese, Sushi",34.116971,-118.262422
+Bombera,"3459 Champion St., Oakland, 94602, USA","$$ · Mexican, Californian",37.799437,-122.215207
+Bird & Buffalo,"4659 Telegraph Ave., Oakland, 94609, USA","$$ · Thai, Regional Cuisine",37.833967,-122.263373
+Heritage Barbecue,"31721 Camino Capistrano, San Juan Capistrano, 92675, USA","$$ · Barbecue, Regional Cuisine",33.501981,-117.663205
+Sushi Kaneyoshi,"250 E. 1st St., B1, Los Angeles, 90012, USA","$$$$ · Japanese, Sushi",34.050097,-118.241522
+Sushi Shin,"312 Arguello St., Redwood City, 94063, USA","$$$$ · Japanese, Sushi",37.486635,-122.23191
+Ember,"1200 E. Grand Ave., Arroyo Grande, 93420, USA",$$$ · Californian,35.121028,-120.599455
+Bello by Sandro Nardone,"1200 Bison Ave., Newport Beach, 92660, USA","$$$ · Italian, Contemporary",33.63793,-117.86429
+Valley,"487 1st St. W., Sonoma, 95476, USA",$$ · Californian,38.292323,-122.45911
+Moo's Craft Barbecue,"2118 N. Broadway, Los Angeles, 90031, USA","$$ · Barbecue, Regional Cuisine",34.0733,-118.218215
+Ox + Anchor,"877 Palm St., San Luis Obispo, 93401, USA",$$$$ · Steakhouse,35.281635,-120.66343
+IMA,"9669 S. Santa Monica Blvd., Los Angeles, 90210, USA","$$$$ · Japanese, Sukiyaki",34.068286,-118.407726
+Lumière,"2025 Avenue Of The Stars, Los Angeles, 90067, USA","$$$ · French, Farm to table",34.057331,-118.415749
+North Block,"6757 Washington St., Yountville, 94599, USA",$$$ · Californian,38.406205,-122.366712
+Dumpling Home,"298 Gough St., San Francisco, 94102, USA","$ · Chinese, Dumplings",37.775718,-122.422572
+Perle,"43 E. Union St., Pasadena, 91103, USA",$$$ · French,34.146959,-118.149502
+Spoon & Pork,"3131 W. Sunset Blvd., Los Angeles, 90026, USA","$$ · Filipino, Fusion",34.08524,-118.27453
+Callie,"1195 Island Ave., San Diego, 92101, USA","$$ · Mediterranean Cuisine, Middle Eastern",32.710278,-117.154011
+Phở 79,"9941 Hazard Ave., Garden Grove, 92844, USA","$ · Vietnamese, Noodles",33.75241,-117.95572
+Tony's Seafood,"18863 Shoreline Hwy., Marshall, 94940, USA",$$ · Seafood,38.14708,-122.88312
+Yue Huang,"3860 Truxel Rd., Sacramento, 95834, USA","$$ · Chinese, Cantonese",38.638415,-121.504276
+Horn Barbecue,"464 8th St., Oakland, 94607, USA",$$ · Barbecue,37.800505,-122.274213
+O' by Claude Le Tohic,"165 O'Farrell St., San Francisco, 94102, USA","$$$$ · French, Contemporary",37.786256,-122.40736
+Siamo Napoli,"3959 30th St., San Diego, 92104, USA",$$ · Italian,32.749629,-117.129824
+Marugame Monzo,"329 E. 1st St., Los Angeles, 90012, USA","$$ · Japanese, Udon",34.04995,-118.24
+Mentone,"174 Aptos Village Way, Aptos, 95003, USA","$$ · Italian, Californian",36.978035,-121.899693
+La Azteca,"4538 E. Cesar E. Chavez Ave., Los Angeles, 90022, USA",$ · Mexican,34.040382,-118.167974
+Colapasta,"1241 5th St., Santa Monica, 90401, USA",$$ · Italian,34.019119,-118.495944
+CHAAK Kitchen,"215 El Camino Real, Tustin, 92780, USA","$$ · Mexican, Regional Cuisine",33.743856,-117.82339
+Oliver's Osteria,"853 Laguna Canyon Rd., Laguna Beach, 92651, USA","$$$ · Italian, Regional Cuisine",33.55005,-117.77908
+The Matheson,"106 Matheson St., Healdsburg, 95448, USA",$$$$ · Contemporary,38.610201,-122.870061
+Dija Mara,"232 S. Coast Hwy., Oceanside, 92054, USA","$$ · Indonesian, Thai and Vietnamese",33.193368,-117.377106
+Sushi by Scratch Restaurants: Montecito,"1295 Coast Village Rd., Santa Barbara, 93108, USA","$$$$ · Japanese, Sushi",34.421207,-119.640476
+Niku Steakhouse,"61 Division St., San Francisco, 94103, USA",$$$$ · Steakhouse,37.769681,-122.403448
+Guesthouse,"850 College Ave., Kentfield, 94904, USA",$$$ · Contemporary,37.954601,-122.548072
+Trust,"3752 Park Blvd., San Diego, 92103, USA","$$$ · American, International",32.746641,-117.146659
+Sushi Tadokoro,"2244 San Diego Ave., San Diego, 92110, USA","$$$ · Japanese, Sushi",32.748363,-117.191373
+Nine-Ten,"910 Prospect St., La Jolla, 92037, USA",$$$ · Contemporary,32.84723,-117.27534
+Hidden Fish,"4764 Convoy St., San Diego, 92111, USA","$$$ · Japanese, Sushi",32.828368,-117.153989
+Kingfisher,"2469 Broadway, San Diego, 92102, USA","$$$ · Vietnamese, Contemporary",32.715551,-117.141005
+Jeune et Jolie,"2659 State St., Carlsbad, 92008, USA","$$$$ · French, Californian",33.162965,-117.351823
+Marché Moderne,"7862 E. Pacific Coast Hwy., Newport Beach, 92657, USA","$$$ · French, French Contemporary",33.621601,-117.932365
+Merchant Roots,"1148 Mission St., San Francisco, 94103, USA",$$$$ · Creative,37.778627,-122.412392
+Loquita,"202 State St., Santa Barbara, 93101, USA",$$ · Spanish,34.414151,-119.691707
+Ssal,"2226 Polk St., San Francisco, 94109, USA","$$$$ · Korean, Contemporary",37.797168,-122.421872
+Fishing with Dynamite,"1148 Manhattan Ave., Manhattan Beach, 90266, USA",$$$ · Seafood,33.885389,-118.410802
+Dai Ho,"9148 Las Tunas Dr., Temple City, 91780, USA",$$ · Taiwanese,34.105198,-118.069267
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+n/naka,"3455 S. Overland Ave., Los Angeles, 90034, USA","$$$$ · Japanese, Contemporary",34.02512,-118.41214
+Shunji.,"3003 Ocean Park Blvd., Santa Monica, 90405, USA","$$$$ · Japanese, Sushi",34.02022,-118.453863
+The Shota,"115 Sansome St., San Francisco, 94104, USA","$$$$ · Japanese, Sushi",37.791449,-122.401003
+Soichi,"2121 Adams Ave., San Diego, 92116, USA","$$$$ · Japanese, Sushi",32.762696,-117.141857
+Chengdu Taste,"828 W. Valley Blvd., Alhambra, 91803, USA","$$ · Chinese, Sichuan",34.07773,-118.13245
+Boonville Hotel & Restaurant,"14050 Hwy. 128, Boonville, 95415, USA",$$$ · American,39.008993,-123.367977
+LSXO,"21010 Pacific Coast Hwy., Huntington Beach, 92648, USA","$$$ · Vietnamese, Contemporary",33.65574,-117.998794
+Pizzana,"11712 San Vicente Blvd., Los Angeles, 90049, USA","$$ · Italian, Pizza",34.05333,-118.46601
+Gabbi’s Mexican Kitchen,"141 S. Glassell St., Orange, 92866, USA","$$ · Mexican, Regional Cuisine",33.786787,-117.85293
+Adana Restaurant,"6918 San Fernando Rd., Glendale, 91201, USA",$$ · Middle Eastern,34.173705,-118.298401
+Longo Seafood,"7540 Garvey Ave., Rosemead, 91770, USA","$$ · Chinese, Dim Sum",34.062394,-118.104735
+Kato,"777 Alameda St., #114, Los Angeles, 90021, USA","$$$$ · Asian, Contemporary",,
+Gjelina,"1429 Abbot Kinney Blvd., Venice, 90291, USA",$$ · Contemporary,33.9905,-118.465
+Craft & Commerce,"675 W. Beech St., San Diego, 92101, USA",$$ · American,32.720779,-117.16888
+Sea Harbour,"3939 Rosemead Blvd., Rosemead, 91770, USA","$$ · Chinese, Dim Sum",34.079915,-118.073448
+Pine & Crane,"1521 Griffith Park Blvd., Los Angeles, 90026, USA","$ · Asian, Taiwanese",34.090599,-118.277147
+Asanebo,"11941 Ventura Blvd., Studio City, 91604, USA","$$$$ · Japanese, Sushi",34.143426,-118.391943
+Somni,"9045 Nemo St., West Hollywood, 90069, USA","$$$$ · Contemporary, Spanish",34.082412,-118.388412
+Rossoblu,"1124 San Julian St., Los Angeles, 90015, USA","$$ · Italian, Regional Cuisine",34.03498,-118.253231
+Holbox,"3655 S. Grand Ave., Los Angeles, 90007, USA","$$ · Mexican, Seafood",34.017344,-118.278246
+Dha Rae Oak,"1106 S. Western Ave., Los Angeles, 90006, USA","$$ · Korean, Duck Specialities",34.050555,-118.308895
+Newport Seafood,"518 W. Las Tunas Dr., San Gabriel, 91776, USA",$$ · Seafood,34.102136,-118.106901
+Guelaguetza,"3014 W. Olympic Blvd., Los Angeles, 90006, USA","$$$ · Mexican, Regional Cuisine",34.052431,-118.300785
+The Lobster,"1602 Ocean Ave., Santa Monica, 90401, USA",$$$ · Seafood,34.011167,-118.494916
+Catania,"7863 Girard Ave., Ste. 301, La Jolla, 92037, USA",$$ · Italian,32.846586,-117.27408
+Bistro Na’s,"9055 Las Tunas Dr., Ste. 105, Temple City, 91780, USA","$$ · Chinese, Beijing Cuisine",34.104571,-118.072559
+Parks BBQ,"955 S. Vermont Ave., Ste.G, Los Angeles, 90006, USA","$$$ · Korean, Barbecue",34.053818,-118.292053
+Tempura Endo,"9777 S. Santa Monica Blvd., Beverly Hills, 90210, USA","$$$$ · Japanese, Tempura",34.065681,-118.411515
+Bestia,"2121 E. 7th Pl., Los Angeles, 90021, USA","$$$$ · Italian, Californian",34.033875,-118.229091
+Q Sushi,"521 W. 7th St., Los Angeles, 90014, USA","$$$$ · Japanese, Sushi",34.04714,-118.25608
+Hippo,"5916 1/2 Figueroa St., Los Angeles, 90042, USA",$$ · Italian,34.107718,-118.196629
+La Bicyclette,"29 Dolores St., Carmel-by-the-Sea, 93921, USA",$$$ · European,36.55312,-121.922703
+Chez TJ,"938 Villa St., Mountain View, 94041, USA",$$$$ · Contemporary,37.394655,-122.08041
+Yafa,"Junipero St., Carmel-by-the-Sea, 93923, USA","$$ · Mediterranean Cuisine, Middle Eastern",36.566259,-121.916768
+Plumed Horse,"14555 Big Basin Way, Saratoga, 95070, USA","$$$$ · Contemporary, American Contemporary",37.256631,-122.035221
+Evvia,"420 Emerson St., Palo Alto, 94301, USA","$$$ · Greek, Californian",37.445056,-122.163841
+La Viga Seafood & Cocina Mexicana,"1772 Broadway, Redwood City, 94063, USA","$$ · Mexican, Seafood",37.48704,-122.22284
+Sama Sama Kitchen,"1208 State St., Santa Barbara, 93101, USA",$$ · Asian,34.423794,-119.704593
+Lucia Restaurant & Bar,"415 W. Carmel Valley Rd., Carmel Valley, 93924, USA","$$$ · Californian, Seasonal Cuisine",36.500679,-121.753544
+The Village Pub,"2967 Woodside Rd., Woodside, 94062, USA","$$$ · Contemporary, American Contemporary",37.428878,-122.251498
+Pausa,"223 E. 4th Ave., San Mateo, 94401, USA","$$ · Italian, Regional Cuisine",37.56478,-122.32192
+Dio Deka,"210 E. Main St., Los Gatos, 95030, USA","$$$ · Greek, Mediterranean Cuisine",37.220707,-121.976944
+The Sardine Factory,"701 Wave St., Monterey, 93940, USA","$$$$ · Seafood, American",36.615685,-121.901495
+China Village,"1335 Solano Ave., Albany, 94706, USA","$ · Chinese, Sichuan",37.890881,-122.291152
+Cultura,"Dolores St. btw 5th and 6th Ave. Su Vecino Courtyard, Carmel-by-the-Sea, 93921, USA","$$ · Mexican, Californian",36.539486,-121.905876
+Sushi Yoshizumi,"325 E. 4th Ave., San Mateo, 94401, USA","$$$$ · Japanese, Sushi",37.565104,-122.321282
+Soba Ichi,"2311A Magnolia St., Oakland, 94607, USA",$$ · Japanese,37.817022,-122.284911
+Pasta Moon,"845 Main St., Half Moon Bay, 94019, USA","$$$ · Italian, Californian",37.457964,-122.429829
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Commis,"3859 Piedmont Ave., Oakland, 94611, USA",$$$$ · Contemporary,37.824759,-122.254954
+Quince,"470 Pacific Ave., San Francisco, 94133, USA","$$$$ · Contemporary, Californian",37.797474,-122.403363
+La Marcha,"2026 San Pablo Ave., Berkeley, 94702, USA",$$ · Spanish,37.868616,-122.292284
+Rich Table,"199 Gough St., San Francisco, 94102, USA","$$$ · Californian, Contemporary",37.774866,-122.422781
+State Bird Provisions,"1529 Fillmore St., San Francisco, 94115, USA",$$$ · Californian,37.783661,-122.433078
+Z & Y,"655 Jackson St., San Francisco, 94133, USA","$$ · Chinese, Sichuan",37.795922,-122.406002
+Madcap,"198 Sir Francis Drake Blvd., San Anselmo, 94960, USA","$$$$ · Contemporary, Asian Contemporary",37.974741,-122.561543
+Kokkari Estiatorio,"200 Jackson St., San Francisco, 94111, USA",$$$ · Greek,37.796985,-122.399883
+The Morris,"2501 Mariposa St., San Francisco, 94110, USA","$$$ · Contemporary, Californian",37.762901,-122.408559
+Acquerello,"1722 Sacramento St., San Francisco, 94109, USA","$$$$ · Italian, Contemporary",37.791541,-122.421397
+Izakaya Rintaro,"82 14th St., San Francisco, 94103, USA","$$ · Japanese, Izakaya",37.768804,-122.415112
+A16,"2355 Chestnut St., San Francisco, 94123, USA","$$ · Pizza, Italian",37.799791,-122.442052
+Hog Island Oyster Co.,"1 Ferry Building, #11, San Francisco, 94111, USA","$$$ · Seafood, American",,
+Harborview,"4 Embarcadero Center, San Francisco, 94111, USA","$$ · Chinese, Cantonese",37.795322,-122.396192
+Saru,"3856 24th St., San Francisco, 94114, USA","$$$ · Japanese, Sushi",37.751819,-122.428792
+Anchor Oyster Bar,"579 Castro St., San Francisco, 94114, USA","$$ · Seafood, Italian-American",37.75969,-122.434611
+Burmatown,"18 Tamalpais Dr., Corte Madera, 94925, USA",$$ · Burmese,37.926349,-122.528796
+Colony Club,"572 N. Indian Canyon Dr., Palm Springs, 92262, USA",$$$ · American,33.831556,-116.545296
+SingleThread,"131 North St., Healdsburg, 95448, USA","$$$$ · Contemporary, Californian",38.612404,-122.869717
+Aziza,"5800 Geary Blvd., San Francisco, 94121, USA","$$$ · Moroccan, Middle Eastern",37.78048,-122.481706
+Allora,"5215 Folsom Blvd., Sacramento, 95819, USA","$$$$ · Italian, Seafood",38.560403,-121.442346
+Farmhouse Inn Restaurant,"7871 River Rd., Forestville, 95436, USA",$$$$ · Californian,38.490163,-122.883574
+Michael Warring,"8300 Bennington Ct., Vallejo, 94591, USA",$$$ · Contemporary,38.15841,-122.18559
+Press,"587 St. Helena St., Saint Helena, 94574, USA",$$$$ · Modern Cuisine,38.488773,-122.450479
+Cheeky's,"622 N. Palm Canyon Dr., Palm Springs, 92262, USA","$$ · American, Californian",33.832257,-116.546324
+The Kitchen,"915 Broadway, Ste. 100, Sacramento, 95818, USA","$$$$ · Contemporary, Californian",38.564415,-121.501058
+Stockhome,"220 Western Ave., Petaluma, 94952, USA",$$ · Scandinavian,38.233382,-122.642816
+Ramen Gaijin,"6948 Sebastopol Ave., Sebastopol, 95472, USA","$$ · Japanese, Ramen",38.402545,-122.823732
+Artifact at Mingei,"1439 El Prado, San Diego, 92101, USA","$$ · International, Contemporary",32.731183,-117.150957
+Taira Sushi & Sake,"8851 Garden Grove Blvd., Ste. 113, Garden Grove, 92844, USA","$$$ · Japanese, Sushi",33.774395,-117.977825
+LeYou,"1100 N. First St., Ste. C., San Jose, 95112, USA","$$ · Ethiopian, American",37.356528,-121.90546
+Solbar,"755 Silverado Trail, Calistoga, 94515, USA",$$$ · Californian,38.5849,-122.57108
+Kaori Sushi,"133 W. Chapman Ave., Fullerton, 92832, USA","$$$ · Japanese, Sushi",33.874274,-117.925815
+Mijoté,"2400 Harrison St., San Francisco, 94110, USA","$$$$ · French, Contemporary",37.758892,-122.412748
+Dear Jane's,"13950 Panay Way, Marina del Rey, 90292, USA","$$$$ · American, Seafood",33.978752,-118.453309
+AMA Sushi,"1759 S. Jameson Ln., Montecito, 93108, USA","$$$$ · Sushi, Japanese",34.42069,-119.628545
+Dunsmoor,"3501 Eagle Rock Blvd., Los Angeles, 90065, USA",$$$ · American,34.116132,-118.235923
+Pizzeria Sei,"8781 W. Pico Blvd., Los Angeles, 90035, USA","$$ · Pizza, Contemporary",34.054871,-118.383441
+Pomet,"4029 Piedmont Ave., Oakland, 94611, USA",$$$ · Californian,37.825997,-122.253302
+Sushi Kisen,"1108 S. Baldwin Ave., #B6, Arcadia, 91007, USA","$$$ · Japanese, Sushi",,
+asterid by Ray Garcia,"141 S. Grand Ave., Los Angeles, 90012, USA","$$$ · Californian, Contemporary",34.05514,-118.249665
+Hawks,"1525 Alhambra Blvd., Sacramento, 95816, USA","$$ · American, Contemporary",38.56636,-121.467804
+Camphor,"923 E. 3rd St., Ste. 109, Los Angeles, 90013, USA","$$$$ · French, Contemporary",34.046471,-118.234256
+Girl & the Goat Los Angeles,"555-3 Mateo St., Los Angeles, 90013, USA","$$$ · Contemporary, American",34.047409,-118.249671
+RYLA,"1220 Hermosa Ave., Hermosa Beach, 90254, USA","$$$ · Contemporary, Japanese",33.8627,-118.399904
+Sushi Takeda,"123 Astronaut Ellison S. Onizuka St., Ste. 307, Los Angeles, 90012, USA","$$$$ · Japanese, Sushi",34.049979,-118.242333
+The Dutchess,"457 E. Ojai Ave., Ojai, 93023, USA",$$$ · Burmese,34.447815,-119.242024
+Stokes Adobe,"500 Hartnell St., Monterey, 93940, USA",$$$ · Contemporary,36.596566,-121.896388
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+24 Suns,"3375 Mission Ave., Oceanside, 92058, USA",$$$ · Chinese Contemporary,33.2181,-117.340149
+Ipoh Kopitiam,"1411 S. Garfield Ave., Ste. 104, Alhambra, 91801, USA",$$ · Malaysian,34.077901,-118.123294
+Bar Etoile,"632 N. Western Ave., Los Angeles, 90004, USA","$$$ · Californian, European",34.082772,-118.308902
+Horses,"7617 Sunset Blvd., Los Angeles, 90046, USA",$$$ · Contemporary,34.098194,-118.355671
+Kin Thai,"1050 20th St., Ste. 180, Sacramento, 95811, USA",$$ · Thai,38.57602,-121.480408
+Sushi ii,"100 West Coast Hwy., Ste. 202, Newport Beach, 92663, USA","$$$$ · Japanese, Sushi",33.616433,-117.907778
+Tomat,"6261 W. 87th St., Los Angeles, 90045, USA",$$$ · Californian,33.95867,-118.39467
+Eylan,"500 El Camino Real, Ste. 101, Menlo Park, 94025, USA","$$ · Indian, Californian",37.451086,-122.177302
+Cyrus,"275 CA-128, Geyserville, 95441, USA","$$$$ · Californian, Modern Cuisine",38.706345,-122.900562
+Mae Malai Thai House of Noodles,"5445 Hollywood Blvd., Unit A, Los Angeles, 90027, USA",$ · Thai,34.1021,-118.30869
+Stella,"8899 Beverly Blvd., West Hollywood, 90048, USA",$$$$ · Italian,34.077399,-118.386416
+Grá,"1524 Pizarro St., Los Angeles, 90026, USA",$$ · Pizza,34.06664,-118.260769
+Burdell,"4640 Telegraph Ave., Oakland, 94609, USA","$$$ · American, Contemporary",37.834142,-122.262847
+Tiya,"3213 Scott St., San Francisco, 94123, USA","$$$ · Indian, Contemporary",37.799509,-122.441181
+Danbi,"3465 W. 6th St., Ste. 90-100, Los Angeles, 90020, USA",$$ · Korean,34.063873,-118.297206
+Cedro Italian Restaurant,"2385 Michael Dr., Newbury Park, 91320, USA",$$ · Italian,34.182792,-118.928181
+Snail Bar,"4935 Shattuck Ave., Oakland, 94609, USA","$$$ · Contemporary, Californian",37.836641,-122.264228
+Carnes Asadas Pancho Lopez,"3328 Pasadena Ave., Los Angeles, 90031, USA",$ · Mexican,34.083839,-118.213384
+The Attic,"3441 E. Broadway, Long Beach, 90803, USA",$$ · Southern,33.764731,-118.151522
+The Brothers Sushi,"21418 Ventura Blvd., Woodland Hills, 91364, USA","$$$$ · Japanese, Sushi",34.167739,-118.598235
+The Hatch,"835 13th St., Paso Robles, 93446, USA",$$ · American,35.628074,-120.68931
+Sovereign,"1460 J St., San Diego, 92101, USA","$ · Thai, Lao",32.70961,-117.15103
+Agnes,"40 W. Green St., Pasadena, 91105, USA","$$$ · American, Californian",34.144275,-118.151333
+Sabio on Main,"501 Main St., Pleasanton, 94566, USA","$$$ · Californian, Contemporary",37.660703,-121.876088
+Khan Saab Desi Craft Kitchen,"229 E. Commonwealth Ave., Ste. A, Fullerton, 92832, USA","$$ · Pakistani, Indian",33.870805,-117.920549
+Ramen & Tsukemen TAO,"10488 Valley View St., Buena Park, 90620, USA","$ · Japanese, Ramen",33.81023,-118.02786
+3rd Cousin,"919 Cortland Ave., San Francisco, 94110, USA","$$$$ · Californian, Contemporary",37.739103,-122.413683
+Knife Pleat,"3333 S. Bristol St., Ste. 3001, Costa Mesa, 92626, USA","$$$$ · Contemporary, Modern French",33.678331,-117.885988
+Yunomi Handroll,"806 E. 3rd St., Los Angeles, 90013, USA","$$ · Japanese, Sushi",34.04554,-118.23594
+Tac/Quila,"415 N. Palm Canyon Dr., Palm Springs, 92262, USA",$$ · Mexican,33.828793,-116.546982
+Zhengyalov Hatz,"318 E. Broadway, Glendale, 91205, USA",$ · Armenian,34.146042,-118.251751
+Ardor,"9040 W. Sunset Blvd., West Hollywood, 90069, USA","$$$ · Californian, Mediterranean Cuisine",34.090162,-118.389108
+Omakase by Gino,"304 N. Main St., Santa Ana, 92701, USA","$$$$ · Japanese, Contemporary",33.747407,-117.867888
+Hatchet Hall,"12517 Washington Blvd., Los Angeles, 90066, USA","$$$ · American, Contemporary",33.997048,-118.431375
+Fable & Spirit,"3441 Via Lido, Ste. A, Newport Beach, 92663, USA","$$ · Californian, American",33.617932,-117.929118
+Sushi Note,"13447 Ventura Blvd., Sherman Oaks, 91423, USA","$$$$ · Japanese, Sushi",34.147345,-118.426481
+Milo + Olive,"2723 Wilshire Blvd., Santa Monica, 90403, USA","$$$ · Farm to table, Italian",34.037554,-118.476086
+Chulita,"533 Rose Ave., Venice, 90291, USA",$$ · Mexican,33.998821,-118.473086
+Nixtaco,"1805 Cirby Way, Ste. 12, Roseville, 95661, USA",$$ · Mexican,38.729939,-121.256431
+San Ho Won,"2170 Bryant St., San Francisco, 94110, USA","$$$ · Korean, Contemporary",37.759441,-122.410179
+Selanne Steak Tavern,"1464 S. Coast Hwy., Laguna Beach, 92651, USA","$$$$ · Steakhouse, American Contemporary",33.531436,-117.774071
+Asa South,"57 Los Gatos-Saratoga Rd., Los Gatos, 95032, USA","$$ · Californian, Mediterranean Cuisine",37.226618,-121.97209
+Bee Taqueria,"5754 W. Adams Blvd., Los Angeles, 90016, USA",$$ · Mexican,34.032289,-118.368812
+Bell's,"406 Bell St., Los Alamos, 93440, USA","$$$$ · French, Californian",34.74383,-120.27935
+New Dumpling,"10064 San Pablo Ave., El Cerrito, 94530, USA","$ · Chinese, Dumplings",37.901801,-122.302757
+Fia,"2454 Wilshire Blvd., Santa Monica, 90403, USA",$$$ · Contemporary,34.03484,-118.47834
+Camden Spit & Larder,"555 Capitol Mall, Sacramento, 95814, USA",$$$ · Gastropub,38.579003,-121.500487
+MARKET Restaurant + Bar,"3702 Via De La Valle, Del Mar, 92014, USA",$$$ · International,32.983077,-117.230187
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Hamano Sushi,"1332 Castro St., San Francisco, 94114, USA",$$$ · Japanese,37.750768,-122.434312
+Jiang Nan Spring,"910 E. Main St., Alhambra, 91801, USA","$$ · Chinese, Shanghainese",34.099484,-118.1174
+Lalibela,"1025 S. Fairfax Ave., Los Angeles, 90019, USA",$$ · Ethiopian,34.057386,-118.364451
+Birdie G's,"2421 Michigan Ave., Santa Monica, 90404, USA",$$$ · American,34.027069,-118.468589
+LOLA 55,"1290 F St., San Diego, 92101, USA",$ · Mexican,32.713822,-117.153032
+Juniper & Ivy,"2228 Kettner Blvd., San Diego, 92101, USA",$$$ · Californian,32.727474,-117.171209
+Himitsu,"1030 Torrey Pines Rd. G, La Jolla, 92037, USA","$$ · Japanese, Sushi",32.842786,-117.272405
+Cesarina,"4161 Voltaire St., San Diego, 92107, USA",$$ · Italian,32.743267,-117.234537
+Antico Nuovo,"4653 Beverly Blvd., Los Angeles, 90004, USA",$$$$ · Italian,34.07664,-118.311115
+Sushi Inaba,"20918 Hawthorne Blvd., Torrance, 90503, USA","$$$$ · Japanese, Sushi",33.839811,-118.353138
+The Barn Kitchen at Sparrows Lodge,"1330 E. Palm Canyon Dr., Palm Springs, 92264, USA",$$ · Californian,33.801668,-116.532388
+Herb & Wood,"2210 Kettner Blvd., San Diego, 92101, USA",$$$ · Californian,32.727171,-117.171348
+Great Maple,"1451 Washington St., San Diego, 92103, USA",$ · American,32.751694,-117.149516
+Bibi Ji,"1213 State St. B., Santa Barbara, 93101, USA","$$ · Indian, Contemporary",34.423497,-119.705201
+Addison,"5200 Grand Del Mar Way, San Diego, 92130, USA","$$$$ · Contemporary, Californian",32.941736,-117.199369
+Coni'Seafood,"3544 W. Imperial Hwy., Inglewood, 90303, USA",$$ · Mexican,33.93073,-118.33486
+Bardo Lounge,"3343 Lakeshore Ave., Oakland, 94610, USA",$$ · American,37.811278,-122.243462
+Ciccia Osteria,"2233 Logan Ave., San Diego, 92113, USA","$$ · Italian, Milanese",32.697448,-117.138846
+Morning Glory,"550 W. Date St., San Diego, 92101, USA",$$ · American,32.723188,-117.168167
+Corazon Cocina,"38 W. Victoria St., #122, Santa Barbara, 93101, USA","$$ · Mexican, Seafood",,
+Fort Oak,"1011 Fort Stockton Dr., San Diego, 92103, USA","$$$$ · Steakhouse, American",32.750601,-117.172601
+Palette Tea House,"900 N. Point St., Ste. B201A, San Francisco, 94109, USA","$$ · Chinese, Dim Sum",37.80586,-122.422929
+Ayara Thai Cuisine,"6245 W. 87th St., Los Angeles, 90045, USA",$ · Thai,33.95872,-118.394493
+Destroyer,"3578 Hayden Ave., Culver City, 90232, USA",$$ · Contemporary,34.0245,-118.38114
+Rustic Canyon,"1119 Wilshire Blvd., Santa Monica, 90401, USA",$$$ · Californian,34.025127,-118.491361
+Cucina Urbana,"505 Laurel St., San Diego, 92101, USA",$$ · Italian,32.731104,-117.159945
+Mar'sel,"100 Terranea Way, Rancho Palos Verdes, 90275, USA",$$$$ · American,33.738501,-118.397998
+Hana re,"2930 Bristol St., Costa Mesa, 92626, USA","$$$$ · Japanese, Sushi",33.677534,-117.886047
+Campfire,"2725 State St., Carlsbad, 92008, USA",$$$ · Contemporary,33.162071,-117.350961
+Shin Sushi,"16573 Ventura Blvd., Ste. 14, Encino, 91436, USA","$$$$ · Japanese, Sushi",34.157995,-118.494223
+The Ranch,"1025 E. Ball Rd., Anaheim, 92805, USA","$$$ · Steakhouse, Regional Cuisine",33.818539,-117.896995
+Petit Trois,"718 N. Highland Ave., Los Angeles, 90038, USA",$$$ · French,34.08414,-118.33839
+Hayato,"1320 E. 7th St., Ste. 126, Los Angeles, 90021, USA","$$$$ · Japanese, Seafood",34.03599,-118.24043
+Dama,"612 E. 11th St., Los Angeles, 90015, USA","$$$ · Latin American, American Contemporary",34.03561,-118.25308
+Chi Spacca,"6610 Melrose Ave., Los Angeles, 90038, USA","$$$$ · Italian, Steakhouse",34.083316,-118.339065
+Born & Raised,"1909 India St., San Diego, 92101, USA",$$$$ · Steakhouse,32.724685,-117.168349
+Alta Adams,"5359 W. Adams Blvd., Los Angeles, 90016, USA",$$ · Southern,34.03265,-118.359925
+Kali,"5722 Melrose Ave., Hollywood, 90038, USA","$$$$ · Steakhouse, Californian",34.08333,-118.32452
+CUT,"9500 Wilshire Blvd., Beverly Hills, 90212, USA","$$$$ · Steakhouse, American",34.066702,-118.400737
+wonderful,"270 Broadway, Millbrae, 94030, USA","$$ · Chinese, Hunanese and Sichuan",37.600621,-122.391066
+Osteria Mozza,"6602 Melrose Ave., Los Angeles, 90038, USA",$$$$ · Italian,34.083304,-118.338853
+Tsubaki,"1356 Allison Ave., Los Angeles, 90026, USA","$$ · Japanese, Izakaya",34.072715,-118.251678
+Jitlada,"5233 1/2 W. Sunset Blvd., Los Angeles, 90027, USA",$$ · Thai,34.098083,-118.311291
+Orchard City Kitchen,"1875 S. Bascom Ave., Ste. 190, Campbell, 95008, USA","$$ · International, Fusion",37.28827,-121.933506
+Sierra Mar,"47900 CA-1, Big Sur, 93920, USA","$$$$ · Californian, Contemporary",36.231511,-121.768981
+Flea St. Cafe,"3607 Alameda de las Pulgas, Menlo Park, 94025, USA","$$$ · Contemporary, Californian",37.43175,-122.201193
+Tasty Place,"1625 El Camino Real, Millbrae, 94030, USA","$$ · Chinese, Regional Cuisine",37.612921,-122.404396
+Guisados,"2100 E. Cesar E. Chavez Ave., Los Angeles, 90033, USA","$ · Mexican, Regional Cuisine",34.048115,-118.211495
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Connie & Ted’s,"8171 Santa Monica Blvd., West Hollywood, 90046, USA",$$$ · Seafood,34.091069,-118.367204
+Vina Enoteca,"700 Welch Rd., Unit 110, Palo Alto, 94304, USA","$$$ · Italian, Contemporary",37.437389,-122.173288
+Badmaash,"108 W. 2nd St., Ste. 104, Los Angeles, 90012, USA","$$ · Indian, Gastropub",34.05114,-118.244979
+Gwen,"6600 Sunset Blvd., Los Angeles, 90028, USA","$$$$ · Steakhouse, American",34.097775,-118.333387
+La Costanera,"260 Capistrano Rd., Half Moon Bay, 94019, USA","$$$ · Peruvian, Latin American",37.504272,-122.482747
+Adega,"1614 Alum Rock Ave., San Jose, 95116, USA","$$$$ · Portuguese, Californian",37.351156,-121.858342
+Navio,"1 Miramontes Point Rd., Half Moon Bay, 94019, USA",$$$$ · Contemporary,37.433904,-122.441382
+Los Agaves,"600 N. Milpas St., Santa Barbara, 93101, USA","$ · Mexican, Californian",34.427542,-119.686589
+The Lark,"131 Anacapa St., Santa Barbara, 93101, USA",$$$ · Californian,34.414534,-119.690589
+Camper,"898 Santa Cruz Ave., Menlo Park, 94025, USA","$$ · Californian, Contemporary",37.449947,-122.186132
+Madera,"2825 Sand Hill Rd., Menlo Park, 94025, USA","$$$$ · Contemporary, Californian",37.419694,-122.212334
+Paprika Café,"309 Lighthouse Ave., Monterey, 93940, USA","$ · Mediterranean Cuisine, Greek",36.61072,-121.89968
+Blackbird,"36 State St., Santa Barbara, 93101, USA","$$$$ · Mediterranean Cuisine, Contemporary",34.413269,-119.689992
+First & Oak,"409 1st St., Solvang, 93463, USA",$$$ · Contemporary,34.593854,-120.140647
+Wakuriya,"115 De Anza Blvd., San Mateo, 94402, USA","$$$$ · Japanese, Contemporary",37.520963,-122.336136
+New England Lobster Eatery,"824 Cowan Rd., Burlingame, 94010, USA","$$ · Seafood, Shellfish Specialities",37.602705,-122.374859
+Juanita & Maude,"825 San Pablo Ave., Albany, 94706, USA",$$$ · Contemporary,37.891002,-122.298822
+Iyasare,"1830 4th St., Berkeley, 94710, USA","$$$ · Japanese, Izakaya",37.869321,-122.300612
+The Bywater,"532 N. Santa Cruz Ave., Los Gatos, 95030, USA","$$ · Southern, Creole",37.232726,-121.978727
+Zola,"585 Bryant St., Palo Alto, 94301, USA","$$$ · French, Californian",37.445341,-122.160436
+Barcote,"6430 Telegraph Ave., Oakland, 94609, USA",$ · Ethiopian,37.850861,-122.260144
+FOB Kitchen,"5179 Telegraph Ave., Oakland, 94609, USA","$$ · Filipino, Contemporary",37.837793,-122.262878
+Chez Panisse,"1517 Shattuck Ave., Berkeley, 94709, USA",$$$$ · Californian,37.879595,-122.268912
+Ippuku,"2130 Center St., Berkeley, 94704, USA",$$ · Japanese,37.870095,-122.266995
+Comal,"2020 Shattuck Ave., Berkeley, 94704, USA",$$ · Mexican,37.871401,-122.267983
+Tacubaya,"1782 4th St., Berkeley, 94710, USA",$ · Mexican,37.87034,-122.301093
+Vik's Chaat,"2390 4th St., Berkeley, 94710, USA",$ · Indian,37.861383,-122.298425
+Sons & Daughters,"708 Bush St., San Francisco, 94108, USA",$$$$ · Contemporary,37.790184,-122.409094
+Atelier Crenn,"3127 Fillmore St., San Francisco, 94123, USA","$$$$ · Contemporary, French",37.798321,-122.43594
+Frances,"3870 17th St., San Francisco, 94114, USA","$$ · Californian, American Contemporary",37.762818,-122.432236
+The Progress,"1525 Fillmore St., San Francisco, 94115, USA",$$$ · Californian,37.783661,-122.433078
+Café Jacqueline,"1454 Grant Ave., San Francisco, 94133, USA",$$$$ · French,37.800461,-122.407363
+Wood Tavern,"6317 College Ave., Oakland, 94618, USA",$$ · American,37.850638,-122.252643
+Saison,"178 Townsend St., San Francisco, 94107, USA","$$$$ · Californian, Contemporary",37.779622,-122.39237
+Yank Sing,"101 Spear St., San Francisco, 94105, USA","$$ · Chinese, Dim Sum",37.792336,-122.393036
+Pearl 6101,"6101 California St., San Francisco, 94121, USA","$$ · Mediterranean Cuisine, Californian",37.78376,-122.483031
+Californios,"355 11th St., San Francisco, 94103, USA","$$$$ · Mexican, Contemporary",37.771469,-122.412871
+Lazy Bear,"3416 19th St., San Francisco, 94110, USA","$$$$ · Contemporary, Modern Cuisine",37.760382,-122.419697
+Cotogna,"490 Pacific Ave., San Francisco, 94133, USA",$$$ · Italian,37.797441,-122.403431
+Octavia,"1701 Octavia St., San Francisco, 94109, USA",$$$ · Californian,37.787972,-122.427111
+Spruce,"3640 Sacramento St., San Francisco, 94118, USA","$$$$ · Californian, Contemporary",37.787683,-122.452757
+Sushi Ran,"107 Caledonia St., Sausalito, 94965, USA","$$ · Japanese, Sushi",37.858721,-122.485831
+Kusakabe,"584 Washington St., San Francisco, 94111, USA","$$$$ · Japanese, Sushi",37.7957,-122.402902
+Gary Danko,"800 North Point St., San Francisco, 94109, USA",$$$$ · Contemporary,37.805849,-122.420589
+Nightbird,"330 Gough St., San Francisco, 94102, USA","$$$$ · Californian, Contemporary",37.77666,-122.422669
+Oma San Francisco Station,"1737 Post St., #337, San Francisco, 94115, USA","$$$ · Japanese, Sushi",,
+The French Laundry,"6640 Washington St., Yountville, 94599, USA","$$$$ · Contemporary, French",38.404441,-122.36478
+Playa,"41 Throckmorton Ave., Mill Valley, 94941, USA","$$ · Mexican, Tex-Mex",37.906458,-122.547045
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Ella,"1131 K St., Sacramento, 95814, USA","$$$ · Contemporary, American",38.578882,-121.491415
+Farmstead,"738 Main St., Saint Helena, 94574, USA",$$$ · Californian,38.5009,-122.46325
+Harbor House,"5600 CA-1, Elk, 95432, USA","$$$$ · Californian, Creative",39.135696,-123.719487
+Bacon & Butter,"5913 Broadway, Sacramento, 95820, USA",$ · American,38.547032,-121.43599
+Friends Only,"1501 California St., San Francisco, 94109, USA","$$$$ · Sushi, Contemporary",37.790456,-122.419241
+Cafe Reyes,"11101 Hwy. 1, Point Reyes Station, 94956, USA",$$ · Pizza,38.067034,-122.804703
+Terrapin Creek,"1580 Eastshore Rd., Bodega Bay, 94923, USA",$$$ · Californian,38.33899,-123.048162
+4 Saints,"100 W. Tahquitz Canyon Way, Palm Springs, 92262, USA",$$ · American,33.823529,-116.547655
+La Toque,"1314 McKinstry St., Napa, 94559, USA",$$$$ · Contemporary,38.303927,-122.283512
+Diavola,"21021 Geyserville Ave., Geyserville, 95441, USA","$$ · Italian, Pizza",38.706295,-122.904202
+Villa's Tacos,"5455 N. Figueroa St., Los Angeles, 90042, USA",$ · Mexican,34.10869,-118.196982
+Quarter Sheets,"1305 Portia St., Los Angeles, 90026, USA",$$ · Pizza,34.075809,-118.254338
+Pollo a la Brasa,"764 S. Western Ave., Los Angeles, 90005, USA",$ · Peruvian,34.057841,-118.30877
+Ciccio,"6770 Washington St., Yountville, 94599, USA","$$ · Italian, Pizza",38.40659,-122.366763
+El Molino Central,"11 Central Ave., Sonoma, 95476, USA",$$ · Mexican,38.315081,-122.481985
+HK Lounge Bistro,"1136 Folsom St., San Francisco, 94103, USA","$$ · Chinese, Dim Sum",37.776266,-122.408993
+Eat Joy Food,"18888 Labin Ct., Rowland Heights, 91748, USA",$$ · Taiwanese,33.99222,-117.891169
+Henry's Cuisine,"301 E. Valley Blvd., Alhambra, 91801, USA","$$$ · Chinese, Cantonese",34.079045,-118.11953
+Juliet,"8888 Washington Blvd., Culver City, 90232, USA","$$$$ · French, Contemporary",34.026488,-118.38888
+Ethel's Fancy,"550 Waverley St., Palo Alto, 94301, USA",$$$ · Californian,37.446445,-122.159912
+Movida,"555 2nd St., San Francisco, 94107, USA","$$ · Mexican, Persian",37.78254,-122.392586
+Troubadour,"381 Healdsburg Ave., Healdsburg, 95448, USA","$$$$ · French, Californian",38.61151,-122.871178
+Mélisse,"1104 Wilshire Blvd., Santa Monica, 90401, USA",$$$$ · Modern French,34.024382,-118.491322
+Localis,"2031 S. St., Sacramento, 95811, USA","$$$$ · Californian, Contemporary",38.566622,-121.483025
+Workshop Kitchen & Bar,"800 N. Palm Canyon Dr., Ste. G, Palm Springs, 92262, USA",$$$ · Californian,33.834182,-116.546495
+Paradisaea,"5680 La Jolla Blvd., San Diego, 92037, USA","$$$$ · Californian, Contemporary",32.815386,-117.270782
+Sushi Sonagi,"1425 W. Artesia Blvd., Unit 27, Gardena, 90248, USA","$$$$ · Japanese, Sushi",33.873613,-118.300818
+Canon,"1719 34th St., Sacramento, 95816, USA",$$ · Contemporary,38.56437,-121.4648
+Kenzo,"1339 Pearl St., Napa, 94559, USA",$$$$ · Japanese,38.29894,-122.289527
+Auberge du Soleil,"180 Rutherford Hill Rd., Rutherford, 94573, USA",$$$$ · Californian,38.458753,-122.421777
+Mustards Grill,"7399 St. Helena Hwy., Napa, 94558, USA",$$$ · American,38.418967,-122.388162
+Kiln,"149 Fell St., San Francisco, 94102, USA",$$$$ · Contemporary,37.775998,-122.420377
+Liu's Cafe,"3915 1/2 W. 6th St., Los Angeles, 90020, USA","$ · Chinese, Taiwanese",34.063494,-118.311837
+Noodle in a Haystack,"4601 Geary Blvd., San Francisco, 94118, USA","$$$$ · Japanese, Californian",37.78057,-122.468724
+Petiscos,"399 S. 1st St., San Jose, 95113, USA","$$ · Portuguese, Regional Cuisine",37.33004,-121.886281
+Parche,"2295 Broadway, Oakland, 94612, USA","$$$ · Colombian, Contemporary",37.81194,-122.266579
+Leona’s Sushi House,"11814 Ventura Blvd., Studio City, 91604, USA","$$$ · Japanese, Peruvian",34.142043,-118.389801
+Funke,"9388 S. Santa Monica Blvd., Beverly Hills, 90210, USA",$$$$ · Italian,34.07169,-118.401544
+Meteora,"6703 Melrose Ave., Los Angeles, 90038, USA","$$$$ · Creative, Contemporary",34.083633,-118.339869
+Chez Noir,"5th Ave. btw. Dolores and San Carlos Sts., Carmel-by-the-Sea, 93921, USA","$$$$ · Contemporary, Seafood",36.539486,-121.905876
+Anomaly SF,"2600 Sutter St., San Francisco, 94115, USA","$$$$ · Contemporary, Creative",37.784911,-122.443349
+San Laurel,"100 S. Grand Ave., Los Angeles, 90012, USA","$$$$ · Spanish, Contemporary",34.055274,-118.248802
+Bansang,"1560 Fillmore St., San Francisco, 94115, USA","$$ · Korean, Contemporary",37.784087,-122.432663
+Ken,"252 Divisadero St., San Francisco, 94117, USA","$$$$ · Sushi, Japanese",37.771463,-122.436994
+Saffy's,"4845 Fountain Ave., Los Angeles, 90029, USA",$$$ · Middle Eastern,34.095626,-118.295355
+Les Petites Canailles,"1215 Spring St., Paso Robles, 93446, USA",$$$$ · French,35.627006,-120.691717
+Sorella,"1760 Polk St., San Francisco, 94109, USA","$$$ · Italian, Californian",37.793122,-122.420983
+kodō,"710 S. Santa Fe Ave., Los Angeles, 90021, USA","$$$$ · Izakaya, Sushi",34.034118,-118.229755
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Pizzeria Bianco,"1320 E. 7th St., Los Angeles, 90021, USA","$$ · Pizza, Italian-American",34.03599,-118.24043
+R|O-Rebel Omakase,"361 Forest Ave., Ste. 103, Laguna Beach, 92651, USA","$$$$ · Japanese, Sushi",33.543183,-117.78193
+Gusto Handcrafted Pasta & Pizza,"1901 Fremont Blvd., Seaside, 93955, USA",$$ · Italian-American,36.617133,-121.842196
+peasants FEAST,"487 Atterdag Rd., Solvang, 93463, USA",$$ · American,34.59561,-120.14223
+Itria,"3266 24th St., San Francisco, 94110, USA","$$ · Italian, Contemporary",37.75249,-122.41781
+Boozehounds,"2080 N. Palm Canyon Dr., Palm Springs, 92262, USA",$$ · International,33.84821,-116.547345
+Jo's Modern Thai,"3725 MacArthur Blvd., Oakland, 94619, USA","$$ · Thai, Californian",37.791693,-122.199123
+Flavors from Afar,"5652 Hollywood Blvd., Los Angeles, 90028, USA",$$ · International,34.101574,-118.313243
+Chiang Rai,"3832 E. Anaheim St., Long Beach, 90804, USA",$$ · Thai,33.782412,-118.147402
+Lulu,"10899 Wilshire Blvd., Los Angeles, 90024, USA",$$ · Californian,34.059436,-118.443704
+Mabel’s Gone Fishing,"3770 30th St., San Diego, 92104, USA","$$ · Seafood, Californian",32.74679,-117.130172
+Baroo,"905 E. 2nd St., #109, Los Angeles, 90012, USA",$$$$ · Korean Contemporary,,
+Koi Japanese Cuisine,"600 Pacific Coast Hwy., Unit 100, Seal Beach, 90740, USA","$$$ · Japanese, Contemporary",33.746275,-118.105574
+matū,"239 S. Beverly Dr., Ste. 100, Beverly Hills, 90212, USA","$$$$ · Steakhouse, Californian",34.06362,-118.399394
+Fia Steak,"2458 Wilshire Blvd., Santa Monica, 90403, USA",$$$$ · Steakhouse,34.034951,-118.478246
+Copra,"1700 Fillmore St., San Francisco, 94115, USA","$$$ · Indian, Contemporary",37.785369,-122.432814
+Sushi Yuen,"18558 Gale Ave., Unit 100-102, City of Industry, 91748, USA","$$$$ · Sushi, Japanese",33.994893,-117.899865
+Luyu Dumplings,"17980 Castleton St., City of Industry, 91748, USA","$ · Chinese, Dumplings",33.992118,-117.912534
+Phởholic,"14932 Bushard St., Westminster, 92683, USA","$ · Vietnamese, Regional Cuisine",33.745676,-117.963291
+Kajiken,"112 S. B St., San Mateo, 94401, USA","$ · Noodles, Asian",37.566719,-122.324018
+Valle,"222 N. Pacific St., Oceanside, 92056, USA","$$$$ · Mexican, Contemporary",33.194573,-117.383328
+Hilda and Jesse,"701 Union St., San Francisco, 94133, USA","$$$ · American, Contemporary",37.800052,-122.411
+Poppy & Seed,"350 S. Anaheim Blvd., Anaheim, 92805, USA","$$$ · Southern, American",33.832432,-117.912461
+715,"738 E. 3rd St., Los Angeles, 90013, USA","$$$$ · Japanese, Sushi",34.045559,-118.23673
+Bar Sawa,"111 S. San Pedro St., Los Angeles, 90012, USA","$$$$ · Japanese, Sushi",34.050225,-118.241285
+Good Good Culture Club,"3560 18th St., San Francisco, 94110, USA","$$ · South East Asian, Californian",37.761785,-122.422938
+Bar Cecil,"1555 S. Palm Canyon Dr., Ste. H-104, Palm Springs, 92264, USA",$$$ · American,33.804108,-116.546821
+Yuji,"1700 Post St., Unit K, San Francisco, 94115, USA",$$$$ · Japanese,37.785698,-122.430087
+Nate's on Marsh,"450 Marsh St., San Luis Obispo, 93401, USA","$$$ · American, Italian",35.276161,-120.667487
+Donaji,"3161 24th St., San Francisco, 94110, USA","$$ · Mexican, Regional Cuisine",37.752192,-122.415467
+Cobi's,"2104 Main St., Santa Monica, 90405, USA",$$ · Asian,34.006155,-118.488175
+Abacá,"2700 Jones St., San Francisco, 94133, USA","$$ · Filipino, Californian",37.806946,-122.417099
+Sato Omakase,"1122 Post St., San Francisco, 94109, USA",$$$$ · Sushi,37.786858,-122.420243
+Cento Pasta Bar,"4921 W. Adams Blvd., Los Angeles, 90016, USA",$$$ · Italian,34.032796,-118.347732
+Nisei,"2316 Polk St., San Francisco, 94109, USA","$$$$ · Japanese, Contemporary",37.79814,-122.42197
+Breakwater Barbecue,"10151 Cabrillo Hwy., El Granada, 94018, USA","$$ · Barbecue, American",37.50567,-122.48116
+Heritage,"2030 E. 7th St., Long Beach, 90804, USA","$$$$ · Californian, Contemporary",33.775131,-118.166812
+Coast Range,"1635 Mission Dr., Solvang, 93463, USA","$$$$ · Steakhouse, American",34.596149,-120.14039
+Mad Dogs & Englishmen,"4914 S. MacDill Ave., Tampa, 33611, USA",$$$ · Gastropub,27.89278,-82.49363
+Big Ray's Fish Camp,"6116 Interbay Blvd., Tampa, 33611, USA",$$ · Seafood,27.87929,-82.495214
+Stage Kitchen & Bar,"2000 PGA Blvd., Ste. 5502, West Palm Beach, 33408, USA",$$$ · International,26.843656,-80.063729
+Moody Tongue Sushi,"600 Okeechobee Blvd., West Palm Beach, 33401, USA",$$$$ · Sushi,26.70523,-80.05758
+Larb Thai-Isan,"6234 N. Federal Hwy., Fort Lauderdale, 33308, USA",$$ · Thai,26.204127,-80.108571
+Kai Kai,"1110 E. Colonial Dr., Orlando, 32803, USA","$$ · Chinese, Cantonese",28.552882,-81.365166
+Il Ritorno,"449 Central Ave. N., #101, St. Petersburg, 33701, USA","$$$$ · Italian, Contemporary",,
+The Butcher's Club,"400 Ave. of the Champions, Palm Beach Gardens, 33418, USA",$$$$ · Steakhouse,26.829109,-80.140387
+Nicholson Muir Distinguished Meats,"480 E. Ocean Ave., Boynton Beach, 33435, USA",$$$$ · Steakhouse,26.526867,-80.059553
+aioli,"7434 S. Dixie Hwy., West Palm Beach, 33405, USA",$$ · American,26.65003,-80.056055
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+L'Atelier de Joël Robuchon Miami,"151 N.E. 41st St., Miami, 33137, USA","$$$$ · French, Contemporary",25.814198,-80.19235
+Kabooki Sushi,"3122 E. Colonial Dr., Orlando, 32803, USA","$$$ · Japanese, Sushi",28.55293,-81.34391
+Kadence,"1809 Winter Park Rd., Orlando, 32803, USA","$$$$ · Japanese, Sushi",28.568447,-81.345929
+Swine & Sons,"201 N. Bumby Ave., Orlando, 32803, USA","$ · American, Southern",28.545308,-81.351563
+Mandolin Aegean Bistro,"4312 N.E. 2nd Ave., Miami, 33137, USA","$$ · Mediterranean Cuisine, Turkish",25.816041,-80.191494
+The Den at Azabu Miami Beach,"161 Ocean Dr., Miami Beach, 33139, USA","$$$$ · Japanese, Sushi",25.770447,-80.132327
+Chef's Counter at MAASS,"525 N. Fort Lauderdale Beach Blvd., Fort Lauderdale, 33304, USA","$$$$ · Contemporary, American",26.130162,-80.104129
+Elcielo Miami,"31 S.E. 5th St., Miami, 33131, USA","$$$$ · Colombian, Latin American",25.769556,-80.191966
+Smokemade Meats + Eats,"1400 S. Crystal Lake Dr., Orlando, 32806, USA",$$ · Barbecue,28.525522,-81.343704
+Psomi,"701 N. Howard Ave., Tampa, 33606, USA",$$ · Greek,27.95011,-82.482752
+Grand Central,"7919 Biscayne Blvd., Miami, 33138, USA",$$$ · Contemporary,25.848269,-80.184462
+Chuan Fu,"1035 N. Orlando Ave., Ste. 105, Winter Park, 32789, USA","$$ · Chinese, Sichuan",28.606912,-81.365586
+Flaming Mountain,"13520 University Plaza St., Tampa, 33613, USA","$$ · Chinese, Regional Cuisine",28.070528,-82.429747
+Lilac,"500 Channelside Dr., Tampa, 33602, USA","$$$$ · Contemporary, Mediterranean Cuisine",27.943695,-82.450796
+Brasserie Laurel,"698 N.E. 1st Ave., Miami, 33132, USA",$$$$ · French,25.780873,-80.192743
+Bachour,"2020 Salzedo St., Ste. 103, Miami, 33134, USA","$$ · Contemporary, Bakery",25.753793,-80.261118
+AVA MediterrAegean,"290 S. Park Ave., Winter Park, 32789, USA",$$$$ · Greek,28.596114,-81.350771
+Walrus Rodeo,"5143 N.E. 2nd Ave., Miami, 33137, USA","$$$ · American, Italian",25.823508,-80.191542
+Tambourine Room by Tristan Brandt,"6801 Collins Ave., Miami Beach, 33141, USA","$$$$ · Contemporary, Asian",25.852978,-80.119913
+Maxine's on Shine,"337 N. Shine Ave., Orlando, 32803, USA",$$ · American,28.547229,-81.362188
+Rocca,"323 W. Palm Ave., Tampa, 33602, USA","$$ · Italian, Contemporary",27.962546,-82.464886
+Shingo,"112 Alhambra Cir., Coral Gables, 33134, USA","$$$$ · Japanese, Sushi",25.753036,-80.256622
+Josh's Deli,"9517 Harding Ave., Surfside, 33154, USA",$ · Deli,25.885562,-80.123538
+Kaya,"618 N. Thornton Ave., Orlando, 32803, USA",$$$$ · Filipino,28.552072,-81.36574
+Toledo,"1001 W. Buena Vista Dr., Orlando, 32830, USA",$$$ · Spanish,28.363427,-81.571619
+Isan Zaap,"4693 Gardens Park Blvd., Ste 113, Orlando, 32839, USA",$$ · Thai,28.494618,-81.423678
+Steelbach,"1902 N. Ola Ave., Tampa, 33602, USA","$$$ · Southern, Steakhouse",27.960832,-82.463758
+Bern’s Steak House,"1208 S. Howard Ave., Tampa, 33606, USA",$$$$ · Steakhouse,27.931499,-82.482911
+Niu Kitchen,"104 N.E. 2nd Ave., Miami, 33132, USA",$$$ · Spanish,25.775518,-80.19046
+YH Seafood Clubhouse,"8081 Turkey Lake Rd., Orlando, 32819, USA","$$ · Chinese, Cantonese",28.447272,-81.475652
+Élevage SoHo Kitchen & Bar,"1207 S. Howard Ave., Tampa, 33606, USA",$$ · International,27.930798,-82.483679
+"Four Flamingos, A Richard Blais Florida Kitchen","1 Grand Cypress Blvd., Orlando, 32836, USA",$$$ · Contemporary,28.382185,-81.509972
+Lung Yai Thai Tapas,"1731 S.W. 8th St., Miami, 33135, USA",$$ · Thai,25.7658,-80.223285
+Boia De,"5205 N.E. 2nd Ave., Miami, 33137, USA","$$$ · Contemporary, Italian",25.824096,-80.191394
+Morimoto Asia,"1600 E. Buena Vista Dr., Orlando, 32830, USA",$$$ · Asian,28.37075,-81.52314
+Haven,"2208 W. Morrison Ave., Tampa, 33606, USA",$$$ · Contemporary,27.933413,-82.482708
+Restaurant BT,"2507 S. MacDill Ave., Tampa, 33629, USA","$$$ · Vietnamese, French",27.92266,-82.493843
+Macchialina,"820 Alton Rd., Miami Beach, 33139, USA",$$$ · Italian,25.778671,-80.141189
+Selam,"5494 Central Florida Pkwy., Orlando, 32821, USA",$$ · Ethiopian,28.4068,-81.450237
+Lucali,"1930 Bay Rd., Miami Beach, 33139, USA",$$ · Pizza,25.795205,-80.143986
+Ghee Indian Kitchen,"8965 S.W. 72nd Pl., Miami, 33156, USA",$$ · Indian,25.687133,-80.312763
+Capa,"10100 Dream Tree Blvd., Lake Buena Vista, 32836, USA","$$$$ · Steakhouse, Spanish",28.402047,-81.545661
+Los Fuegos by Francis Mallmann,"3201 Collins Ave., Miami Beach, 33140, USA","$$$$ · Argentinian, Steakhouse",25.807344,-80.123391
+Timpano,"1610 W. Swann Ave., Tampa, 33606, USA",$$ · Italian-American,27.937074,-82.476225
+Primo,"4040 Central Florida Pkwy., Orlando, 32837, USA",$$$ · Italian,28.40199,-81.430028
+Mignonette,"210 N.E. 18th St., Miami, 33132, USA",$$$ · Seafood,25.793322,-80.19047
+Taquiza,"7450 Ocean Terrace, Miami Beach, 33141, USA",$ · Mexican,25.860579,-80.120168
+Hometown Barbecue Miami,"1200 N.W. 22nd St., #100, Miami, 33142, USA",$$ · Barbecue,,
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+The Pinery,"295 N.E. Ivanhoe Blvd., Orlando, 32804, USA",$$$ · American,28.56583,-81.373631
+The Tides Market,"305 Main St., Safety Harbor, 34695, USA",$$$ · Seafood,27.990914,-82.690297
+Cousin Vinny's Sandwich Co.,"1331 W. Cass St., Tampa, 33606, USA",$ · Italian-American,27.94999,-82.474197
+Walala Hand-Pulled Noodle House,"5062 W. Colonial Dr., #120, Orlando, 32808, USA",$$ · Chinese,,
+Gyukatsu Rose,"3201 Corrine Dr., Fl. 1, Orlando, 32803, USA",$$ · Japanese,28.568318,-81.343751
+Fisk,"1202 N. Franklin St., Tampa, 33602, USA","$$$ · Scandinavian, Seafood",27.953604,-82.460436
+Sushi Sho Rexley,"214 2nd St. N., St. Petersburg, 33701, USA",$$$$ · Sushi,27.773991,-82.635775
+"Daniel's, A Florida Steakhouse","620 S. Federal Hwy., Fort Lauderdale, 33301, USA",$$$$ · Steakhouse,26.113889,-80.13678
+Recoveco,"6000 S.W. 74th St., Ste. 1, Miami, 33143, USA",$$$$ · Contemporary,25.702125,-80.29128
+Bánh Mì Boy,"1110 E. Colonial Dr., Orlando, 32803, USA",$$ · Vietnamese,28.552882,-81.365166
+Coolinary and the Parched Pig,"4580 Donald Ross Rd., #105, Palm Beach Gardens, 33418, USA",$$$ · Contemporary,,
+Cotoa,"12475 N.E. 6th Ct., Miami, 33161, USA",$$ · Latin American,25.890061,-80.185321
+Ômo by Jônt,"115 E. Lyman Ave., Winter Park, 32789, USA",$$$$ · Contemporary,28.595133,-81.350508
+Sushi Saint,"400 Pittman St., Ste. A, Orlando, 32801, USA",$$ · Japanese,28.546455,-81.383598
+Supernatural Food & Wine,"305 E. Polk St., Tampa, 33602, USA",$ · American,27.950654,-82.458804
+Streetlight Taco,"4004 Henderson Blvd., Tampa, 33629, USA",$$ · Mexican,27.929731,-82.510192
+Nami,"6004 Artist Ave., Orlando, 32827, USA",$$$$ · Japanese,28.37608,-81.281434
+Palma,"240 N.W. 8th Ave., Miami, 33128, USA",$$$$ · Contemporary,25.776419,-80.207984
+Predalina,"1001 E. Cumberland Ave., Tampa, 33602, USA",$$$ · Mediterranean Cuisine,27.944872,-82.450079
+The Pearl,"823 Water St., Tampa, 33602, USA",$$ · American,27.943312,-82.450132
+Michael's Genuine,"130 N.E. 40th St., Miami, 33137, USA","$$$ · Contemporary, American",25.813275,-80.19269
+Prato,"124 N. Park Ave., Winter Park, 32789, USA","$$ · Italian, Pizza",28.59821,-81.350942
+Coro,"3022 Corrine Dr., Orlando, 32803, USA",$$$ · Contemporary,28.567527,-81.345243
+Papa Llama,"2840 Curry Ford Rd., Orlando, 32806, USA","$$$$ · Peruvian, Contemporary",28.523371,-81.34641
+Zaru,"1114 E. Colonial Dr., Orlando, 32803, USA","$$ · Japanese, Udon",28.552878,-81.364892
+Camille,"4962 New Broad St., Orlando, 32814, USA","$$$$ · Vietnamese, French",28.56827,-81.326
+Ebbe,"1202 N. Franklin St., Tampa, 33602, USA",$$$$ · Contemporary,27.953604,-82.460436
+Gorkhali Kitchen,"10044 Cross Creek Blvd., Tampa, 33647, USA","$$ · Nepali, Indian",28.14316,-82.326528
+Noble Rice,"615 Channelside Dr., Ste. 112, Tampa, 33602, USA",$$$$ · Japanese,27.943381,-82.446963
+Ossobuco,"62 N.W. 27th St., Miami, 33127, USA","$$$ · Contemporary, Steakhouse",25.802228,-80.196335
+Heritage,"903 N.E. 5th Ave., Fort Lauderdale, 33304, USA",$$ · Pizza,26.135225,-80.139198
+Ogawa,"7223 N.W. 2nd Ave., Miami, 33150, USA","$$$$ · Japanese, Sushi",25.841401,-80.200663
+Norigami,"426 W. Plant St., Winter Garden, 34787, USA","$$$ · Japanese, Sushi",28.564054,-81.590793
+Otto's High Dive,"2304 E. Robinson St., Orlando, 32803, USA","$$ · Cuban, American",28.545809,-81.352622
+Juju,"700 Maguire Blvd., Orlando, 32803, USA",$$$$ · Japanese,28.55396,-81.344945
+Twenty Pho Hour,"11951 International Dr., Unit B2, Orlando, 32821, USA",$$ · Asian,28.390342,-81.467815
+The Gibson Room,"2224 S.W. 22nd St., Miami, 33145, USA",$$$ · American,25.750375,-80.230714
+Torno Subito,"200 E. Flagler St., Miami, 33131, USA","$$$$ · Italian, Contemporary",25.774114,-80.189903
+Edoboy,"728 N. Thornton Ave., Orlando, 32803, USA",$$$ · Sushi,28.55427,-81.36593
+Hiden,"313 N.W. 25th St., Miami, 33127, USA","$$$$ · Japanese, Sushi",25.800834,-80.201375
+Zitz Sum,"396 Alhambra Cir., Ste. 155, Coral Gables, 33134, USA","$$ · Asian, Fusion",25.751285,-80.262256
+Ravello,"10100 Dream Tree Blvd., Orlando, 32836, USA",$$$ · Italian,28.402047,-81.545661
+Cítricos,"4401 Floridian Way, Orlando, 32830, USA","$$$$ · American, Regional Cuisine",28.410949,-81.588028
+El Turco,"184 N.E. 50th Terr., Miami, 33137, USA",$$ · Mediterranean Cuisine,25.822059,-80.192985
+Tinta y Cafe,"1315 Ponce De Leon Blvd., Coral Gables, 33134, USA","$ · Cuban, Regional Cuisine",25.75919,-80.2585
+Koya,"807 W. Platt St., Tampa, 33606, USA","$$$$ · Japanese, Contemporary",27.94183,-82.468181
+Shin Jung,"1638 E. Colonial Dr., Orlando, 32803, USA",$$ · Korean,28.552915,-81.3587
+Sear + Sea,"14900 Chelonia Pkwy., Orlando, 32821, USA",$$$$ · Steakhouse,28.358192,-81.526325
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+La Natural,"7289 N.W. 2nd Ave., Miami, 33150, USA",$$ · Pizza,25.842075,-80.200497
+Hiyakawa Miami,"2700 N. Miami Ave., #5, Miami, 33127, USA","$$$ · Japanese, Sushi",,
+Sanguich De Miami,"2057 S.W. 8th St., Miami, 33135, USA",$$ · Cuban,25.765594,-80.228654
+Estiatorio Milos,"730 1st St., Miami Beach, 33139, USA",$$$ · Greek,25.769689,-80.135728
+UniGirl,"1110 E. Colonial Dr., Orlando, 32803, USA","$ · Japanese, Onigiri",28.552882,-81.365166
+Fortu,"97 Central Ave., St. Petersburg, 33701, USA",$$$ · Asian,27.771361,-82.633789
+Palm Beach Meats,"4812 S. Dixie Hwy., West Palm Beach, 33405, USA",$$ · American,26.66936,-80.055
+Kojin 2.0,"804 Ponce de Leon, Coral Gables, 33134, USA","$$$ · Contemporary, Japanese",25.764205,-80.259492
+ViceVersa,"398 N.E. 5th St., Miami, 33132, USA",$$$ · Pizza,25.778798,-80.189246
+Rooster and the Till,"6500 N. Florida Ave., Tampa, 33604, USA",$$ · International,28.00691,-82.459677
+Bistro BT,"4267 Henderson Blvd., Tampa, 33629, USA","$$ · Fusion, Vietnamese",27.925548,-82.515839
+būccan,"350 S. County Rd., Palm Beach, 33480, USA","$$$ · American, Contemporary",26.703009,-80.03694
+Taste of Chengdu,"4856 New Broad St., Orlando, 32814, USA","$$ · Chinese, Sichuan",28.567229,-81.326578
+Zak The Baker,"295 N.W. 26th St., Miami, 33127, USA","$ · Bakery, American",25.801615,-80.200884
+Knife & Spoon,"4012 Central Florida Pkwy., Orlando, 32837, USA",$$$$ · Steakhouse,28.404875,-81.42931
+Bar Kada,"957 W. Fairbanks Ave., Winter Park, 32789, USA","$$ · Japanese, International",28.593216,-81.361723
+Sticky Rice,"1915 E. Colonial Dr., Orlando, 32803, USA",$$ · Lao,28.553292,-81.356578
+Tori Tori,"720 N. Mills Ave., Orlando, 32803, USA",$$ · Japanese,28.554015,-81.364695
+Domu,"3201 Corrine Dr., #100, Orlando, 32803, USA","$$ · Ramen, Japanese",,
+Se7en Bites,"617 N. Primrose Dr., Orlando, 32803, USA","$ · American, Bakery",28.551848,-81.347205
+Stubborn Seed,"101 Washington Ave., Miami Beach, 33139, USA","$$$$ · Contemporary, American",25.770332,-80.134838
+The Polite Pig,"1536 Buena Vista Dr., Orlando, 32830, USA",$$ · Barbecue,28.3522,-81.5774
+Pao by Paul Qui,"3201 Collins Ave., Miami Beach, 33140, USA",$$$ · Asian,25.807344,-80.123391
+Mister O1 Extraordinary Pizza,"1680 Michigan Ave., Ste. 101, Miami Beach, 33139, USA",$$ · Pizza,25.791606,-80.139064
+Tam Tam,"99 N.W. 1st St., Miami, 33128, USA",$$ · Vietnamese,25.7753,-80.19496
+Kaori,"871 S. Miami Ave., Miami, 33130, USA","$$$ · Asian, Japanese",25.76575,-80.19315
+Natsu,"777 N. Orange Ave., Ste. C, Orlando, 32801, USA","$$$$ · Japanese, Sushi",28.554019,-81.378946
+Evelyn's,"525 N. Fort Lauderdale Beach Blvd., Fort Lauderdale, 33304, USA",$$$ · Mediterranean Cuisine,26.130162,-80.104129
+Kōsen,"307 W. Palm Ave., Tampa, 33602, USA","$$$$ · Japanese, Sushi",27.962444,-82.464046
+Beauty & the Butcher,"6915 S.W. 57th Ave., S. Red Rd., Coral Gables, 33143, USA","$$$ · Contemporary, American",25.704335,-80.289497
+Sorekara,"4979 New Broad St., Orlando, 32814, USA","$$$$ · Japanese, Contemporary",28.568867,-81.326313
+Yummy House,"2620 E. Hillsborough Ave., Tampa, 33610, USA","$$ · Chinese, Dim Sum",27.996469,-82.430084
+Krüs Kitchen,"3413 Main Hwy., Miami, 33133, USA","$$$ · Contemporary, Deli",25.727665,-80.24251
+Ponte,"1010 Gramercy Ln., Tampa, 33607, USA","$$$$ · Contemporary, American",27.952599,-82.503604
+Los Félix,"3413 Main Hwy., Miami, 33133, USA","$$$ · Mexican, Regional Cuisine",25.727665,-80.24251
+Sunny’s Steakhouse,"7357 N.W. Miami Ct., Miami, 33150, USA",$$$$ · Steakhouse,25.84286,-80.19713
+Cafe La Trova,"971 S.W. 8th St., Miami, 33130, USA","$$$ · Cuban, Latin American",25.76626,-80.21053
+Olivia,"3601 W. Swann Ave., Tampa, 33609, USA",$$ · Italian,27.937818,-82.502034
+Le Jardinier Miami,"151 N.E. 41st St., Ste. 135, Miami, 33137, USA","$$$$ · French, Contemporary",25.814198,-80.19235
+Cote Miami,"3900 N.E. 2nd Ave., Miami, 33137, USA","$$$ · Korean, Steakhouse",25.813055,-80.191599
+Bacán,"6100 Wave Hotel Dr., Orlando, 32827, USA",$$$ · Latin American,28.373862,-81.281563
+Ariete,"3540 Main Hwy., Miami, 33133, USA",$$$$ · Contemporary,25.725244,-80.245046
+Black Rooster Taqueria,"1323 N. Mills Ave., Orlando, 32803, USA",$$ · Mexican,28.562957,-81.364272
+Doce Provisions,"541 S.W. 12th Ave., Miami, 33130, USA",$$ · Cuban,25.767891,-80.214324
+Bombay Street Kitchen,"6215 S. Orange Blossom Trl., Orlando, 32809, USA",$$ · Indian,28.466889,-81.396262
+Mise en Place,"442 W. Grand Central Ave., Tampa, 33606, USA","$$$ · International, Contemporary",27.944581,-82.464594
+Chug's Diner,"3444 Main Hwy., Ste. 21, Miami, 33133, USA",$$ · Cuban,25.727313,-80.243283
+Hakkasan Miami,"4441 Collins Ave., Miami Beach, 33140, USA","$$$ · Chinese, Contemporary",25.818235,-80.12204
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Soseki,"955 W. Fairbanks Ave., Winter Park, 32789, USA","$$$$ · Fusion, Sushi",28.593257,-81.361751
+Pizza Bruno,"3990 Curry Ford Rd., Orlando, 32806, USA",$$ · Pizza,28.52385,-81.33543
+Victoria & Albert's,"4401 Floridian Way, Orlando, 32830, USA",$$$$ · Contemporary,28.410949,-81.588028
+Kai Asian Street Fare,"1555 State Rd. 436, Orlando, 32792, USA",$$ · Asian,28.623294,-81.315547
+Strand,"807 N. Mills Ave., Orlando, 32803, USA","$$ · American, Contemporary",28.555456,-81.364198
+The Surf Club Restaurant,"9011 Collins Ave., Surfside, 33154, USA",$$$$ · American,25.877697,-80.121449
+Phuc Yea,"7100 Biscayne Blvd., Miami, 33138, USA",$$ · Vietnamese,25.84053,-80.18453
+The Ravenous Pig,"565 W. Fairbanks Ave., Winter Park, 32789, USA",$$ · Gastropub,28.593333,-81.35597
+Sushi Yasu Tanaka,"140 N.E. 39th St., Ste. 241, Miami, 33137, USA","$$ · Japanese, Sushi",25.812134,-80.192231
+Joe's Stone Crab,"11 Washington Ave., Miami Beach, 33139, USA",$$$ · Seafood,25.768854,-80.135039
+Z Asian,"1830 E. Colonial Dr., Ste. B, Orlando, 32803, USA",$$ · Vietnamese,28.552976,-81.357625
+Chalong,"749 9th Ave., New York, 10019, USA","$$$ · Thai, Southern Thai",40.763951,-73.988937
+il Gigante,"880 Woodward Ave., Queens, 11385, USA",$$ · Italian,40.702343,-73.901643
+La Tête d’Or,"318 Park Ave. S., New York, 10010, USA","$$$$ · Steakhouse, American",40.74072,-73.98621
+Heroes,"357 W. Broadway, New York, 10013, USA",$$$ · Contemporary,40.722933,-74.003048
+Chez Fifi,"140 E. 74th St., New York, 10021, USA",$$$$ · French,40.771695,-73.96155
+Ly Ly Vietnam Cookhouse,"306 E. 81st St., New York, 10028, USA",$$ · Vietnamese,40.774299,-73.953697
+Crane Club,"85 10th Ave., New York, 10011, USA",$$$$ · Steakhouse,40.743201,-74.007898
+Sempre Oggi,"164 W. 75th St., New York, 10023, USA",$$$$ · Italian,40.780302,-73.979902
+Sinsa,"95 2nd Ave., New York, 10003, USA",$$$ · Korean,40.7272,-73.98892
+Crevette,"10 Downing St., New York, 10014, USA","$$$ · Seafood, Spanish",40.729382,-74.002835
+Hyderabadi Zaiqa,"366 W. 52nd St., New York, 10019, USA",$ · Indian,40.764411,-73.98761
+Smithereens,"414 E. 9th St., New York, 10009, USA",$$$ · Seafood,40.727795,-73.984181
+La Dong,"11 E. 17th St., New York, 10003, USA",$$ · Vietnamese,40.737673,-73.991227
+Santi,"11 E. 53rd St., New York, 10022, USA",$$$$ · Italian Contemporary,40.760157,-73.974762
+Cafe Commerce,"964 Lexington Ave., New York, 10021, USA","$$$ · American, French Contemporary",40.769415,-73.963198
+Feld,"2018 W. Chicago Ave., Chicago, 60622, USA","$$$$ · Contemporary, Farm to table",41.89609,-87.67785
+Joo Ok,"22 W. 32nd St., 16th Fl., New York, 10001, USA","$$$$ · Korean, Contemporary",40.747553,-73.986916
+Bungalow,"24 1st Ave., New York, 10009, USA",$$$ · Indian,40.723612,-73.98783
+Odre,"199 2nd Ave., New York, 10003, USA",$$ · Korean,40.731424,-73.985954
+Shota Omakase,"50 S. 3rd St., Brooklyn, 11249, USA","$$$$ · Japanese, Sushi",40.713722,-73.966385
+Bar Miller,"620 E. 6th St., New York, 10009, USA","$$$$ · Japanese, Sushi",40.723994,-73.980799
+Covacha,"368 Columbus Ave., New York, 10024, USA","$$ · Mexican, Regional Cuisine",40.780959,-73.976427
+Neta Shari,"1718 86th St., Brooklyn, 11214, USA","$$$$ · Japanese, Sushi",40.60815,-74.004494
+Noz 17,"458 W. 17th St., New York, 10011, USA","$$$$ · Japanese, Sushi",40.743838,-74.006569
+Torrisi,"275 Mulberry St., New York, 10012, USA","$$$$ · Contemporary, Italian-American",40.724221,-73.995391
+Sami & Susu,"190 Orchard St., New York, 10002, USA",$$ · Mediterranean Cuisine,40.722095,-73.988024
+César,"333 Hudson St., New York, 10013, USA","$$$$ · Contemporary, Seafood",40.727179,-74.007656
+Vestry,"246 Spring St., New York, 10013, USA","$$$$ · Contemporary, Modern Cuisine",40.725419,-74.005438
+Mesiba,"353 Bedford Ave., Brooklyn, 11211, USA","$$$ · Middle Eastern, Regional Cuisine",40.711656,-73.962833
+Kebab aur Sharab,"247 W. 72nd St., New York, 10023, USA","$$$ · Indian, Regional Cuisine",40.779535,-73.983303
+Sushi Ikumi,"135 Sullivan St., New York, 10012, USA","$$$$ · Japanese, Sushi",40.726734,-74.001916
+Jupiter,"20 W. 50th St., New York, 10020, USA",$$$ · Italian,40.75883,-73.97833
+Nudibranch,"125 First Ave., New York, 10003, USA","$$ · Contemporary, Asian",40.7274,-73.985708
+Cómodo,"23 Lexington Ave., New York, 10010, USA","$$ · Latin American, Regional Cuisine",40.739803,-73.984358
+Rosella,"137 Avenue A, New York, 10009, USA","$$$ · Japanese, Sushi",40.727091,-73.982961
+Ci Siamo,"440 W. 33rd St., Ste. 100, New York, 10001, USA",$$$ · Italian,40.752866,-73.998718
+Lord's,"506 Laguardia Pl., New York, 10012, USA","$$$ · English, Contemporary",40.727718,-73.999526
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Lungi,"1136 1st Ave., New York, 10065, USA","$$$ · Sri Lankan, Indian",40.761677,-73.960177
+Badageoni,"26 E. Main St., Mount Kisco, 10549, USA","$$ · Central Asian, Regional Cuisine",41.208189,-73.727984
+Kanyakumari,"20 E. 17th St., New York, 10003, USA","$$$ · Indian, Regional Cuisine",40.737319,-73.991208
+Raf's,"290 Elizabeth St., New York, 10012, USA",$$$$ · European,40.724688,-73.993149
+Theodora,"7 Greene Ave., Brooklyn, 11238, USA",$$ · Mediterranean Cuisine,40.686044,-73.973044
+Osteria Padre Pio,"97 Lake St., West Harrison, 10604, USA","$$$ · Italian, Campanian",41.04308,-73.747069
+Augustine’s Salumeria,"213 Halstead Ave., Mamaroneck, 10543, USA","$$$ · Contemporary, Italian",40.953585,-73.73577
+Gus's Chop House,"215 Union St., Brooklyn, 11231, USA",$$$ · Steakhouse,40.6835,-73.9993
+63 Clinton,"63 Clinton St., New York, 10002, USA",$$$$ · Contemporary,40.719491,-73.985074
+Nura,"46 Norman Ave., Brooklyn, 11211, USA",$$$ · Fusion,40.724664,-73.95371
+R40,"47-16 Vernon Blvd., Queens, 11101, USA",$$$ · Argentinian,40.745024,-73.953566
+odo,"17 W. 20th St., New York, 10011, USA","$$$$ · Japanese, Contemporary",40.740371,-73.992187
+Emilio's Ballato,"55 E. Houston St., New York, 10012, USA","$$$ · Italian-American, Italian",40.724582,-73.994448
+O Mandarin Chinese,"361 N. Central Ave., Hartsdale, 10530, USA","$$$ · Chinese, Sichuan",41.029541,-73.790579
+Win Son,"159 Graham Ave., Brooklyn, 11206, USA","$$$ · Chinese, Taiwanese",40.707455,-73.943432
+Peppercorn Station,"66 W. 39th St., New York, 10018, USA","$$ · Chinese, Sichuan",40.75267,-73.985142
+OKO Rye,"29 Purchase St., Rye, 10580, USA","$$$ · Asian, Japanese",40.982524,-73.684523
+MayRee,"58 E. 1st St., New York, 10003, USA","$$ · Thai, Regional Cuisine",40.72386,-73.989201
+Chambers,"94 Chambers St., New York, 10007, USA",$$$ · Contemporary,40.714581,-74.00755
+Zaab Zaab,"76-04 Woodside Ave., Queens, 11373, USA","$$ · Thai, Isan",40.74331,-73.88865
+Cha Kee,"43 Mott St., New York, 10013, USA",$$ · Asian,40.715216,-73.99893
+Le Jardinier New York,"610 Lexington Ave., New York, 10022, USA","$$$$ · French, Contemporary",40.689259,-73.935436
+Rezdôra,"27 E. 20th St., New York, 10003, USA","$$$$ · Italian, Regional Cuisine",40.739044,-73.989073
+Saint Julivert Fisherie,"264 Clinton St., Brooklyn, 11201, USA","$$$ · Seafood, Spanish",40.687884,-73.995683
+The Grill,"99 E. 52nd St., New York, 10022, USA","$$$$ · American, American Contemporary",40.758167,-73.971952
+Hirohisa,"73 Thompson St., New York, 10012, USA","$$$$ · Japanese, Classic Cuisine",40.724563,-74.003093
+Café Carmellini,"250 Fifth Ave., New York, 10001, USA","$$$ · Mediterranean Cuisine, American",40.744935,-73.987502
+Foxface Natural,"189 Avenue A, New York, 10009, USA",$$$ · Creative,40.72898,-73.981645
+The Lambs Club,"132 W. 44th St., New York, 10036, USA",$$$$ · Steakhouse,40.756615,-73.984578
+Ishq,"202 Ave. A., New York, 10009, USA",$$$ · Indian,40.729344,-73.980838
+Daphne's,"299 Halsey St., Brooklyn, 11216, USA","$$ · Italian-American, Contemporary",40.682982,-73.941106
+La Bastide by Andrea Calstier,"721 Titicus Rd., North Salem, 10560, USA",$$$$ · French,41.337018,-73.563308
+Dame,"87 MacDougal St., New York, 10012, USA","$$$ · Seafood, Contemporary",40.729049,-74.001428
+Agi's Counter,"818 Franklin Ave., Brooklyn, 11225, USA","$$ · Creative, Hungarian",40.669991,-73.958368
+Shmoné,"61 W. 8th St., New York, 10011, USA","$$$$ · Israeli, Middle Eastern",40.733511,-73.999077
+Jiang Nan,"133-42 39th Ave., Queens, 11354, USA","$$ · Chinese, Regional Cuisine",40.759348,-73.832761
+For All Things Good,"343 Franklin Ave., Brooklyn, 11238, USA",$ · Mexican,40.687622,-73.95682
+SaRanRom Thai,"8110 Broadway, Queens, 11373, USA",$$ · Thai,40.743125,-73.883637
+The Orchard Townhouse,"242 Tenth Ave., New York, 10001, USA",$$$ · Contemporary,40.748331,-74.003337
+Yellow Rose,"102 Third Ave., New York, 10003, USA",$$ · Tex-Mex,40.73252,-73.987994
+Massara,"913 Broadway, New York, 10010, USA","$$$ · Italian, Regional Cuisine",40.739632,-73.989865
+Gordo's Cantina,"140 St. Nicholas Ave., Brooklyn, 11237, USA",$$ · Mexican,40.704925,-73.917609
+See No Evil Pizza,"210 W. 50th St., New York, 10019, USA","$$ · Pizza, American Contemporary",40.761492,-73.984467
+Sawa,"75 5th Ave, Brooklyn, 11217, USA","$$ · Middle Eastern, Lebanese",40.680407,-73.977472
+Sushi Sho,"3 E. 41st St., New York, 10017, USA","$$$$ · Sushi, Japanese",40.752559,-73.980751
+Four Twenty Five,"425 Park Ave., New York, 10022, USA",$$$$ · Contemporary,40.760432,-73.971124
+Carlotto,"100 E. 19th St., New York, 10003, USA","$$$ · Contemporary, Italian-American",40.7375,-73.98782
+Inga's Bar,"66 Hicks St., Brooklyn, 11201, USA",$$$ · American,40.699965,-73.993753
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Corima,"3 Allen St., New York, 10002, USA","$$$$ · Mexican, Contemporary",40.714673,-73.993098
+Le Pavillon,"1 Vanderbilt Ave., New York, 10017, USA","$$$$ · Contemporary, French",40.752854,-73.978521
+Lingo,"27 Greenpoint Ave., Brooklyn, 11222, USA","$$ · Japanese, American",40.729834,-73.959722
+Bonnie's,"398 Manhattan Ave., Brooklyn, 11211, USA","$$$ · Cantonese, American",40.717815,-73.946459
+Archie's Tap & Table,"536 City Island Ave., Bronx, 10464, USA","$$ · American, Contemporary",40.853101,-73.789552
+8282,"84 Stanton St., New York, 10002, USA","$$ · Korean, Fusion",40.721612,-73.988758
+Hupo,"1007 50th Ave., Queens, 11101, USA","$$ · Chinese, Sichuan",40.74279,-73.95361
+Jua,"36 E. 22nd St., New York, 10010, USA","$$$$ · Korean, Korean Contemporary",40.739721,-73.98781
+Tong,"321 Starr St., Brooklyn, 11237, USA",$$ · Thai,40.707984,-73.920471
+Rolo's,"853 Onderdonk Ave., Queens, 11385, USA",$$ · American,40.701885,-73.903429
+Hyun,"10 E. 33rd St., New York, 10016, USA","$$$$ · Korean, Steakhouse",40.747349,-73.984476
+53,"53 W. 53rd St., New York, 10019, USA","$$$$ · Asian, Contemporary",40.76177,-73.978212
+Cardamom,"43-45 43rd St., Queens, 11104, USA",$$ · Indian,40.743911,-73.921226
+One White Street,"1 White St., New York, 10013, USA",$$$$ · Contemporary,40.719281,-74.005969
+Soothr,"204 E. 13th St., New York, 10003, USA",$$ · Thai,40.7323,-73.98733
+bōm,"17 W. 19th St., New York, 10011, USA","$$$$ · Korean, Contemporary",40.73964,-73.99242
+Çka Ka Qëllu,"2321 Hughes Ave., Bronx, 10458, USA","$$ · Balkan, Country cooking",40.853906,-73.888154
+Jungsik New York,"2 Harrison St., New York, 10013, USA","$$$$ · Korean, Contemporary",40.718772,-74.009181
+Red Paper Clip,"120 Christopher St., New York, 10014, USA",$$$$ · Contemporary,40.733071,-74.00559
+Popina,"127 Columbia St., Brooklyn, 11231, USA","$$$ · Italian, Southern",40.687312,-74.001364
+Burrata,"425 White Plains Rd., Eastchester, 10709, USA","$$ · Italian-American, Pizza",40.95638,-73.813905
+Maria Restaurant,"11 Huguenot St., New Rochelle, 10801, USA","$$ · Italian, Italian-American",40.914272,-73.773682
+Haenyeo,"239 Fifth Ave., Brooklyn, 11215, USA","$$ · Korean, Korean Contemporary",40.675165,-73.981095
+Per Se,"10 Columbus Circle, New York, 10019, USA","$$$$ · Contemporary, French",40.768228,-73.983129
+Mint Premium Foods,"19 Main St., Tarrytown, 10591, USA","$$$ · Mediterranean Cuisine, Gastropub",41.076725,-73.8592
+Chuan Tian Xia,"5502 Seventh Ave., Brooklyn, 11220, USA","$$ · Chinese, Sichuan",40.639668,-74.009087
+Tuome,"536 E. 5th St., New York, 10009, USA","$$$ · Fusion, Asian Contemporary",40.724048,-73.982922
+Via Carota,"51 Grove St., New York, 10014, USA",$$ · Italian,40.733099,-74.00369
+Kanoyama,"175 Second Ave., New York, 10003, USA","$$$$ · Japanese, Sushi",40.730682,-73.986513
+Roberta's,"261 Moore St., Brooklyn, 11206, USA",$$ · Pizza,40.705084,-73.933547
+Alley 41,"136-45 41st Ave., Queens, 11355, USA","$$ · Chinese, Sichuan",40.759074,-73.827968
+4 Charles Prime Rib,"4 Charles St., New York, 10014, USA",$$$$ · Steakhouse,40.73515,-74.000654
+King,"18 King St., New York, 10014, USA","$$$ · Mediterranean Cuisine, Italian",40.727509,-74.003448
+Eulalie,"239 West Broadway, New York, 10013, USA","$$$ · French, Classic French",40.71958,-74.005812
+Miss Mamie's Spoonbread Too,"366 W. 110th St., New York, 10025, USA","$$ · Southern, American",40.80146,-73.96088
+Meadowsweet,"149 Broadway, Brooklyn, 11211, USA","$$$$ · Mediterranean Cuisine, American Contemporary",40.710395,-73.963135
+Tanoreen,"7523 Third Ave., Brooklyn, 11209, USA",$$ · Middle Eastern,40.63081,-74.027825
+The Modern,"9 W. 53rd St., New York, 10019, USA",$$$$ · Contemporary,40.760973,-73.976832
+Norma Gastronomia Siciliana,"438 Third Ave., New York, 10016, USA","$$ · Italian, Sicilian",40.743535,-73.979994
+Chutney Masala,"76 Main St., Irvington, 10533, USA","$$ · Indian, Regional Cuisine",41.03909,-73.868597
+Pylos,"128 E. 7th St., New York, 10009, USA",$$$ · Greek,40.726125,-73.984113
+MáLà Project,"122 First Ave., New York, 10009, USA","$$ · Chinese, Sichuan",40.727105,-73.985358
+Alta Calidad,"552 Vanderbilt Ave., Brooklyn, 11238, USA","$$ · Mexican, Contemporary",40.680124,-73.968238
+JoJo,"160 E. 64th St., New York, 10065, USA",$$$ · Contemporary,40.7651,-73.965684
+Chef's Table at Brooklyn Fare,"431 W. 37th St., New York, 10018, USA",$$$$ · Contemporary,40.756137,-73.996419
+Sushi Noz,"181 E. 78th St., New York, 10075, USA","$$$$ · Japanese, Sushi",40.773849,-73.958131
+Ivan Ramen,"25 Clinton St., New York, 10002, USA","$$ · Japanese, Ramen",40.720566,-73.984496
+Dirt Candy,"86 Allen St., New York, 10002, USA","$$$$ · Vegetarian, Vegan",40.717885,-73.990743
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Ernesto's,"259 E. Broadway, New York, 10002, USA",$$$$ · Spanish,40.714272,-73.985439
+Dubrovnik,"721 Main St., New Rochelle, 10801, USA","$$ · Croatian, Seafood",40.90362,-73.789225
+Sofreh,"75 St. Marks Ave., Brooklyn, 11217, USA","$$$ · Persian, Regional Cuisine",40.679922,-73.973957
+Tobalá,"3732 Riverdale Ave., Bronx, 10463, USA","$$$ · Mexican, Regional Cuisine",40.887505,-73.90694
+HAGS,"163 First Ave., New York, 10003, USA","$$$$ · Contemporary, Innovative",40.728983,-73.984611
+Casa Mono,"52 Irving Pl., New York, 10003, USA","$$$ · Spanish, Contemporary",40.735885,-73.987095
+Atomix,"104 E. 30th St., New York, 10016, USA","$$$$ · Korean, Contemporary",40.744246,-73.982834
+Kosaka,"220 W. 13th St., New York, 10011, USA","$$$$ · Japanese, Sushi",40.738235,-74.001442
+Daniel,"60 E. 65th St., New York, 10065, USA",$$$$ · French,40.766779,-73.96757
+Le Gigot,"18 Cornelia St., New York, 10014, USA",$$$ · French,40.731372,-74.001938
+Restaurant Yuu,"55 Nassau Ave., Brooklyn, 11222, USA","$$$$ · French Contemporary, Japanese",40.723433,-73.952435
+The Four Horsemen,"295 Grand St., Brooklyn, 11211, USA","$$$$ · American, Californian",40.713106,-73.957277
+Hart's,"506 Franklin Ave., Brooklyn, 11238, USA",$$ · Mediterranean Cuisine,40.681454,-73.955885
+Falansai,"112 Harrison Pl., Brooklyn, 11237, USA",$$ · Vietnamese,40.706702,-73.928751
+Taverna Kyclades,"36-01 Ditmars Blvd., Queens, 11105, USA",$$ · Greek,40.774415,-73.907903
+Runner & Stone,"285 Third Ave., Brooklyn, 11215, USA","$$ · Contemporary, Bakery",40.67721,-73.98592
+Cervo’s,"43 Canal St., New York, 10002, USA","$$$ · Spanish, Seafood",40.714884,-73.991334
+Dons Bogam,"17 E. 32nd St., New York, 10016, USA","$$ · Korean, Barbecue",40.74678,-73.98437
+Atoboy,"43 E. 28th St., New York, 10016, USA","$$$$ · Korean, Contemporary",40.743639,-73.98456
+Sobaya,"229 E. 9th St., New York, 10003, USA","$ · Japanese, Soba",40.729619,-73.987909
+Seis Vecinos,"640 Prospect Ave., Bronx, 10455, USA","$$ · Latin American, Regional Cuisine",40.815249,-73.9032
+East Harbor Seafood Palace,"714-726 65th St., Brooklyn, 11220, USA","$$ · Chinese, Dim Sum",40.624727,-73.99944
+Bridges,"9 Chatham Sq., New York, 10038, USA",$$$ · Contemporary,40.713988,-73.998041
+Veerays,"213 E. 45th St., New York, 10017, USA",$$$$ · Indian,40.752568,-73.972315
+The Dining Room at The Guesthouse,"55 Gansevoort St., New York, 10014, USA",$$$$ · Contemporary,40.739508,-74.006887
+Tha Phraya,"1553 2nd Ave., New York, 10028, USA",$$ · Thai contemporary,40.774508,-73.954482
+Little Myanmar,"150 E. 2nd St., New York, 10009, USA",$$ · Burmese,40.722991,-73.98549
+L’Abeille,"412 Greenwich St., New York, 10013, USA","$$$$ · French, Contemporary",40.721881,-74.00997
+Le Rock,"45 Rockefeller Plaza, New York, 10111, USA","$$$$ · Contemporary, French",40.759265,-73.977693
+Towa,"36 W. 26th St., New York, 10010, USA","$$$ · Japanese, Contemporary",40.744264,-73.990601
+Kyma,"15 W. 18th St., New York, 10011, USA","$$$ · Greek, Seafood",40.73907,-73.992837
+Octo,"1 E. 33rd St., New York, 10016, USA","$$ · Asian Contemporary, Fusion",40.747676,-73.984419
+Melba's,"300 W. 114th St., New York, 10026, USA","$$ · Southern, American",40.803142,-73.956636
+Family Meal at Blue Hill,"75 Washington Pl., New York, 10011, USA",$$$$ · American,40.73207,-73.999646
+Loring Place,"21 W. 8th St., New York, 10011, USA",$$$ · American,40.732959,-73.997546
+aRoqa,"206 Ninth Ave., New York, 10011, USA","$$$ · Indian, Contemporary",40.746065,-74.001318
+Carbone,"181 Thompson St., New York, 10003, USA","$$$$ · Italian, Italian-American",40.727982,-74.000163
+Momofuku Noodle Bar,"171 First Ave., New York, 10003, USA",$$ · Asian,40.729218,-73.984447
+I Sodi,"314 Bleecker St., New York, 10014, USA",$$$ · Italian,40.732799,-74.00402
+Junoon,"19 W. 24th St., New York, 10010, USA","$$$ · Indian, Contemporary",40.742978,-73.990475
+Penny,"90 E. 10th St., New York, 10003, USA",$$$ · Seafood,40.730815,-73.989721
+Moono,"29 E. 32nd St., New York, 10016, USA",$$$ · Korean,40.746434,-73.983311
+Cecily,"80 Franklin St., Brooklyn, 11222, USA",$$ · American,40.727325,-73.956915
+Oceans,"233 Park Ave. S., New York, 10003, USA","$$$ · Seafood, Contemporary",40.737475,-73.988
+Ulivo,"4 W. 28th St., New York, 10001, USA","$$$ · Italian, Sardinian",40.744809,-73.987979
+Nami Nori,"33 Carmine St., New York, 10014, USA","$ · Japanese, Creative",40.730199,-74.003258
+Portale,"126 W. 18th St., New York, 10011, USA","$$$ · Italian, Contemporary",40.74022,-73.99628
+Francie,"134 Broadway, Brooklyn, 11249, USA","$$$$ · Contemporary, Italian",40.71009,-73.964102
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Dhamaka,"119 Delancey St., New York, 10002, USA",$$ · Indian,40.718193,-73.987772
+Crown Shy,"70 Pine St., New York, 10005, USA","$$$ · Contemporary, American",40.706446,-74.00766
+Cafe Sabarsky,"1048 Fifth Ave., New York, 10028, USA",$$ · Austrian,40.781277,-73.960285
+Oxomoco,"128 Greenpoint Ave., Brooklyn, 11222, USA","$$$ · Mexican, Contemporary",40.72987,-73.955479
+Yoshino,"342 Bowery, New York, 10012, USA","$$$$ · Japanese, Sushi",40.726215,-73.99215
+Farra,"71 Worth St., New York, 10013, USA",$$$ · Contemporary,40.717017,-74.005826
+Tredici Social,"104 Kraft Ave., Bronxville, 10708, USA","$$ · American, Italian",40.940499,-73.834256
+Purdy's Farmer & the Fish,"100 Titicus Rd., North Salem, 10560, USA","$$$ · Seafood, American",41.328263,-73.655661
+MP Taverna,"1 Bridge St., Irvington, 10533, USA","$$$ · Greek, Mediterranean Cuisine",41.039641,-73.873749
+Sagara,"98 Victory Blvd., Staten Island, 10301, USA",$ · Sri Lankan,40.637635,-74.079694
+Rafele Rye,"26 Purchase St., Rye, 10580, USA","$$ · Italian, Italian-American",40.982667,-73.684337
+Mari,"679 Ninth Ave., New York, 10036, USA",$$$$ · Korean,40.761535,-73.990645
+Mission Ceviche,"1400 Second Ave., New York, 10021, USA",$$$ · Peruvian,40.769271,-73.95779
+Chick Chick,"618 Amsterdam Ave., New York, 10024, USA","$$ · Asian, Chicken Specialities",40.79022,-73.97339
+Icca,"20 Warren St., New York, 10007, USA","$$$$ · Japanese, Sushi",40.714257,-74.00771
+Genesis House Restaurant,"40A Tenth Ave., New York, 10014, USA","$$$ · Korean, Korean Contemporary",40.741575,-74.008313
+Saga,"70 Pine St., New York, 10005, USA",$$$$ · Contemporary,40.706446,-74.00766
+HanGawi,"12 E. 32nd St., New York, 10016, USA","$$ · Korean, Vegetarian",40.7466,-73.984766
+The River Café,"1 Water St., Brooklyn, 11201, USA",$$$$ · Contemporary,40.703175,-73.994644
+Gage & Tollner,"372 Fulton St., Brooklyn, 11201, USA","$$$ · Steakhouse, American",40.691398,-73.987798
+Sailor,"228 Dekalb Ave., Brooklyn, 11205, USA",$$$ · American,40.689393,-73.970299
+ILIS,"150 Green St., Brooklyn, 11222, USA","$$$$ · Scandinavian, Contemporary",40.733484,-73.955528
+Szechuan Gourmet,"21 W. 39th St., New York, 10018, USA","$$ · Chinese, Sichuan",40.752314,-73.983585
+Shalom Japan,"301 S. 4th St., Brooklyn, 11211, USA","$$ · Fusion, Asian",40.70934,-73.95564
+Pranakhon,"88 University Pl., New York, 10003, USA",$$$ · Thai,40.73375,-73.993233
+Café Alaia,"128 Garth Rd., Scarsdale, 10583, USA","$$ · Italian, Italian-American",40.985616,-73.810353
+La Devozione: The Oval,"428 W. 16th St., New York, 10011, USA",$$$$ · Italian,40.74275,-74.00579
+Tsukimi,"288 E. 10th St., New York, 10003, USA","$$$$ · Japanese, Seasonal Cuisine",40.727907,-73.982719
+Kung Fu Little Steamed Buns Ramen,"811 Eighth Ave., New York, 10019, USA","$ · Chinese, Dumplings",40.761598,-73.986832
+Chola,"232 E. 58th St., New York, 10022, USA","$$$ · Indian, Regional Cuisine",40.760215,-73.965786
+Shabushabu Mayumon,"115 Division St., New York, 10002, USA","$$$$ · Japanese, Shabu-shabu",40.7143,-73.992061
+Southern Table,"39 Marble Ave., Pleasantville, 10570, USA","$$ · Southern, American",41.13191,-73.79131
+El Fish Marisqueria,"155 Amsterdam Ave., New York, 10023, USA","$$$ · Mexican, Seafood",40.775286,-73.983816
+Madre,"214 Franklin St., Brooklyn, 11222, USA","$$$ · Contemporary, American",40.733061,-73.957905
+Peak,"30 Hudson Yards, New York, 10001, USA",$$$$ · Contemporary,40.75353,-74.0009
+Sushi Amane,"245 E. 44th St., New York, 10017, USA","$$$$ · Japanese, Sushi",40.751601,-73.971763
+Una Pizza Napoletana,"175 Orchard St., New York, 10002, USA",$$ · Pizza,40.721739,-73.988578
+Vert Frais,"43-10 Crescent St., Queens, 11101, USA",$$ · Japanese,40.748698,-73.942719
+L’abeille à Côté,"412 Greenwich St., New York, 10013, USA","$$$$ · French, Asian",40.721881,-74.00997
+YingTao,"805 9th Ave., New York, 10019, USA","$$$$ · Contemporary, Chinese",40.765706,-73.987674
+Naro,"610 Fifth Ave., New York, 10012, USA",$$$$ · Korean,40.758194,-73.977863
+LORE,"441 7th Ave., Brooklyn, 11215, USA","$$ · Contemporary, South East Asian",40.66309,-73.984453
+Le Bernardin,"155 W. 51st St., New York, 10019, USA",$$$$ · Seafood,40.761402,-73.981719
+Asian Jewels,"133-30 39th Ave., Queens, 11354, USA","$$ · Chinese, Dim Sum",40.75924,-73.833397
+Tamarind,"99 Hudson St., New York, 10013, USA",$$$ · Indian,40.719094,-74.008986
+The Musket Room,"265 Elizabeth St., New York, 10012, USA","$$$$ · Contemporary, American Contemporary",40.723935,-73.993843
+abcV,"38 E. 19th St., New York, 10003, USA","$$$ · Vegetarian, Contemporary",40.738054,-73.989199
+Cosme,"35 E. 21st St., New York, 10010, USA","$$$$ · Mexican, Contemporary",40.739513,-73.988411
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225
+Dim Sum Go Go,"5 E. Broadway, New York, 10038, USA","$$ · Chinese, Dim Sum",40.713265,-73.997736
+Russ & Daughters Cafe,"127 Orchard St., New York, 10002, USA",$$ · American,40.719644,-73.989643
+Claro,"284 Third Ave., Brooklyn, 11215, USA",$$$ · Mexican,40.67741,-73.98622
+Marea,"240 Central Park South, New York, 10019, USA","$$$$ · Seafood, Italian",40.767417,-73.981202
+Manhatta,"28 Liberty St., New York, 10005, USA","$$$$ · Contemporary, American",40.707909,-74.008989
+Tonchin,"13 W. 36th St., New York, 10018, USA","$ · Japanese, Ramen",40.750273,-73.984511
+Goosefeather,"49 E. Sunnyside Ln., Tarrytown, 10591, USA","$$$ · Cantonese, Asian",41.050942,-73.857835
+Red Hook Tavern,"329 Van Brunt St., Brooklyn, 11231, USA",$$$ · American,40.67788,-74.01209
+Seppe Pizza Bar,"3 Navy Pier Ct., Staten Island, 10304, USA",$$ · Pizza,40.629026,-74.074321
+Seoul Salon,"28 W. 33rd St., New York, 10001, USA","$$$ · Korean, Contemporary",40.748329,-73.986631
+Oiji Mi,"17 W. 19th St., New York, 10011, USA","$$$$ · Korean, Contemporary",40.73964,-73.99242
+Chama Mama,"149 W. 14th St., New York, 10011, USA",$$ · Central Asian,40.738459,-73.99888
+J.G. Melon,"1291 Third Ave., New York, 10021, USA",$ · American,40.77107,-73.959356
+Le Veau d'Or,"129 E. 60th St., New York, 10022, USA",$$$ · French,40.763203,-73.968105
+Cafe Mado,"791 Washington Ave., Brooklyn, 11238, USA",$ · American Contemporary,40.672865,-73.962548
+Bayon,"408 E. 64th St., New York, 10065, USA",$ · Cambodian,40.762325,-73.959097
+Bangkok Supper Club,"641 Hudson St., New York, 10014, USA",$$$ · Thai,40.739033,-74.005745
+Superiority Burger,"119 Avenue A, New York, 10009, USA","$$ · Vegetarian, Contemporary",40.726469,-73.983503
+C as in Charlie,"5 Bleecker St., New York, 10012, USA",$$ · Fusion,40.725475,-73.992686
+Essential by Christophe,"103 W. 77th St., New York, 10024, USA","$$$$ · French Contemporary, Contemporary",40.780904,-73.976645
+Cadence,"111 E. 7th St., New York, 10009, USA","$$$ · Vegan, Southern",40.726606,-73.984521
+Pierozek,"592 Manhattan Ave., Brooklyn, 11222, USA","$$ · Polish, Dumplings",40.723035,-73.950146
+Dagon,"2454 Broadway, New York, 10024, USA","$$$ · Mediterranean Cuisine, Middle Eastern",40.791251,-73.973939
+Caleta 111 Cevicheria,"111-27 Jamaica Ave., Queens, 11418, USA",$$ · Peruvian,40.697463,-73.83656
+CheLi,"19 St. Marks Pl., New York, 10003, USA","$$ · Chinese, Shanghainese",40.729201,-73.988698
+Ayat,"8501 3rd Ave., Brooklyn, 11209, USA",$$ · Middle Eastern,40.624115,-74.030563
+Forsythia,"9 Stanton St., New York, 10002, USA",$$$$ · Italian,40.722501,-73.9925
+The Leopard at Des Artistes,"1 W. 67th St., New York, 10023, USA","$$$$ · Italian, Contemporary",40.773385,-73.978851
+Place des Fêtes,"212 Greene Ave., Brooklyn, 11238, USA",$$$ · Contemporary,40.686876,-73.962881
+Llama Inn,"50 Withers St., Brooklyn, 11211, USA","$$ · Peruvian, Fusion",40.716677,-73.950483
+Gramercy Tavern,"42 E. 20th St., New York, 10003, USA","$$$$ · Contemporary, American",40.738423,-73.988399
+Sushi Yasuda,"204 E. 43rd St., New York, 10017, USA","$$$$ · Japanese, Sushi",40.750978,-73.973551
+Minetta Tavern,"113 MacDougal St., New York, 10012, USA","$$$ · Steakhouse, American",40.729975,-74.00065
+Secchu Yokota,"199 E. 3rd St., New York, 10009, USA","$$$$ · Japanese, Tempura",40.722832,-73.983108
+Lobster Club,"98 E. 53rd St., New York, 10022, USA","$$$ · Japanese, Contemporary",40.75857,-73.97173
+Lakruwana,"668 Bay St., Staten Island, 10304, USA",$$ · Sri Lankan,40.625709,-74.075309
+Hometown Bar B Que New York,"454 Van Brunt St., Brooklyn, 11231, USA",$$ · Barbecue,40.674903,-74.016121
+Don Antonio,"309 W. 50th St., New York, 10019, USA",$$ · Pizza,40.762694,-73.98663
+Cho Dang Gol,"55 W. 35th St., New York, 10001, USA",$$ · Korean,40.75017,-73.986289
+Enoteca Maria,"27 Hyatt St., Staten Island, 10301, USA","$$ · Italian, International",40.642009,-74.077266
+Barr Avel,ADDRESS WHERE????????????????,€€ · Modern Cuisine,,
+OST,ADDRESS WHERE????????????????,€€ · Modern Cuisine,,
+Le Bon Abri,ADDRESS WHERE????????????????,€€ · Traditional Cuisine,,
+Chez Pierrette,ADDRESS WHERE????????????????,€€ · Modern Cuisine,,
+L'Éclat de Pierre,ADDRESS WHERE????????????????,€€ · Traditional Cuisine,,
+Le Monde des Chimères,ADDRESS WHERE????????????????,"€€ · Creative, Modern Cuisine",,
+Luna,ADDRESS WHERE????????????????,€€ · Modern Cuisine,,
+Argile,ADDRESS WHERE????????????????,€€ · Modern Cuisine,,
+Mirra,"1954 W. Armitage Ave., Chicago, 60622, USA","$$ · Fusion, Mexican",41.917936,-87.677358
+Laliko,"80 Carmine St., New York, 10014, USA",$$ · Central Asian,40.729436,-74.004928
+Mango Bay,"271 Adelphi St., Brooklyn, 11205, USA",$$$ · Caribbean,40.689405,-73.970916
+Taqueria Chingón,"817 W. Fulton Market, Chicago, 60607, USA",$ · Mexican,41.88656,-87.648225

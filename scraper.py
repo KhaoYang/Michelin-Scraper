@@ -88,10 +88,11 @@ def get_coordinates(address):
             return None, None
     except Exception:
         return None, None
-#ahhhhhhhhhhhhhhhhhhhhhhhhh
+
 all_restaurants = []
-for i in range(1, 2):
-    driver.get("http://guide.michelin.com/us/en/restaurants/page/" + str(i))
+for i in range(22, 34):
+    driver.get("https://guide.michelin.com/us/en/selection/united-states/restaurants/page/" + str(i))
+    print(i)
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.link[aria-label][href]")))
     restaurants_page1 = get_restaurant_links()
     all_restaurants += restaurants_page1
@@ -99,7 +100,7 @@ for i in range(1, 2):
 results = []
 result_dict = []
 
-for name, href in all_restaurants[:1]:
+for name, href in all_restaurants:
     driver.get(href)
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.data-sheet__block--text")))
     address = get_address()
@@ -108,10 +109,8 @@ for name, href in all_restaurants[:1]:
     dic = {"name": name, "address": address, "cuisine": cuisine, "coordinates": coordinates}
     result_dict.append(dic)
     print(dic)
-    #results.append((name, address, cuisine))
-    #print(result_dict)
 
-filename = "michelin_restaurants.csv"
+filename = "michelin_restaurants_part2.csv"
 fieldnames = ["name", "address", "cuisine", "latitude", "longitude"]
 with open(filename, mode = 'w', newline = '', encoding = "utf-8") as file:
     writer = csv.DictWriter(file, fieldnames=fieldnames)
@@ -126,17 +125,15 @@ with open(filename, mode = 'w', newline = '', encoding = "utf-8") as file:
             "longitude": lon
         })
 df = pd.read_csv(filename)
-df.to_json("michelin_restaurants.json", orient="records", indent = 2)
+df.to_json("michelin_restaurants_part2.json", orient="records", indent = 2)
 
-with open('michelin_restaurants.json') as f:
+with open('michelin_restaurants_part2.json') as f:
     data = json.load(f)
 
 features = []
 for restaurant in data:
-    # Split into lat/lon
     lat = restaurant['latitude']
     lon = restaurant['longitude']
-
     if lat is not None and lon is not None:
         feature = {
             "type": "Feature",
@@ -153,7 +150,7 @@ geojson = {
     "features": features
 }
 
-with open('michelin_restaurants.geojson', 'w') as f:
+with open('michelin_restaurants_part2.geojson', 'w') as f:
     json.dump(geojson, f, indent=2)
 
 
