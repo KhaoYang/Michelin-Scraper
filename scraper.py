@@ -90,7 +90,7 @@ def get_coordinates(address):
         return None, None
 
 all_restaurants = []
-for i in range(22, 35):
+for i in range(22, 34):
     driver.get("https://guide.michelin.com/us/en/selection/united-states/restaurants/page/" + str(i))
     print(i)
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.link[aria-label][href]")))
